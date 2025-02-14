@@ -30,4 +30,11 @@
 <Row><Cell>ui_codex_name_jan_zizka</Cell><Cell>Jan Zizka</Cell><Cell>扬·杰式卡</Cell></Row>
 <Row><Cell>ui_codex_name_trosecke_rybniky</Cell><Cell>Ponds of the Trosky Region</Cell><Cell>特罗斯基地区的池塘</Cell></Row>
 <Row><Cell>ui_fac_trosecko_settlements_semin_desc</Cell><Cell>Inhabitants of the home fortress of the Lords of Semine. The family of Jan of Semine, their servants, guards and others.</Cell><Cell>住在塞米领主堡垒中的居民，包括扬·塞米及其家属、他们的仆人、卫兵等。</Cell></Row>
+<Row><Cell>buff_perfume_shortStrong</Cell><Cell>Weak Lion Perfume Effect</Cell><Cell>微弱雄狮姿态</Cell></Row>
+<Row><Cell>buff_perfume_shortStrong_2</Cell><Cell>Lion Perfume Effect</Cell><Cell>雄狮姿态</Cell></Row>
+<Row><Cell>buff_perfume_shortStrong_3</Cell><Cell>Strong Lion Perfume Effect</Cell><Cell>强力雄狮姿态</Cell></Row>
+<Row><Cell>buff_perfume_shortStrong_4</Cell><Cell>Henry's Lion Effect</Cell><Cell>亨利的雄狮姿态！！！</Cell></Row>
+<Row><Cell>buff_bard_3</Cell><Cell>Strong Fox Effect</Cell><Cell>强效狐狸药剂效果</Cell></Row>
+<Row><Cell>buff_bard_4</Cell><Cell>Henry's Fox Effect</Cell><Cell>亨利的狐狸药剂效果</Cell></Row>
+<Row><Cell>ui_crime_aggression</Cell><Cell>Endangerment</Cell><Cell>危害他人</Cell></Row>
 </Table>
