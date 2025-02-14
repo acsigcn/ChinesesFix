@@ -316,4 +316,17 @@
 <Row><Cell>ui_set_dice_silver</Cell><Cell>After your throw, you can &lt;strong&gt;change a die of your choosing to a five&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择任意一颗骰子，将其点数更改为5&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
 <Row><Cell>ui_test_dice_badge</Cell><Cell>Using it will &lt;strong&gt;double the score&lt;/strong&gt; of your last roll. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>使用后将你所选骰子的&lt;strong&gt;分数翻倍&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
 <Row><Cell>zizkaletter_fromsokolneba_fveV</Cell><Cell>&lt;paragraph&gt;My dear friend, unfortunately we will not meet as planned because the recent events in the Kingdom of Hungary have forced me to stay in Moravia. Of course, I cannot entrust more details to letters, but I am sure you will understand what I mean when I say the hunters are already gathering and the fox hunt will soon begin.&lt;/paragraph&gt;&lt;paragraph&gt;Along with the letter, I send you my shield, as there is no need to hide anymore, but rather to openly show what side are we on. May my coat of arms with a goat head bring you good luck and protect you in your righteous fight. God bless you!&lt;/paragraph&gt;&lt;paragraph&gt;Jan Sokol of Lamberg bearing a coat of arms with a goat head&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;亲爱的朋友，很不幸，由于匈牙利王国最近的事态，我不得不留在摩拉维亚，我们原定的会面计划无法进行。在信中我不能透露更多细节，我只能说，猎人们已经聚集，猎狐计划即将开始。我相信你明白我的意思。&lt;/paragraph&gt;&lt;paragraph&gt;随信一同的还有我的盾牌，这象征着我们已经无需隐匿，可以公开我们的立场。愿我刻有山羊头的盾牌能给你带来好运，在正义的战斗中保护你。愿上帝保佑你！&lt;/paragraph&gt;&lt;paragraph&gt;兰贝格的扬·索科尔与山羊头盾牌&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong</Cell><Cell>Weak Lion perfume   </Cell><Cell>微弱雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_best</Cell><Cell>Henry's Lion perfume</Cell><Cell>亨利的雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_high</Cell><Cell>Strong Lion Perfume</Cell><Cell>强效雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_medium</Cell><Cell>Lion perfume</Cell><Cell>雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_recipe_perfumeShortStrong</Cell><Cell>Recipe for Lion perfume</Cell><Cell>雄狮香水配方</Cell></Row>
+<Row><Cell>recipe_perfume_shortStrong_name</Cell><Cell>Lion perfume</Cell><Cell>雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_egg</Cell><Cell>Egg</Cell><Cell>蛋</Cell></Row>
+<Row><Cell>ui_nm_recipe_bardPotion</Cell><Cell>Recipe for Fox</Cell><Cell>狐狸药剂的配方</Cell></Row>
+<Row><Cell>ui_nm_perfume_longWeak_high</Cell><Cell>Strong Mintha Perfume Effect</Cell><Cell>强效薄荷香水</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_letter</Cell><Cell>Scapular with insignia</Cell><Cell>饰有徽章的肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_saint</Cell><Cell>Scapular with saint</Cell><Cell>圣人肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_window</Cell><Cell>Scapular with aperture</Cell><Cell>带孔肩带</Cell></Row>
+<Row><Cell>natroskach_zapiskyfelcara_aqyF</Cell><Cell>&lt;paragraph&gt;Although I have to admit, she's got it in for me. In the middle of my lecture on the dangers of nightshade extract, I found myself staring at her plump cleavage. Let's just say I let the rest of her transgressions go unnoticed. But I'll be locking the chest carefully from now on, as well as the chest with raw materials I keep right next to my apparatus.&lt;/paragraph&gt;&lt;newpage/&gt;</Cell><Cell>&lt;paragraph&gt;她还是很不满，但我得说，在和她讲茄科提取物有多危险的时候，我发现我一直盯着她那对大胸看。这样吧，她其他的过失我就不追究了。不过从现在开始我得好好锁好所有的箱子，仪器旁边的原料箱也不例外。&lt;/paragraph&gt;&lt;newpage/&gt;</Cell></Row>
 </Table>
