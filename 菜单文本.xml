@@ -81,4 +81,7 @@ Eventually, however, even Wenceslas IV ran out of patience and had Hynek impriso
 <Row><Cell>ui_warning_move_items_in_outfit</Cell><Cell>Do you want to also move items you have equipped in one of your outfits?</Cell><Cell>是否也移动套装中的物品？</Cell></Row>
 <Row><Cell>ui_warning_move_to_basket_item_in_outfit</Cell><Cell>You're moving an item to your cart that's equipped in one of your Outfits!</Cell><Cell>你正在将一件装备在套装中的物品移动到购物篮中！</Cell></Row>
 <Row><Cell>ui_wine</Cell><Cell>Wine</Cell><Cell>葡萄酒</Cell></Row>
+<Row><Cell>ui_helpoverlay_combos0_s0300</Cell><Cell>Holding down the block button will allow you &lt;strong&gt;block attacks from all opponents&lt;/strong&gt; in front of you. However, a successful block costs &lt;strong&gt;耐力&lt;/strong&gt;, so you'll be unable to defend yourself without it.</Cell><Cell>按住格挡即可&lt;strong&gt;招架面前所有敌人的进攻&lt;/strong&gt;。然而每次成功格挡都会消耗 &lt;strong&gt;stamina&lt;/strong&gt;，一旦耐力消耗干净后，就无法有效抵御攻击。</Cell></Row>
+<Row><Cell>ui_combogroup_unarmed</Cell><Cell>Unarmed</Cell><Cell>徒手</Cell></Row>
+<Row><Cell>ui_crime_list_title</Cell><Cell>Crime commited</Cell><Cell>所犯罪行</Cell></Row>
 </Table>
