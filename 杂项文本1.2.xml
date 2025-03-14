@@ -1,0 +1,63 @@
+<Table>
+<Row><Cell>ach_againstAllOdds_desc</Cell><Cell>You finished the game in Hardcore mode with all negative perks enabled.</Cell><Cell>你在硬核模式，并激活所有负面天赋的情况下完成了整个故事。</Cell></Row>
+<Row><Cell>ach_againstAllOdds_name</Cell><Cell>Against All Odds</Cell><Cell>登峰造极</Cell></Row>
+<Row><Cell>ach_againstAllOdds_not_achieved_desc</Cell><Cell>Finish the game in Hardcore mode with all negative perks enabled.</Cell><Cell>在硬核模式，并激活所有负面天赋的情况下完成故事。</Cell></Row>
+<Row><Cell>ach_bodyguard_desc</Cell><Cell>You defeated Capon during practice. Again.</Cell><Cell>你在练习中击败了卡蓬少爷，真是梅开二度，好像之前在哪里见过？</Cell></Row>
+<Row><Cell>ach_duel_desc</Cell><Cell>You shot a gun-wielding enemy with a gun.</Cell><Cell>你用手铳击杀了一个也同样手持手铳的敌人。</Cell></Row>
+<Row><Cell>ach_favouriteTool_desc</Cell><Cell>You've defeated an enemy with every type of weapon.</Cell><Cell>使用每种武器击败至少一名敌人</Cell></Row>
+<Row><Cell>ach_hardboughtMercy_desc</Cell><Cell>You saved Maleshov without getting caught.</Cell><Cell>你救下了马列索夫，但无人知晓。</Cell></Row>
+<Row><Cell>ach_hardcore_desc</Cell><Cell>You finished the story in Hardcore mode.</Cell><Cell>你在硬核模式下完成了整个故事。</Cell></Row>
+<Row><Cell>ach_hardcore_name</Cell><Cell>Hardcore Henry II</Cell><Cell>硬核亨利 · 贰</Cell></Row>
+<Row><Cell>ach_hardcore_not_achieved_desc</Cell><Cell>Finish the story in Hardcore mode.</Cell><Cell>在硬核模式下完成故事。</Cell></Row>
+<Row><Cell>ach_neverMissAThing_desc</Cell><Cell>You won the miners' competition on the highest difficulty.</Cell><Cell>你在最高难度的矿工比赛中拔得头筹。</Cell></Row>
+<Row><Cell>ach_neverMissAThing_not_achieved_desc</Cell><Cell>Win the miners' competition on the highest difficulty.</Cell><Cell>在最高难度的矿工比赛中拔得头筹。</Cell></Row>
+<Row><Cell>ach_oldRaven_desc</Cell><Cell>You found the true Lord of Nebakov.</Cell><Cell>你找到了内巴科夫的正主。</Cell></Row>
+<Row><Cell>ach_onlyGivethAway_desc</Cell><Cell>You've lost ten thousand groschen.</Cell><Cell>你失去了一万格罗申。</Cell></Row>
+<Row><Cell>ach_originalGunslinger_desc</Cell><Cell>You got four loaded hand cannons ready.</Cell><Cell>你已携带四支上膛的手铳。</Cell></Row>
+<Row><Cell>ach_platinum_desc</Cell><Cell>You obtained all trophies! Now go and touch some grass.</Cell><Cell>你已获得了所有奖杯！现在放下游戏，不要打电动啦，休息一下吧，去看看书好不好？</Cell></Row>
+<Row><Cell>ach_revenge_desc</Cell><Cell>Istvan is dead. It's about time!</Cell><Cell>伊斯特万已死，大仇得报！</Cell></Row>
+<Row><Cell>ach_silenceIsGolden_desc</Cell><Cell>Thanks to you, the raid on Semine didn't happen.</Cell><Cell>多亏了你，塞米免于战火。</Cell></Row>
+<Row><Cell>ach_technicalAdvance_not_achieved_desc</Cell><Cell>Kill an enemy with a crossbow shot to the head at long range!</Cell><Cell>你在远处用弩杀死敌中了一个敌人的头部！</Cell></Row>
+<Row><Cell>ach_thatWasMyFavouritePair_name</Cell><Cell>My Shoes!</Cell><Cell>我滴鞋啊！</Cell></Row>
+<Row><Cell>ach_theStoryEnds_desc</Cell><Cell>You completed the story.</Cell><Cell>你通关了游戏。</Cell></Row>
+<Row><Cell>ach_trustyAlly_name</Cell><Cell>Man's Best Friend</Cell><Cell>忠诚伙伴</Cell></Row>
+<Row><Cell>bejk__pai_nalit_DyGB</Cell><Cell>Pour in the lullaby potion</Cell><Cell>倒入安眠毒药</Cell></Row>
+<Row><Cell>bohuta_na_tady_se_napit_n_0dA7</Cell><Cell>You can’t drink here.</Cell><Cell>这里不能喝酒。</Cell></Row>
+<Row><Cell>cekani_na_cekate_s_ptacke_RhFm</Cell><Cell>You and Capon are waiting for Hashek.</Cell><Cell>你和卡蓬正在等待哈舍克。</Cell></Row>
+<Row><Cell>constants_track_10_trosky_teNR</Cell><Cell></Cell><Cell>Track 10 trosky</Cell></Row>
+<Row><Cell>constants_track_7_trosky_f5yM</Cell><Cell></Cell><Cell>Kauri (Těžká)</Cell></Row>
+<Row><Cell>constants_track_8_trosky_wV1Q</Cell><Cell></Cell><Cell>Track 8 trosky</Cell></Row>
+<Row><Cell>constants_track_9_trosky_Xgd2</Cell><Cell></Cell><Cell>Track 9 trosky</Cell></Row>
+<Row><Cell>game_over_papezskyLegat_crimeCommitedSuchdol_text</Cell><Cell>While you were serving your punishment in the pillory, the Church Council took place in the city. Due to your incompetence, you missed your only chance to get your hands on Sigismund's silver.</Cell><Cell>当你戴上颈手枷服刑的时候，教会会议已然在城中展开。因自身的无能，你错失了唯一一次能将西格斯蒙德的财宝占为己有的机会。</Cell></Row>
+<Row><Cell>game_over_sedmStatecnych2_baillifExecutedHans_text</Cell><Cell>You took too long after the injured villager died. Janosh was executed in Miskowitz before you could save him.</Cell><Cell>你在受伤的村民死亡后浪费了太多时间。亚诺什在米斯科维茨被处决了，你未能及时救下他。</Cell></Row>
+<Row><Cell>game_over_sedmStatecnych2_playerLeftMiskoviceAndHansDied_text</Cell><Cell>You left Miskowitz after the injured villager died. That's why Janosh was executed.</Cell><Cell>你在受伤的村民死亡后离开了米斯科维茨，因此亚诺什被处决了。</Cell></Row>
+<Row><Cell>game_over_setkaniVRatbori1_SigismundDead_text</Cell><Cell>You killed King Sigismund, although you died at his guards' hands shortly after. King Wenceslas soon returned to the Bohemian throne, Jan Hus was never burned at the stake, and the Hussite Wars never took place.</Cell><Cell>你杀死了西格斯蒙德国王，不久后你也成了他护卫的刀下亡魂。而后，瓦茨拉夫国王很快坐回了他在波希米亚的王座，扬·胡斯也并没有上火刑架，以及那场胡斯战争，它也从未发生。</Cell></Row>
+<Row><Cell>game_over_zizkaDead_text</Cell><Cell>Jan Zizka died.</Cell><Cell>扬·杰式卡已死亡。</Cell></Row>
+<Row><Cell>generic_a_rozebrat_zed_nY7o</Cell><Cell>Pull down the wall</Cell><Cell>拆毁墙壁</Cell></Row>
+<Row><Cell>horsebuyi_handlir_priprav_MrBA</Cell><Cell>The horse trader is preparing your new horse.</Cell><Cell>马贩正在为你的新马做准备工作。</Cell></Row>
+<Row><Cell>horsebuyi_podkoni_priprav_NBNb</Cell><Cell>The stableman is preparing your new horse.</Cell><Cell>马夫正在为你的新马做准备工作。</Cell></Row>
+<Row><Cell>horsebuyi_podkoni_priprav_ug41</Cell><Cell>The stableman is preparing Pebbles.</Cell><Cell>马夫正在为小灰做准备工作。</Cell></Row>
+<Row><Cell>horsebuyi_podkoni_se_nale_IMDd</Cell><Cell>The stableman is taking proper care of your horse.</Cell><Cell>马夫正在妥善照顾你的马。</Cell></Row>
+<Row><Cell>katuvsleh_pockat_do_pulno_vZ8v</Cell><Cell>Wait till midnight</Cell><Cell>等到午夜</Cell></Row>
+<Row><Cell>kone_a_od_p_jsi_v_combatu_33BF</Cell><Cell>You can't leave now!</Cell><Cell>我现在不能走！</Cell></Row>
+<Row><Cell>kostky_se_hraj_kostky_tH50</Cell><Cell>Play dice.</Cell><Cell>玩骰子</Cell></Row>
+<Row><Cell>ladder_nech_to_na_nem_mfpl</Cell><Cell>An ally is already knocking down the ladder.</Cell><Cell>一名盟友正在推倒梯子。</Cell></Row>
+<Row><Cell>lecebne_p_p_alkohol_pro_j_4SwU</Cell><Cell>Alcohol for Jan</Cell><Cell>给扬的酒精</Cell></Row>
+<Row><Cell>lecebne_p_p_painkiller_pr_JLQN</Cell><Cell>Something for Jan's pain</Cell><Cell>缓解扬疼痛的东西</Cell></Row>
+<Row><Cell>lecenisuc_hermankovy_odvar_STJZ</Cell><Cell>Chamomile decoction</Cell><Cell>甘菊药剂</Cell></Row>
+<Row><Cell>lurewolves_pocihat_si_na__WHeI</Cell><Cell>Lurk on wolves</Cell><Cell>潜伏并等待狼群</Cell></Row>
+<Row><Cell>objective_hadry_YbSY</Cell><Cell>Skin.</Cell><Cell>毛皮。</Cell></Row>
+<Row><Cell>odevzdani_soutezni_tesak_C0Qk</Cell><Cell>Competition hunting sword</Cell><Cell>竞赛用猎刀</Cell></Row>
+<Row><Cell>openworld_pohlednout_na_t_mVSf</Cell><Cell>Examine the burned area</Cell><Cell>检查被烧毁的区域</Cell></Row>
+<Row><Cell>placing_r_pohrbit_janovy__BShu</Cell><Cell>Bury Jan's remains</Cell><Cell>埋葬约翰的遗体。</Cell></Row>
+<Row><Cell>pouziti_i_bucks_blood_lek_WoDL</Cell><Cell>Buck's Blood</Cell><Cell>雄鹿之血药剂</Cell></Row>
+<Row><Cell>pracharna_probihaji_posle_uG71</Cell><Cell>Last preparations are taking place before the grand revelation.</Cell><Cell>盛大揭幕前最后的准备工作仍在进行中。</Cell></Row>
+<Row><Cell>predani_cestujes_na_misto_iGd1</Cell><Cell>You and Jan are on your way to meet with László Farkas</Cell><Cell>与扬一同前往与拉斯洛·法卡斯会面的地方</Cell></Row>
+<Row><Cell>prizracny_pockat_do_pulno_KKDi</Cell><Cell>(Wait until midnight)</Cell><Cell>(Wait until midnight)</Cell></Row>
+<Row><Cell>prizracny_prizracny_kun_CqCx</Cell><Cell>(Spectral Horse)</Cell><Cell>(Spectral Horse)</Cell></Row>
+<Row><Cell>pruzkum_m_kaluz_amIy</Cell><Cell>Puddle</Cell><Cell>水坑</Cell></Row>
+<Row><Cell>semin__od_predat_podkovy__64QO</Cell><Cell>Hand over the spiked horseshoes.</Cell><Cell>交付带刺马蹄铁。</Cell></Row>
+<Row><Cell>sermirna_porozhlednout_se_de3O</Cell><Cell>Take a look around</Cell><Cell>环顾四周</Cell></Row>
+<Row><Cell>teleport__treti_pribehove_hDDR</Cell><Cell>After six shots of schnapps and several beers, the young women got prettier, the old ones lost years.</Cell><Cell>半打烈酒、几杯啤酒下肚，年轻姑娘们越发迷人，连老妪都仿佛重新焕发了青春……</Cell></Row>
+<Row><Cell>vraceni_k_zlaty_buchtoprs_tmKC</Cell><Cell>Gold ring from cake</Cell><Cell>蛋糕里的金戒指</Cell></Row>
+</Table>
