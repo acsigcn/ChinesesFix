@@ -1,0 +1,852 @@
+<Table>
+<!-- 对话文本 -->
+<Row><Cell>adam_adam_maji_krome_nemc_Dqvc</Cell><Cell>Besides the Germans, Goatskin also robbed a scholar from Prague. Jan Schindel, he's called.</Cell><Cell>除了德国人，山羊皮还抢劫了一个叫扬·辛德尔的布拉格学者。</Cell></Row>
+<Row><Cell>babk_patrac1_dole_u_rybni_m7Qk</Cell><Cell>They slaughtered some knight and his company yesterday down by the pond.</Cell><Cell>他们昨天在池塘边痛宰了一个骑士和他的扈从。</Cell></Row>
+<Row><Cell>bals_henry_pomohu_ti_vxtt</Cell><Cell>Alright, Sir Jan, I'll help you.</Cell><Cell>好的，扬爵士，我会帮助你。</Cell></Row>
+<Row><Cell>band_prepadeni_jestli_se__t4gs</Cell><Cell>If they didn't succeed in swimming to the other side of the pond, I want to know.</Cell><Cell>探清楚他们是否游到了池塘的另一边。</Cell></Row>
+<Row><Cell>barv_barvirka__a_kolik_to_j2XS</Cell><Cell>And how much of them elderberry leaves should I put in?</Cell><Cell>我应该装多少接骨木莓叶进去？</Cell></Row>
+<Row><Cell>barv_barvirka__draha_kdyb_QIrv</Cell><Cell>My dear, if we could dye wool as black as night with elderberry leaves, we wouldn't be sitting here in this place. We'd long since have our own dying shop in Jitchine.</Cell><Cell>天哪，如果我们能用接骨木莓叶把羊毛染得像夜里一样黑，我们就不会坐在这里了。我们早就在吉钦开自己的染坊了。</Cell></Row>
+<Row><Cell>barv_barvirka__no_vcera_s_VdeL</Cell><Cell>Well, yesterday I asked him to help me with the elderberry leaves. I couldn't pick it all myself, a pile like that.</Cell><Cell>嗯，昨天我请他帮忙拿些接骨木莓叶。我自己一个人搞不定，那可是一大堆的叶子呢。</Cell></Row>
+<Row><Cell>barv_barvirka__tak_ja_doj_XdHz</Cell><Cell>So I'll go for more elderberry leaves then.</Cell><Cell>那我得多拿些接骨木莓叶了。</Cell></Row>
+<Row><Cell>barv_barvir_tr_a_kdyz_sme_inGT</Cell><Cell>And while we're on the subject, go and get more elderberry leaves.</Cell><Cell>说到这里，再去拿些接骨木莓叶吧。</Cell></Row>
+<Row><Cell>barv_barvir_tr__nez_popot_lGqG</Cell><Cell>…than bothering some poor carpenter who threw a scrap of linen in a trough with elderberry leaves.</Cell><Cell>…他们可没功夫管一个木匠把一块亚麻布扔进接骨木莓叶槽这样的小事。</Cell></Row>
+<Row><Cell>bff__henry_dobry_rano_jane_VCgv</Cell><Cell>Good morning, Jan!</Cell><Cell>早上好，扬！</Cell></Row>
+<Row><Cell>bff__henry_rad_te_vidim_j_kBzh</Cell><Cell>It's good to see you, Jan.</Cell><Cell>很高兴见到你，扬。</Cell></Row>
+<Row><Cell>bohu_bohuta_shod_ty_zatra_42TR</Cell><Cell>Knock those damned ladders down!</Cell><Cell>将那些天杀的梯子推倒！</Cell></Row>
+<Row><Cell>bohu_katerina_vid_zizko_SuoH</Cell><Cell>Right, Zizka?</Cell><Cell>是吧，杰式卡？</Cell></Row>
+<Row><Cell>bohu_npc_strel_pistala_ne_03UH</Cell><Cell>A pistole is not all that complicated. It has a metal barrel in the front and you hold it in the back.</Cell><Cell>手铳并没有那么复杂。它的前端有一个金属管，你的手要握在后端。</Cell></Row>
+<Row><Cell>bonk_bonka_pod_jan_mikula_SnGZ</Cell><Cell>Scruffy. Or Jan, Nicholas, Franz, Peter, Jakub. The most bland everyday names. </Cell><Cell>“脏兮兮”。或者扬、尼古拉斯、弗朗茨、彼得、雅库布。都是一些最平淡无奇的普通名字。</Cell></Row>
+<Row><Cell>brab_brabant_do_nich_nejd_pW9V</Cell><Cell>At them! Kill that bastard with the mace first!</Cell><Cell>干掉他们！先杀了那个拿钉头锤的杂碎！</Cell></Row>
+<Row><Cell>cene_cenek_primo_nam_pod__aQmj</Cell><Cell>Right under our noses as a provocation!</Cell><Cell>就在我们眼皮底下，赤裸裸的挑衅！</Cell></Row>
+<Row><Cell>chat_hejtman_n_ale_dost_b_YzxS</Cell><Cell>One more thing, Burgrave. Their commander - was he a big man in armour with a mace?</Cell><Cell>还有件事，城伯。他们的指挥官是穿着盔甲拿着钉头锤的大个子吗？</Cell></Row>
+<Row><Cell>chat_purkrabi__ale_budem__eZsU</Cell><Cell>But it'll be the two of us who catch up with them, and his very own mace that I pummel him with!</Cell><Cell>不过追上他们的只有我们两个，我还要用他自己的钉头锤狠狠揍他！</Cell></Row>
+<Row><Cell>chat_purkrabi__jo_palcat__rqR8</Cell><Cell>Aye! A mace… and he was damned good with it! That villain is no ordinary bandit, I'll tell you.</Cell><Cell>没错！钉头锤…他打得真他妈不错！那恶棍不是普通的强盗，我跟你说。</Cell></Row>
+<Row><Cell>cin__ptacek_rybnik_je_tu__CCfD</Cell><Cell>The pond looks inviting, and we've got wine enough.</Cell><Cell>这池塘倒别有一番意境，酒也够喝。</Cell></Row>
+<Row><Cell>cin__ruthard_kdyz_se_to_t_cYGu</Cell><Cell>When your self-proclaimed king finds that out, your head will be on the chopping block.</Cell><Cell>要是被你那位自封的国王知道，你就等着掉脑袋吧。</Cell></Row>
+<Row><Cell>comb_hejtman_f_wenn_sie_a_sduY</Cell><Cell>Wenn du wirklich Interesse hast, I'll show you one of my favourite blows with a mace to the chin, was sagst du dazu?</Cell><Cell>Wenn du wirklich Interesse hast,（所以，如果你有兴趣），我可以给你演示我最喜欢的一招，也就是用钉头锤猛击别人的下巴，was sagst du dazu（意下如何）？</Cell></Row>
+<Row><Cell>comb_hynek_suc_videl_sem__ZdAZ</Cell><Cell>If you like to fight with a mace or an axe, I'll show you a way that's guaranteed to send your opponent to the ground.</Cell><Cell>如果你喜欢使用钉头锤和斧头战斗的话，我可以教你一招，保证能让你的敌人倒地不起。</Cell></Row>
+<Row><Cell>comb_mikulas_p_naucim_te__hBeq</Cell><Cell>Ich werde dich lehren, how to to get opponent to ground with a mace. Praktisch, nicht wahr?</Cell><Cell>Ich werde dich lehren（我要教你），如果用钉头锤击败对手。Praktisch, nicht wahr（很有用的，怎么说）？</Cell></Row>
+<Row><Cell>comb_mikulas_p_pokud_rad__3ONM</Cell><Cell>If you like fight with mace or axe, I show you how to stomp opponent to ground.</Cell><Cell>如果你喜欢用钉头锤或者斧头战斗，我可以教你如何把对手掀翻。</Cell></Row>
+<Row><Cell>cp_t_bohuta_pl_no_nevim_j_Q3WZ</Cell><Cell>I don't know if an apology's will do… what about some schnapps?</Cell><Cell>我不知道道歉能不能解决问题…来点烈酒怎么样？</Cell></Row>
+<Row><Cell>cp_t_farar_kon__UY5S</Cell><Cell>Abbot Jan and the Malien parish priest Peter are present as our opposition.</Cell><Cell>修道院院长扬和马林教区牧师彼得反对我们。</Cell></Row>
+<Row><Cell>cp_t_opat_jan___31fS</Cell><Cell>The Brotherhood is represented by Father Konrad of Pnewitz and his underling, Father Anthony of Wysoka.</Cell><Cell>兄弟会的代表是普内维茨的神父康拉德，以及他的部下，来自维索卡的安东尼神父。</Cell></Row>
+<Row><Cell>deba_pan_semin_hlavne_dou_KgXn</Cell><Cell>I just hope we find the horses too. Jarmilka here ain't the youngest, and I wouldn't want to drag it back home myself…</Cell><Cell>我只希望我们也能找到马。贾尔米卡年纪不小了，而且我也不想自己把它拖回家……</Cell></Row>
+<Row><Cell>debr_henry_meli_byste_svo_QWjo</Cell><Cell>You should place your faith in God and not try to appease hell. Instead, be good Christians under Father Marian's guidance!</Cell><Cell>你们应该相信上帝，不要试图去安抚地狱，而要在神父马里安的指导下，做一个虔诚的基督徒！</Cell></Row>
+<Row><Cell>debr_hornicky__budeme_bud_k0Py</Cell><Cell>Father Marian, forgive me for doubting you. We'll go and pray, and never again will we take anything to the mine!</Cell><Cell>神父马里安，原谅我之前对你的怀疑。我们会去祈祷，而且再也不会去矿井献祭了!</Cell></Row>
+<Row><Cell>debr_hornicky__to_je_prav_4oya</Cell><Cell>He's right, Father Marian. I saw the beast myself, and it certainly didn't look like him.</Cell><Cell>他是对的，神父马里安。我亲自看到了那只野兽，它肯定不长他这样。</Cell></Row>
+<Row><Cell>diag_henry_jenze_vo_alchy_DjnP</Cell><Cell>But I have no idea what concoction would help Kozliek.</Cell><Cell>但我不知道用什么药剂能帮助科兹里克。</Cell></Row>
+<Row><Cell>diag_henry_ma_jen_sram_na_9Wuf</Cell><Cell>Well, Kozliek, all I see are a few scratches. You'll be fine.</Cell><Cell>嗯，科兹里克，我只看到一些擦伤。你会没事的。</Cell></Row>
+<Row><Cell>diag_henry_mrtvej_nejses__tB3O</Cell><Cell>Hmm... You may not be dead, but you don't look all that great either, Kozliek.</Cell><Cell>嗯……你虽然没死，但看起来也不太好，科兹里克。</Cell></Row>
+<Row><Cell>diag_henry_pozvracel_se_a_FU4H</Cell><Cell>Bloody hell, Kozliek. That filthy bandage on your leg stinks worse than you do.</Cell><Cell>见鬼，科兹里克，你腿上的绷带比你还臭。</Cell></Row>
+<Row><Cell>diag_henry_pozvracel_se_a_LRNV</Cell><Cell>Well, Kozliek, it seems there's something wrong with your head, and that dirty bandage on your leg needs changing.</Cell><Cell>嗯，科兹里克，你的头部有问题，你腿上脏兮兮的绷带也该换了。</Cell></Row>
+<Row><Cell>dial_event_poc_vezmi_si_m_7oG2</Cell><Cell>Take a sword, a mace, whatever you fancy. But no bows or any of that shit.</Cell><Cell>带上一把剑，一把钉头锤，任何你喜欢的兵器。但不能带弓之类的。</Cell></Row>
+<Row><Cell>dial_henry_poslali_jsme_j_LxnS</Cell><Cell>We sent them to the path around the pond. Not to the rocks, but along the other bank.</Cell><Cell>我们把他们送到了池塘那边的小路上。不是去山谷那边，而是沿着另一边河岸。</Cell></Row>
+<Row><Cell>dial_henry_to_prepadeni_s_stQd</Cell><Cell>That ambush happened on the other side of the pond, so that's where you should be looking, not here. There's no one like that here.</Cell><Cell>伏击是在池塘的另一边，所以你应该去那里找，而不是这里。这里没有这样的人。</Cell></Row>
+<Row><Cell>dial_henry_vcera_jsme_ale_TIVi</Cell><Cell>We were the ones who were ambushed yesterday by the pond. And Sir Hans isn't fit to travel now.</Cell><Cell>我们是昨天在池塘边被伏击的人。而且汉斯大人现在也不适合赶路。</Cell></Row>
+<Row><Cell>dial_henry_vzdyt_me_za_te_xbkv</Cell><Cell>But Chamberlain Ulrich himself sent me here.</Cell><Cell>不过，是管家乌尔里希本人派我来的。</Cell></Row>
+<Row><Cell>dial_hospodska_no_na_semi_oolm</Cell><Cell>At Semine, of course. I expect old Sir Jan and our bailiff will try to outdo each other in showing off their wealth.</Cell><Cell>当然是在塞米了。我估计扬大人和我们的执政官两位会较劲，大肆铺张显示各自的财力呢。</Cell></Row>
+<Row><Cell>dial_hospodska_starej_jan_eqQC</Cell><Cell>Old Jan Semine is the head of the family and his son's called Olda. And it's him who's getting hitched.</Cell><Cell>扬·塞米大人是一家之主，他的儿子叫奥达，就是他要结婚。</Cell></Row>
+<Row><Cell>dial_jeronym_n_jak_jsi_uz_ZSmu</Cell><Cell>As you have already seen, the Sedletz Monastery is represented by Abbot Jan and the Brotherhood is represented by Konrad, the Pnewitz parish priest.</Cell><Cell>正如您已经看到的，塞德莱茨修道院的代表是修道院院长扬，兄弟会的代表是普内维茨的神父康拉德。</Cell></Row>
+<Row><Cell>dial_katerina_jan_si_mysl_i6Xh</Cell><Cell>Jan still thinks it'll be easy to capture von Bergow. But I heard what Adder said!</Cell><Cell>扬仍然认为抓住冯·波尔高会很容易。但我听到了阿德尔说的话！</Cell></Row>
+<Row><Cell>dial_malesov_c_jiste_pane_kqxk</Cell><Cell>Certainly, sir. Go and see Lady Ophelia on the second floor. She'll take care of you.</Cell><Cell>当然可以，大人。去找三楼的奥菲利亚夫人。她会照顾好你的。</Cell></Row>
+<Row><Cell>dial_patraci_my_nejsme_vo_95gN</Cell><Cell>We're not von Bergow's men and we'll deal with him later. Like we did with you yesterday by the pond. But that's the least of your worries now.</Cell><Cell>我们不是冯·波尔高的人，我们晚点会再去对付他，就像我们昨天在池塘边对付你们那样。但现在你不需要操心这些了。</Cell></Row>
+<Row><Cell>dial_patraci_pan_bergov_n_AuHM</Cell><Cell>Lord von Bergow sent us to find the renegades who ambushed some knight's company down by the pond yesterday.</Cell><Cell>冯·波尔高大人派我们来寻找罪犯，他们昨天在池塘边伏击了某个骑士和随从们。</Cell></Row>
+<Row><Cell>dial_ptacek_kus_prodejem__aVpf</Cell><Cell>What rot! I'll make a pile of coin selling this game. </Cell><Cell>放屁！卖了这头猎物，我就能赚一大笔钱。 </Cell></Row>
+<Row><Cell>dial_semin_myslis_potom_c_5gSM</Cell><Cell>You mean since you and Jan Zizka escaped from Trosky?</Cell><Cell>你说的是自从你和扬·杰式卡从特罗斯基逃走以后吗？</Cell></Row>
+<Row><Cell>doho_miroslav__balsane_sa_ASt3</Cell><Cell>Jan! Damn it! What good is revenge if they kill us?!</Cell><Cell>扬！他妈的！如果他们杀了我们，还怎么复仇？</Cell></Row>
+<Row><Cell>druh_vasko_ne_jako_ty_lin_MJkS</Cell><Cell>Not like fucking lazy cats. If you in trouble they only watch.</Cell><Cell>不像那些懒惰的猫，甚至不肯动动爪子来帮你一下…</Cell></Row>
+<Row><Cell>fifl_soukenik__ale_muzes__TVRs</Cell><Cell>But you can use a mace, flail or hunting sword.</Cell><Cell>但你可以使用钉头锤、连枷或猎刀。</Cell></Row>
+<Row><Cell>fifl_soukenik__vyzval_sem_lzeT</Cell><Cell>I had a bit of a quarrel with Sir Jan of Lesztin and I need someone young and strong to take my place in a duel.</Cell><Cell>我和莱斯廷的扬爵士发生了点纠纷，我需要一个年轻力壮的人替我决斗。</Cell></Row>
+<Row><Cell>fina_aulitz_a_ja_ted_stoj_OcHU</Cell><Cell>And now I stand at his kingdom's gate at last…</Cell><Cell>现在我终于抵达了他天国的门前……</Cell></Row>
+<Row><Cell>fina_aulitz_ja_proste_jen_nWCk</Cell><Cell>… I fought for what I believed in.</Cell><Cell>……我为我的信念而战。</Cell></Row>
+<Row><Cell>fina_aulitz_na_kovarskyho_buul</Cell><Cell>You know a lot for a blacksmith's son… But tell me… Why did Wenceslas go hunting instead of going to the funeral? With the same dog…</Cell><Cell>作为一个铁匠的儿子你知道得很多嘛……那我问你……为什么瓦茨拉夫不去参加葬礼？而是带着那条狗去打猎？</Cell></Row>
+<Row><Cell>fina_aulitz_omluvil_jsem__GQmv</Cell><Cell>And for that I apologise to you… and to God.</Cell><Cell>我为此向你道歉……也向上帝忏悔。</Cell></Row>
+<Row><Cell>fina_aulitz_za_kurevnika__2WkH</Cell><Cell>In a whoremonger… a layabout and a drunk who had his wife torn apart by dogs?</Cell><Cell>一个荒淫无度、怠于政事……能让狗撕碎妻子的酒鬼？</Cell></Row>
+<Row><Cell>fina_beta_maji_von_radu_p_XRDM</Cell><Cell>He's been bribing the council for years now, so why should it matter if I swing the balance in my favour for once?!</Cell><Cell>他多年来一直在贿赂市议会，所以这次我影响一下局势又有何妨呢？</Cell></Row>
+<Row><Cell>fina_event_rva_vztahnout__NnuT</Cell><Cell>Laying a hand on family! Shame on you!</Cell><Cell>对家人动手！可耻！</Cell></Row>
+<Row><Cell>fina_henry_a_to_byla_chyba_G7z5</Cell><Cell>And that was a mistake.</Cell><Cell>那是个错误。</Cell></Row>
+<Row><Cell>fina_henry_co_ted_budes_d_rDDX</Cell><Cell>What will you do now?</Cell><Cell>你接下来有什么打算？</Cell></Row>
+<Row><Cell>fina_henry_doted_me_to_st_LTFp</Cell><Cell>It still haunts me, but what could I do?</Cell><Cell>这事仍然困扰着我，但我能怎么办呢？</Cell></Row>
+<Row><Cell>fina_henry_doted_me_to_st_Uw1O</Cell><Cell>It still haunts me, but what could I do?</Cell><Cell>这事仍然困扰着我，但我能怎么办呢？</Cell></Row>
+<Row><Cell>fina_henry_mame_spolu_nev_pO4e</Cell><Cell>We have unfinished business.</Cell><Cell>我跟他还有账要算。</Cell></Row>
+<Row><Cell>fina_henry_skoda_ze_to_ta_grM4</Cell><Cell>Pity it had to end this way.</Cell><Cell>可惜最后是以这种方式收场。</Cell></Row>
+<Row><Cell>fina_jindricho_doufam_ze__cQtO</Cell><Cell>I hope you'll be happy with her.</Cell><Cell>我希望你和她过得幸福。</Cell></Row>
+<Row><Cell>fina_jindricho_doufam_ze__ryvL</Cell><Cell>I hope you'll be happy with her.</Cell><Cell>我希望你和她过得幸福。</Cell></Row>
+<Row><Cell>fina_jindricho_miris_vyso_m7Fh</Cell><Cell>My, aiming high, son!</Cell><Cell>哎呀，眼光挺高嘛，孩子！</Cell></Row>
+<Row><Cell>fina_jindricho_miris_vyso_MiP3</Cell><Cell>My, aiming high, son!</Cell><Cell>哎呀，眼光挺高嘛，孩子！</Cell></Row>
+<Row><Cell>fina_jindrichu_dej_si_poz_AEZ5</Cell><Cell>Watch out for that Erik. I don't think he's going to forget you anytime soon.</Cell><Cell>要小心那个埃里克。他不会轻易放过你的。</Cell></Row>
+<Row><Cell>fina_jindrichu_dej_si_poz_v0j6</Cell><Cell>Watch out for that Erik. I don't think he's going to forget you anytime soon.</Cell><Cell>要小心那个埃里克。他不会轻易放过你的。</Cell></Row>
+<Row><Cell>forc_zizka_kozlik_a_mikes_EURU</Cell><Cell>So I don't forget, Henry, Mikesh said he and Kozliek would like to repay their debt to you. So tell me where to put them.</Cell><Cell>亨利，米凯什说他和科兹里克想要偿还欠你的人情。告诉我把他们安排在哪里，以免我忘记了。</Cell></Row>
+<Row><Cell>goss_gossip_ob_ten_taky_a_ZnBP</Cell><Cell>Not a chance, that old coot will outlive us all. No, it was Jan, the beanpole.</Cell><Cell>不可能，那老家伙可能比我们都还长命呢。不，是“瘦竹竿”扬。</Cell></Row>
+<Row><Cell>gree_pozdrav_m_neni_to_hr_SIAz</Cell><Cell>Isn't it a sin to walk around naked like that, friend?</Cell><Cell>朋友，你这样四处裸奔，难道不是一种罪过吗？</Cell></Row>
+<Row><Cell>gree_pozdrav_m_sakra_musi_pQA0</Cell><Cell>Damn it, lad! Do you really have to walk around naked like that?!</Cell><Cell>妈的，小伙子！你非得这样四处裸奔吗？！</Cell></Row>
+<Row><Cell>gree_pozdrav_z_boze_muj_m_JdXy</Cell><Cell>My God! We've got some kind of naked madman here!</Cell><Cell>我的天哪！这里有个裸体的疯子！</Cell></Row>
+<Row><Cell>gree_pozdrav_z_neni_to_hr_GZTg</Cell><Cell>Isn't it a sin, walking around naked like that, friend?</Cell><Cell>朋友，你这样四处裸奔，难道不是一种罪过吗？</Cell></Row>
+<Row><Cell>hand_konsky_ha_vsak_mi_je_mVDW</Cell><Cell>It is always gadjo that bring them, after all.</Cell><Cell>毕竟，它们都是被gadjo（外来人）带到这里来的。</Cell></Row>
+<Row><Cell>hled_obecne_o__promluv_si_hMQr</Cell><Cell>Dja talk to Voivode, gadjo…</Cell><Cell>你最好和司令官谈谈，gadjo（外来人）……</Cell></Row>
+<Row><Cell>hrac_henry_tady_mas_kuzi_hyjz</Cell><Cell>I found the white roebuck's hide. </Cell><Cell>我发现了白狍子皮。 </Cell></Row>
+<Row><Cell>hrac_henry_udelal_jsi_co__T59I</Cell><Cell>You did all you could. Zizka gave us a job to do, and we did it.</Cell><Cell>你已经尽力了。这是杰式卡给我们的任务，而我们也完成了。</Cell></Row>
+<Row><Cell>hyne_henry_prijel_sem_s_v_tArG</Cell><Cell>I'm here on behalf of his brother, Jan. He came with the ransom to get him back.</Cell><Cell>我是代表他弟弟扬来的。他带着赎金要赎他回去。</Cell></Row>
+<Row><Cell>incl_henry_ja_to_chci_sly_bI2I</Cell><Cell>I want to hear it, Kozliek!</Cell><Cell>我想听，科兹里克！</Cell></Row>
+<Row><Cell>incl_mikes_hehestejne_neu_tCrH</Cell><Cell>&lt;hehe&gt; You can't read anyway, Kozliek.</Cell><Cell>&lt;hehe&gt;反正你也不识字，科兹里克。</Cell></Row>
+<Row><Cell>incl_roza_ruth_budeme_ti__ZMNe</Cell><Cell>We'll be praying for you.</Cell><Cell>我们会为你祈祷。</Cell></Row>
+<Row><Cell>inga_vojak_aul_krysa_rika_UvW6</Cell><Cell>Rat said he was trying to creep into the camp, but you know what Rat's like.</Cell><Cell>老鼠说他试图潜入军营，但你知道老鼠这个人的德性。</Cell></Row>
+<Row><Cell>jan__henry_na_takovouhle__mWwb</Cell><Cell>Hmm. This would be perfect for Kozliek and Mikesh. The scrapes those two have survived are almost unbelievable.</Cell><Cell>嗯，米凯什和科兹里克很适合干这件事。这两人遭遇的磨难简直难以置信。</Cell></Row>
+<Row><Cell>jan__henry_p_hodne_stesti_T5E4</Cell><Cell>Godspeed, Sir Jan! Have a safe journey!</Cell><Cell>一切顺利，扬爵士！一路平安！</Cell></Row>
+<Row><Cell>jan__henry_promin_pane_ja_aerV</Cell><Cell>I'm sorry, Sir Jan, but this goes far beyond the work of a messenger.</Cell><Cell>对不起，扬爵士。但我只是个信使，打斗这跟我没关系。</Cell></Row>
+<Row><Cell>jan__henry_vime_jak_to_by_oivi</Cell><Cell>We know what happened to Peter. You wanted to use me and cheat Jan.</Cell><Cell>我们知道彼得怎么了。你想利用我，欺骗扬。</Cell></Row>
+<Row><Cell>jan__jan_ze_su_i_s_tebou__0Qtq</Cell><Cell>And with you. I'm Jan of Suchotlesky.</Cell><Cell>上帝也与你同在。我是苏霍茨基的扬。</Cell></Row>
+<Row><Cell>jan__jan_ze_su_ja_jsem_ja_8S4e</Cell><Cell>I'm Jan… Sir Jan of Suchotlesky.</Cell><Cell>我是扬......苏霍茨基的扬。</Cell></Row>
+<Row><Cell>jan__jan_ze_su_ja_jsem_ja_dvAa</Cell><Cell>I am… Sir Jan of Suchotlesky. And you?</Cell><Cell>我是……苏霍茨基的扬爵士。你是谁？</Cell></Row>
+<Row><Cell>jan__jan_ze_su_rad_te_poz_KvSY</Cell><Cell>I'm pleased to meet you, Henry. I'm Jan of Suchotlesky.</Cell><Cell>很高兴见到你，亨利。我是苏霍茨基的扬。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_ciste_mezi_LHjW</Cell><Cell>Just between us, boy, my men will let you live if you promise not to protect Sir Jan.</Cell><Cell>孩子，悄悄告诉你，如果你保证不保护扬爵士，我的人就会放你一马。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_dam_ti_na__CshD</Cell><Cell>I will give you a choice. Either you  take the bit of sense that you have into your hand, and kill Jan yourself, or you will die… all of you.</Cell><Cell>我将给你们一个选择。要么理智一点，亲手杀了扬，要么就去死......你们所有人。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_i_ten_tvuj_WL73</Cell><Cell>Even that little messenger of yours has better manners than you, Sir Jan.</Cell><Cell>即使是那个小信使也比你有礼貌，扬爵士。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_no_no_no_p_MMPt</Cell><Cell>Well, well. Sir Jan, perhaps we can strike a deal.</Cell><Cell>好吧，好吧，好吧。扬爵士，也许我们可以达成一个交易...</Cell></Row>
+<Row><Cell>jan__laszlo_fa_pane_jane__CsH7</Cell><Cell>Sir Jan, my patience has run out. Either you will pay the ransom in full or you will join your brother.</Cell><Cell>扬爵士，我没耐心了。要么你全额支付赎金，要么你就去见你哥哥。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_pomalu_s_t_2aGQ</Cell><Cell>Tread lightly with the insults, Sir Jan! My men will not tolerate their commander being insulted.</Cell><Cell>不要侮辱人，扬爵士！我的人不会容忍他们的指挥官受侮辱。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_to_je_prav_AEVE</Cell><Cell>The thing is though, Sir Jan, I did not kill him.</Cell><Cell>但问题是，扬爵士，我并没有杀他。</Cell></Row>
+<Row><Cell>jan__laszlo_fa_zabij_jana_EppL</Cell><Cell>Kill Jan, and we will let you go! And not empty-handed…</Cell><Cell>杀了扬，我们就会放你走！而且你不会空手而归...</Cell></Row>
+<Row><Cell>jano_januv_dru_aspon_ze_j_7uut</Cell><Cell>At least Jan is alright. Thanks for the help.</Cell><Cell>至少扬没事。谢谢你的帮助。</Cell></Row>
+<Row><Cell>jind_henry_jindro_jindro__RkBb</Cell><Cell>Jan's not going to like this.</Cell><Cell>扬一定不会高兴。</Cell></Row>
+<Row><Cell>jind_henry_pokoj_tvy_dusi_tH8B</Cell><Cell>May God grant you peace, Sir Jan. In death, at least.</Cell><Cell>愿上帝至少在死后赐予你安宁，扬爵士。</Cell></Row>
+<Row><Cell>jind_henry_poskozena_sosk_wDI4</Cell><Cell>A damaged statuette of St. Mary Magdalene. Certainly stolen.</Cell><Cell>还有一尊损坏的马格达莱妮圣玛利亚的雕像，肯定是偷来的。</Cell></Row>
+<Row><Cell>jind_henry_to_jan_nebude__AGYB</Cell><Cell>Jan's not going to be happy about this…</Cell><Cell>扬一定不会高兴……</Cell></Row>
+<Row><Cell>jost_henry_myslim_ze_jan__O3Wn</Cell><Cell>I think it's some Jan Sokol... of Lamberg?</Cell><Cell>我认为是兰贝格……的扬·索科尔？</Cell></Row>
+<Row><Cell>jost_markrabe__licthenste_CZLT</Cell><Cell>Jan went straight into the lion's den. He knew the risks.</Cell><Cell>扬直接进入了虎穴。他知道那里的风险。</Cell></Row>
+<Row><Cell>kate_henry_znas_kozlika_j_LzjQ</Cell><Cell>Do you know Kozliek? A clever little fellah. Surely he managed to get out alive?</Cell><Cell>你认识科兹里克吗？一个聪明的小家伙。他肯定活了下来吧？</Cell></Row>
+<Row><Cell>kate_katerina_promin_ja_z_3K8E</Cell><Cell>Sorry, I forgot the great Jan Zizka always has to be a hero, even if it costs him his life.</Cell><Cell>抱歉，我忘了伟大的扬·杰式卡就算赔上性命，也一定要逞英雄。</Cell></Row>
+<Row><Cell>koma_komar_nemuzu_za_to_z_34Qm</Cell><Cell>It's not my fault he has a loose woman. If not me then she'd be fooling around with someone else.</Cell><Cell>她老婆是个水性扬花的女人，遇上这种人又不是我的问题。就算不是我，她也会找上别人的。</Cell></Row>
+<Row><Cell>kore_henry_to_ja_taky_jak_ScZE</Cell><Cell>What else should I have done? It felt more like you were hitting me with a mace than your bare hands!</Cell><Cell>不然我还能干嘛？你打到我身上的每一记拳头都让我感觉自己在被钉头锤敲打！</Cell></Row>
+<Row><Cell>kost_kostky_bu_ten_gadzo__u5Ff</Cell><Cell>That gadjo is playing circles around me! </Cell><Cell>那个gadjo（外来人）正在忽悠我！ </Cell></Row>
+<Row><Cell>kost_kostky_pr_koukej_jak_AAi9</Cell><Cell>I'll show you how to play, gadja! </Cell><Cell>我来教你怎么玩，gadjo（外来人）！</Cell></Row>
+<Row><Cell>kozl_henry_tak_komu_si_to_9y4i</Cell><Cell>The main thing is you survived in one piece, Kozliek.</Cell><Cell>最重要的是，你安然无恙地活了下来，科兹里克。</Cell></Row>
+<Row><Cell>kozl_kozlik_ty_me_nepozna_M4E5</Cell><Cell>You don't recognise me? It's me, Kozliek! We met at Nebakov not long ago. </Cell><Cell>你不认识我了？是我，科兹里克！我们前不久在内巴科夫见过。 </Cell></Row>
+<Row><Cell>kozl_patrac2_tohle_je_zby_WV13</Cell><Cell>This is pointless. We should just go and look down by the pond and that's that.</Cell><Cell>这毫无意义。我们应该去池塘边看看然后就这样吧。</Cell></Row>
+<Row><Cell>kozl_patrac2_ty_dva_se_zt_gAMn</Cell><Cell>Those two vanished somewhere down by the pond.</Cell><Cell>那两个人从池塘边的某个地方消失了。</Cell></Row>
+<Row><Cell>krej_seminova__to_si_mysl_S29W</Cell><Cell>Olda looks even more elegant than Jan did on our wedding day… You've got fingers of gold!</Cell><Cell>我们婚礼那天的扬看起来很优雅，可今天的奥达更是无出其右……你可真是心灵手巧！</Cell></Row>
+<Row><Cell>lasz_henry_ale_jan_bude_c_Rj3Q</Cell><Cell>But Jan will want…</Cell><Cell>但扬希望...</Cell></Row>
+<Row><Cell>lasz_henry_at_to_bylo_jak_a7uJ</Cell><Cell>However he died, Jan still wants his brother's body back…</Cell><Cell>不管是怎么死的，扬还是想把他哥哥的尸体要回来......</Cell></Row>
+<Row><Cell>lasz_henry_chces_vykupny__MQoz</Cell><Cell>Jan wants him back in the same state as you took him, Sir.</Cell><Cell>扬想让他保持原样地回去，爵士。</Cell></Row>
+<Row><Cell>lasz_henry_dobre_janovi_t_RVnQ</Cell><Cell>Very well. I'll pass that on to Jan.</Cell><Cell>很好。我会把这话转达给扬。</Cell></Row>
+<Row><Cell>lasz_henry_dobre_pujdu_to_buMO</Cell><Cell>Very well. I'll go and tell Jan.</Cell><Cell>很好。我去告诉扬。</Cell></Row>
+<Row><Cell>lasz_henry_jan_ma_pravo_z_sV2J</Cell><Cell>Jan has the right to know before the handover takes place.</Cell><Cell>扬有权在交接之前知道。</Cell></Row>
+<Row><Cell>lasz_henry_jsem_tu_z_pove_FPrA</Cell><Cell>I'm here on behalf of Sir Jan of Suchotlesky.</Cell><Cell>我代表苏霍茨基的扬爵士来到这里。</Cell></Row>
+<Row><Cell>lasz_henry_mam_spatne_zpr_h5Dt</Cell><Cell>Bad news, Sir. Jan of Suchotlesky is dead.</Cell><Cell>坏消息，苏霍茨基的扬爵士已经死了。</Cell></Row>
+<Row><Cell>lasz_henry_mohli_bychom_s_xwAd</Cell><Cell>Then what am I supposed I tell Jan?</Cell><Cell>那我该怎么跟扬说？</Cell></Row>
+<Row><Cell>lasz_henry_myslim_ze_je_t_EAf4</Cell><Cell>I think that's a reasonable demand. I'm sure Jan will be glad to pay more.</Cell><Cell>我认为这是合理的要求。我相信扬会乐意多付几个钱。</Cell></Row>
+<Row><Cell>lasz_henry_no_dobre_ale_c_kj94</Cell><Cell>Very well, but what should I tell Jan?</Cell><Cell>好，但我应该跟扬说什么？</Cell></Row>
+<Row><Cell>lasz_henry_tak_tohle_fakt_hBhQ</Cell><Cell>I won't do that to Jan.</Cell><Cell>我不会背叛扬。</Cell></Row>
+<Row><Cell>lasz_henry_to_nepujde_jan_82oB</Cell><Cell>Out of the question. Jan insists the handover takes place outside your camp. On neutral ground.</Cell><Cell>不可能。扬坚持要在你的营地外进行交接。在中立地点。</Cell></Row>
+<Row><Cell>lasz_henry_zadnou_presnou_o4z1</Cell><Cell>I've no idea. I'm just repeating what Jan said.</Cell><Cell>我不知道。我只是个帮扬传话的。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_ale_jiste__m97M</Cell><Cell>Certainly. But, please, allow me one question. Why has Jan sent an intermediary to handle such an important affair?</Cell><Cell>当然可以。但是，我要冒昧地问一个问题。为什么扬要派一个中间人来处理这么重要的事情？</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_ale_tys_uz_o01Z</Cell><Cell>You told Jan about it? Well, what a diligent messenger!</Cell><Cell>你把这件事告诉了扬？好吧，你可真尽职！</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_a_ted_me_d_u6sf</Cell><Cell>Now, listen well. You will tell Jan that I agreed with the terms and place of the handover.</Cell><Cell>现在，听好了。你要告诉扬，我同意交接的条件和地点。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_budiz_rika_cWry</Cell><Cell>So be it. You say Jan wants Peter's body back. Well, it will cost him something.</Cell><Cell>那就这样吧。你说扬想要回彼得的尸体。但我不能白送。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_dobre_jak__iMkH</Cell><Cell>Fine. As you wish. I assume Jan will at least want a proper burial for his brother.</Cell><Cell>好。如你所愿。我猜想扬至少会想为他的哥哥举办一个体面的葬礼。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa__jan_ti_za_TM6T</Cell><Cell>Jan certainly promised you something for your help. Rest assured that I can give you something much more valuable.</Cell><Cell>对于你的帮忙，扬肯定会许诺一些回报。放心，我可以给你提供更有价值的东西。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_ja_verim_t_HVDM</Cell><Cell>I trust that you are Jan's envoy. That is also why you are still alive.</Cell><Cell>我相信你是扬的特使。要不你早死了。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_kde_te_pro_L3c7</Cell><Cell>Where in the name of God did Jan dig you up? I do not intend to deal with a matter of this significance in an alehouse full of drunkards!</Cell><Cell>扬到底是从哪找来你的？我不想在满是酒鬼的酒馆里处理这么重要的事情！</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_kdyby_jan__UTow</Cell><Cell>Jan would have been wiser if he had sent a donkey with a message stuffed up its arse instead of you.</Cell><Cell>如果扬派来的是一只在屁股里塞了信的驴子而不是你，那就更明智了。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_neni_ti_to_5tlO</Cell><Cell>Jan knew beforehand how much coin I would want for the knight.</Cell><Cell>扬事先就知道我给骑士的标价。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_poslal_jse_pMWC</Cell><Cell>I already sent several men to ambush Jan on the way here. But he somehow managed to escape.</Cell><Cell>我之前派了几个人在扬来的路上伏击他。但他逃脱了。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_prived_mi__DiEH</Cell><Cell>Bring Jan to me, help me get his money, and I will give you his brother's equipment.</Cell><Cell>把扬带给我，帮我拿到他的钱，我就把他哥哥的装备给你。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_svymu_pano_5KlW</Cell><Cell>Do not tell Jan a thing and bring him to the handover location.</Cell><Cell>一个字都不要告诉扬，只管把他带到交接地点。</Cell></Row>
+<Row><Cell>lasz_laszlo_fa_tak_jak_to_yz3q</Cell><Cell>How is it looking with Jan?</Cell><Cell>扬的情况如何？</Cell></Row>
+<Row><Cell>leop_henry_jeho_prvni_obe_EvM1</Cell><Cell>His first victim was apparently the maid Jarka. I'll go and question her guardian, Father Prokop.</Cell><Cell>凶手的第一个目标显然就是女仆贾卡，后续我得去跟她的监护人普罗科普神父谈谈。</Cell></Row>
+<Row><Cell>leop_leopold_k_jako_mala__ayLq</Cell><Cell>She was orphaned as a child. The priest from the Church of Saint Peter and Paul, Father Prokop, raised her.</Cell><Cell>尚还年幼的时候她便成了孤儿，后来还是圣彼得保罗教堂的牧师，也就是普罗科普神父，把她拉扯大的。</Cell></Row>
+<Row><Cell>leop_leopold_k_to_me_prek_C8ay</Cell><Cell>That really surprised me, because Father Prokop had vouched for her good reputation, but who knows?</Cell><Cell>那可真是吓到我了，毕竟普罗科普神父曾为她的好德行作过担保，而谁又能想到呢？</Cell></Row>
+<Row><Cell>leop_leopold_k_z_tech_zby_qUc1</Cell><Cell>Of the remaining four, the first to be killed was the maidservant Jarka. She was raised by Father Prokop from the Church of Saint Peter and Paul. He should know the most about her.</Cell><Cell>至于那四位最近被杀害的女孩，第一位就是女仆贾卡。她曾被圣彼得保罗教堂的普罗科普神父抚养长大，后者应该对她十分了解。</Cell></Row>
+<Row><Cell>lich_henry_jo_menuje_se_j_rLwP</Cell><Cell>Aye. He's called Jan Zizka. Of Trotznow.</Cell><Cell>对。他叫扬·杰式卡。来自特罗兹诺。</Cell></Row>
+<Row><Cell>lich_lichtenst_a_davej_po_y6OG</Cell><Cell>And be careful! There's bound to be spies swarming around the palace. This city isn't safe.</Cell><Cell>小心点！宫殿周围肯定有眼线。这座城市并不安全。</Cell></Row>
+<Row><Cell>lich_lichtenst_pockej_rek_yg21</Cell><Cell>Zizka, Jan Zizka of Trotznow?</Cell><Cell>杰式卡，特罗兹诺的扬·杰式卡？</Cell></Row>
+<Row><Cell>lich_lichtenst_tak_to_si__RluM</Cell><Cell>Hahaha! Then I expect he and I will see eye to eye. Although I prefer a different strategy to braining all and sundry with a mace.</Cell><Cell>哈哈哈！那我希望我和他的看法一致。虽然我更喜欢不同的策略，而不是用钉头锤敲碎所有人的脑袋。</Cell></Row>
+<Row><Cell>lipo_zachrana__slysel_jsi_EEMN</Cell><Cell>Did you hear about that Jan the Curious of Kunstadt?</Cell><Cell>你听过来自库斯塔特的扬吗？据说是什么事都喜欢掺一脚的人。</Cell></Row>
+<Row><Cell>lore_brabant_chevalier_ja_PgMo</Cell><Cell>Le Chevaliér Jan? Well, he is not doing badly for a minor nobleman. But I think he will never be accepted among the higher nobles and knights.</Cell><Cell>Le Chevaliér Jan（扬骑士）？嗯，对一个次等贵族来说，他的状况还不错。但我认为他永远不会被高阶贵族和骑士所接纳。</Cell></Row>
+<Row><Cell>lore_event_tab_a_vis_co_g_OLUL</Cell><Cell>And you know what, gadjo? I will make it up to you however I can. Palyikerav, gadjo.</Cell><Cell>而且你知道吗，gadjo（外来人）？我会尽我所能地回报你。Palikerav, gadjo（我会的，外来人）。</Cell></Row>
+<Row><Cell>lore_event_tab_podle_toho_DWmQ</Cell><Cell>That depends what you fancy, gadjo!</Cell><Cell>那要看你喜欢什么，gadjo（外来人）！</Cell></Row>
+<Row><Cell>love_lovci_vos_povim_ti_t_VzEQ</Cell><Cell>I'll tell you on the way. Let's have a quick drink first, eh? Want some? I still have a swig of schnapps left.</Cell><Cell>我在路上会告诉你的。先来一杯吧，嗯？你要吗？我还剩一大口烈酒。</Cell></Row>
+<Row><Cell>menh_menhart_z_sam_kaiser_CxQx</Cell><Cell>The Emperor Karl der Große himself founded it. There is no more lovely Stadt under the sun.</Cell><Cell>Emperor Karl der Große（查理皇帝）亲自建造了它。天下没有比它更美丽的Stadt（城市）了。</Cell></Row>
+<Row><Cell>mlyn_henry_lazebnice_s_ko_cNHR</Cell><Cell>The bath wenches don't want anything to do with the chamberlain. Bad experiences, they say.</Cell><Cell>澡堂女仆们不想和管家扯上任何关系，她们说有不好的经历。</Cell></Row>
+<Row><Cell>mlyn_henry_mluvil_jsem_s__855E</Cell><Cell>I talked to Dorothy about the chamberlain.</Cell><Cell>我跟多萝西说了管家的事。</Cell></Row>
+<Row><Cell>mlyn_henry_popovidal_jsem_nbnC</Cell><Cell>I talked to the Zhelejov bathhouse wenches about the chamberlain.</Cell><Cell>我跟哲勒约夫的澡堂女仆谈了谈管家的事。</Cell></Row>
+<Row><Cell>mlyn_henry_tak_s_tou_damo_SYgY</Cell><Cell>The thing with the girl for the chamberlain didn't work out, but I reckon you knew that already.</Cell><Cell>那个姑娘和管家的事搞砸了，但我猜你应该已经知道了。</Cell></Row>
+<Row><Cell>mlyn_mlynar_kr_a_ty_jako__sIxh</Cell><Cell>And when the chamberlain becomes insistent, you, as her personal bodyguard, will accept his offer.</Cell><Cell>当管家坚持时，你作为她的贴身护卫，将接受他的提议。</Cell></Row>
+<Row><Cell>mlyn_mlynar_kr_slabina_hr_hL81</Cell><Cell>The castle's weak spot is Chamberlain Ulrich, because he himself has a weakness… For women.</Cell><Cell>城堡的弱点是管家乌尔里希，因为他也有自己的弱点……就是女人。</Cell></Row>
+<Row><Cell>mora_moravak_2_hele_jurko_j8fW</Cell><Cell>Ah, Jurko, you're talking about our liquor?</Cell><Cell>啊，朱尔科，你之前想说的是我们的烈酒？</Cell></Row>
+<Row><Cell>muci_zajatec_m_ja_ho_vlas_cPz8</Cell><Cell>I don't know him very well. They call him Jan.</Cell><Cell>大家都叫他扬，但我不太了解他。</Cell></Row>
+<Row><Cell>muci_zajatec_m_ostatni_ho_w75d</Cell><Cell>The others call him Jan… </Cell><Cell>别人都叫他扬… </Cell></Row>
+<Row><Cell>muci_zajatec_m_zizka_rika_7jWQ</Cell><Cell>They call him Jan! But that's all I know, for fuck's sake!</Cell><Cell>他们叫他扬！他妈的，我只知道这么多了！</Cell></Row>
+<Row><Cell>npc__npc_vidi__jo_tak_tos_psF7</Cell><Cell>Right, so it was you shooting here!</Cell><Cell>好啊，原来射击的人是你啊！</Cell></Row>
+<Row><Cell>npc__npc_vidi__to_ty_jsi__21yZ</Cell><Cell>You were the one shooting here! That's clear as day!</Cell><Cell>你就是那个射击的人！光天化日！</Cell></Row>
+<Row><Cell>obec_krysa_sssem_kryssssa_wZDM</Cell><Cell>I'm Rat. </Cell><Cell>我是老鼠。 </Cell></Row>
+<Row><Cell>obec_marika_s_bohem_muzu__bBuj</Cell><Cell>I can talk to God when I want to. I do not need the Pope's blessing for that! We have no kings, judges or executioners!</Cell><Cell>只要我想，我自己就可以跟上帝对话，不需要教皇来替我传达！在我们这里，没有所谓的君王！没有世俗的评判！更没有冷血的刽子手！</Cell></Row>
+<Row><Cell>obec_vepr_s_krysakem_sme__Kzmd</Cell><Cell>Rat and I are the... main workforce around here.</Cell><Cell>我和老鼠是…这里的主力。</Cell></Row>
+<Row><Cell>odev_cenek_jenom_nez_te_k_NMFl</Cell><Cell>Just before I tell you more about it, try talking to Rat. </Cell><Cell>在我告诉你更多信息之前，先和老鼠谈谈吧。 </Cell></Row>
+<Row><Cell>opti_henry_par_svatejch_t_zgum</Cell><Cell>There have been a few saints here, like Mary Magdalene, right?</Cell><Cell>这里曾经有一些圣人，比如马格达莱妮的玛利亚，对吧？</Cell></Row>
+<Row><Cell>o_si_pecha_ses_moudrej_ch_HDaB</Cell><Cell>You're a wise man, just like Karel was. Thanks to that arrowhead, he'll be with us in spirit forever.</Cell><Cell>你是个聪明的人，就像卡雷尔一样。感谢这个锋矢，他的灵魂将永远和我们在一起。</Cell></Row>
+<Row><Cell>os_k_klara_marek_cverk_a__Mvkz</Cell><Cell>Mark, Zwerk, and that poor Kozliek.</Cell><Cell>马克，兹维克，还有可怜的科兹里克。</Cell></Row>
+<Row><Cell>o_zi_aranka_a_proc_ty_se__4Szf</Cell><Cell>And why do you not settle down, instead of jumping from the frying pan into the fire, gadjo?</Cell><Cell>那你又为什么不安顿下来，而不是从狼窝跳进虎穴，gadjo（外来人）？</Cell></Row>
+<Row><Cell>o_zi_aranka_jaj_gadzo_pre_JNhj</Cell><Cell>Yay, gadjo. From God, of course!</Cell><Cell>Yay, gadjo（是的，外来人）。当然是从上帝那里来！</Cell></Row>
+<Row><Cell>o_zi_aranka_ko_tuke_phend_1arE</Cell><Cell>Ko tuke p-hendja? What magic, gadjo?</Cell><Cell>Ko tuke p-hendja（谁告诉你的）？什么魔法，gadjo（外来人）？</Cell></Row>
+<Row><Cell>o_zi_aranka_laches_gadzo__4lkK</Cell><Cell>Laches gadjo, mishtes. What can an old woman like me do for you?</Cell><Cell>Laches gadjo, mishtes（放心，外来人，先生们）。我这样的老妇能为你们做什么呢？</Cell></Row>
+<Row><Cell>o_zi_aranka_vis_gadzo_v_n_tW8F</Cell><Cell>You know, gadjo, nothing and everything...</Cell><Cell>你知道的，gadjo（外来人），有时候一无所有便是什么都有…</Cell></Row>
+<Row><Cell>o_zi_henry_hele_docela_by_v96x</Cell><Cell>Hey, I’d be quite interested to know if Kozliek really is your brother?</Cell><Cell>嘿，我挺好奇的，科兹里克真是你兄弟吗？</Cell></Row>
+<Row><Cell>o_zi_henry_kdo_je_komori__TVec</Cell><Cell>Who's this Chamberlain Ulrich?</Cell><Cell>这个管家乌尔里希是谁？</Cell></Row>
+<Row><Cell>o_zi_henry_myslis_tvyho_b_VQMi</Cell><Cell>You mean your brother Kozliek?</Cell><Cell>你说的是你的哥哥科兹里克吗？</Cell></Row>
+<Row><Cell>o_zi_henry_sem_tam_se_mi__cOZ7</Cell><Cell>Here and there it seems to me that you are almost too clever. You must have been in a monastery, right Kozliek?</Cell><Cell>在我看来，种种迹象都表明你有时候有点聪明过头了。你肯定在修道院里待过吧，科兹里克？</Cell></Row>
+<Row><Cell>o_zi_katerina_pro_takovyh_BVpY</Cell><Cell>Aye, Jan is simply a man who goes after what he wants with a sword in his hand.</Cell><Cell>是的，扬就是一个会手持利剑去追求他想要的东西的男人。</Cell></Row>
+<Row><Cell>o_zi_kocovnik__na_dzanav__Z8q4</Cell><Cell>Na djanav, maybe. We have wise sayings for everything, gadjo.</Cell><Cell>Na djanav（我不知道），也许吧。我们有对应万物的智慧谚语，gadjo（外来人）。</Cell></Row>
+<Row><Cell>o_zi_kostkar_v_teda_hele__QnAd</Cell><Cell>Look, you know what, that sounds like the gadjo we saw in the forest the other night!</Cell><Cell>嘿，你猜怎么，这听起来像我们前几天晚上在森林里看到的那个gadjo（外来人）！</Cell></Row>
+<Row><Cell>o_zi_kupec_tro_eh_jenze_v_p7M1</Cell><Cell>Eh, but Herr Otto spends more time in Prague than here, and Chamberlain Ulrich…  Ach, lassen wir das.</Cell><Cell>嗯，但奥托大人在布拉格的时间比在这里更长，管家乌尔里希… Ach, lassen wir das.（没有那个必要）。</Cell></Row>
+<Row><Cell>o_zi_rychtar_d_hochu_s_ti_AR4M</Cell><Cell>I'd like to talk to him too, boy, but he's still in Prague. He's hardly ever here. Chamberlain Ulrich is in charge of things.</Cell><Cell>孩子，我也想和他谈谈，但他还在布拉格。他很少来这里。这里一切由管家乌尔里希负责。</Cell></Row>
+<Row><Cell>ph_o_ota_z_ber_a_cim_dele_VD4h</Cell><Cell>The longer you are under the influence of Jan Zizka and Hynek of Kunstadt, the more you will be seen as a murderer…</Cell><Cell>你和扬·杰式卡以及库斯塔特的海尼克为伍越久，就越会被视为杀人犯……</Cell></Row>
+<Row><Cell>pist_henry_co_si_vlastne__kN7q</Cell><Cell>Why the hell did you join Zizka?</Cell><Cell>你当初为什么要加入杰式卡那边？</Cell></Row>
+<Row><Cell>pist_henry_neexistuje_vez_APm8</Cell><Cell>There is no prison that can hold me, as you can see. I defeated Zizka in a duel.</Cell><Cell>你也看到了，什么样的牢房都是关不住我的。我还在决斗中打败了杰式卡。</Cell></Row>
+<Row><Cell>pist_henry_otta_z_bergova_QH4i</Cell><Cell>Otto von Bergow? Sigismund?</Cell><Cell>奥托·冯·波尔高？西格斯蒙德？</Cell></Row>
+<Row><Cell>pist_henry_rekni_mi_jedno_OtPU</Cell><Cell>Tell me one thing. Why? Why Zizka, why von Bergow? Why choose this life?</Cell><Cell>我只想知道一件事情，为什么？为什么选择杰式卡和冯·波尔高？为什么要选择这种生活？</Cell></Row>
+<Row><Cell>pist_pista_zizka_byl_opat_NbkM</Cell><Cell>Zizka was more cautious and faster than I expected. But you lot weren't too successful either. So just what are we accusing each other of here?</Cell><Cell>杰式卡比我想的要更为谨慎和行动迅速。不过你们的进展也不怎么顺利。那么我们为何要在这里互相挖苦呢？</Cell></Row>
+<Row><Cell>po_c_henry_to_zizka_me_k__YnJb</Cell><Cell>By accident. It was thanks to Jan Zizka.</Cell><Cell>纯属偶然，这要归功于扬·杰式卡。</Cell></Row>
+<Row><Cell>pode_nepritel__pan_jan_zi_NAwF</Cell><Cell>Sir Jan Zizka.</Cell><Cell>扬·杰式卡大人。</Cell></Row>
+<Row><Cell>podk_henry_at_na_to_kouka_A0tO</Cell><Cell>This is a market, so how about we haggle a bit over Kincsem?</Cell><Cell>这是市场，我们谈谈金克森姆的价钱怎么样？</Cell></Row>
+<Row><Cell>podk_henry_cena_u_tohohle_kaSy</Cell><Cell>Svadilfari. I'll pay the full amount for that one.</Cell><Cell>斯瓦迪尔法利。我会全款买下那匹马。</Cell></Row>
+<Row><Cell>podk_henry_co_umi_windwurf_Z5fq</Cell><Cell>Veillantif's a strange name. Sounds rather noble.</Cell><Cell>韦兰迪夫是一个奇怪的名字，听起来像贵族。</Cell></Row>
+<Row><Cell>podk_henry_jak_jste_prisl_k5lK</Cell><Cell>What's Windwurf good at?</Cell><Cell>飓风有什么特长？</Cell></Row>
+<Row><Cell>podk_henry_je_to_tak_ze_m_b90r</Cell><Cell>I'll take Veillantif, but take the value of my horse off the price.</Cell><Cell>我要买韦兰迪夫，但它的价格要扣掉我这匹马的价值。</Cell></Row>
+<Row><Cell>podk_henry_je_to_tak_ze_m_MtVo</Cell><Cell>I'll take Windwurf and leave you my horse.</Cell><Cell>我会把飓风带走，把我的马儿留给你。</Cell></Row>
+<Row><Cell>podk_henry_s_tou_cenou_by_BCTa</Cell><Cell>I really like the look of Svadilfari, but that price can't be right.</Cell><Cell>我真喜欢斯瓦迪尔法利的卖相，但价格不太满意。</Cell></Row>
+<Row><Cell>podk_henry_text_dAtA</Cell><Cell>Svadilfari? What's the horse like?</Cell><Cell>斯瓦迪尔法利？这是一匹怎样的马？</Cell></Row>
+<Row><Cell>podk_henry_text_SAh6</Cell><Cell>With a name like Kincsem, I reckon she's not from here, eh?</Cell><Cell>从金克森姆这个名字来看，它应该不是本地马，对吗？</Cell></Row>
+<Row><Cell>podk_henry_verim_ze_se_o__bbmf</Cell><Cell>Windwurf looks good, but I had a different price in mind.</Cell><Cell>飓风看起来很好，但是能不能再便宜一点。</Cell></Row>
+<Row><Cell>podk_henry_za_sedivku_ti__ezZj</Cell><Cell>I'll take Veillantif.</Cell><Cell>我要买韦兰迪夫。</Cell></Row>
+<Row><Cell>podk_henry_za_sedivku_ti__myER</Cell><Cell>I'll be happy to pay you what you ask for Windwurf.</Cell><Cell>我很乐意按照你的出价买下飓风。</Cell></Row>
+<Row><Cell>podk_henry_za_tohohle_ti__GWtj</Cell><Cell>I'll take that mare - Kincsem.</Cell><Cell>我要那匹母马——金克森姆。</Cell></Row>
+<Row><Cell>podk_podkoni_g_aby_ne_tad_TYDp</Cell><Cell>You wouldn't be able to manage with Veillantif and another horse anyway.</Cell><Cell>你一个人肯定无法同时管理韦兰迪夫和另一匹马。</Cell></Row>
+<Row><Cell>podk_podkoni_g_nejakej_pr_0QMe</Cell><Cell>Some scoundrel tried stealing one of our other horses once. As soon as Veillantif saw, he ran straight over.</Cell><Cell>有个混蛋想偷我们另外一匹马，被韦兰迪夫瞧见了，它就径直跑了过去。</Cell></Row>
+<Row><Cell>podk_podkoni_g_prislo_mi__N7R5</Cell><Cell>That handful of alms for Veillantif? You should be ashamed…</Cell><Cell>想用那点钱买下韦兰迪夫？不嫌丢人吗…</Cell></Row>
+<Row><Cell>podk_podkoni_k_potreboval_v388</Cell><Cell>He needed a warhorse - and Kincsem certainly isn't that.</Cell><Cell>他需要一匹战马——而金克森姆当然不是那种马。</Cell></Row>
+<Row><Cell>podk_podkoni_t_mladej_sem_9HZf</Cell><Cell>It's no exaggeration to say that Windwurf's forebears built Grund.</Cell><Cell>毫不夸张地说，飓风的祖先曾经参与建立格兰德。</Cell></Row>
+<Row><Cell>podk_podkoni_t_vypada_ze__QQKn</Cell><Cell>As far as I now, one of Windwurf's brothers turns wheels in some Kuklitz mine, and he's happy enough.</Cell><Cell>据我所知，飓风的一个兄弟在库克利茨的某个矿山工作，它过得挺满足的。</Cell></Row>
+<Row><Cell>poke_bozena_ko_z_zelejova_jRAP</Cell><Cell>It ain't far from Zhelejov to Semine. Sir Jan, the owner, he got a big stud farm with fine horses, and down by the water a mill.</Cell><Cell>从哲勒约夫到塞米并不远。那里的领主扬大人有一个很大的种马场，他养了好几匹骏马，靠近水边还有一个磨坊。</Cell></Row>
+<Row><Cell>poly_hejtman_n_byl_to_zra_hS8v</Cell><Cell>Jan of Semine was a traitor. He deserved nothing less!</Cell><Cell>塞米的扬是叛徒，他该死！</Cell></Row>
+<Row><Cell>poly_hejtman_n_chteli_jsm_eY2L</Cell><Cell>We wanted to arrest that rebel, but his father, Jan, wouldn't give him up peacefully. Unfortunately.</Cell><Cell>我们想逮捕那个叛军，但他父亲，扬，迟迟不愿交出人。很遗憾。</Cell></Row>
+<Row><Cell>poly_henry_jakmile_si_vez_J3BY</Cell><Cell>When you take a mace in your hand, a nice chunk of metal, you know one good blow will do the job.</Cell><Cell>手上有钉头锤这等千斤铁块，只需朝前挥一下，事情就解决了。</Cell></Row>
+<Row><Cell>poly_henry_myslel_sem_ze__DhBy</Cell><Cell>I thought you and Kozliek would help us.</Cell><Cell>我还以为你和科兹里克会帮助我们。</Cell></Row>
+<Row><Cell>poly_petr_z_pi_uklidni_se_D5Qj</Cell><Cell>Calm down, Jan. We're still friends.</Cell><Cell>冷静点，扬。我们还是朋友。</Cell></Row>
+<Row><Cell>poly_zizka_jako_poslednih_eIP8</Cell><Cell>I'm also entrusting to you my man-at-arms Kozliek and one of the local men.</Cell><Cell>我还会派我的武侍科兹里克和一名本地士兵跟着你。</Cell></Row>
+<Row><Cell>povi_henry_jana_Euri</Cell><Cell>Jan?</Cell><Cell>扬？</Cell></Row>
+<Row><Cell>povi_lovci_vos_byla_s_out_gNKA</Cell><Cell>She was with child. I reckon she was carrying Jan's bastard, and Von Bergow was against it.</Cell><Cell>她有了身孕。我猜测她怀的是扬的私生子，冯·波尔高对此很不满。</Cell></Row>
+<Row><Cell>povi_lovci_vos_ty_holce_m_lUsJ</Cell><Cell>The lass couldn't have been older than fifteen. A servant at the castle. I saw young Sir Jan being dragged away from her.</Cell><Cell>那个女孩不足十五岁。是城堡里的佣人。我看到有人把年轻的扬爵士从她身边拉开。</Cell></Row>
+<Row><Cell>pred_henry_posila_me_za_t_T5Jv</Cell><Cell>Rat sent me to you.</Cell><Cell>老鼠派我来找你。</Cell></Row>
+<Row><Cell>pred_prekupnik_a_krysa_ti_CWVy</Cell><Cell>And Rat told you I know where to sell this stuff?</Cell><Cell>老鼠和你说过我知道在哪里能卖掉这东西？</Cell></Row>
+<Row><Cell>prep_henry_byli_jsme_ale__2F5p</Cell><Cell>And it's also true that we were ambushed yesterday down by the pond.</Cell><Cell>而且我们昨天在池塘边遭到伏击也是真的。</Cell></Row>
+<Row><Cell>prep_henry_jeli_jsme_na_t_u8wV</Cell><Cell>We were heading to Trosky to deliver a message from Sir Hanush of Leipa and Margrave Jobst to Lord von Bergow, but we were ambushed by bandits yesterday down by the pond.</Cell><Cell>我们要去特罗斯基，把莱佩的瀚纳什爵士和约布斯特侯爵的信息传递给冯·波尔高大人，但我们昨天在池塘边遭到强盗的伏击。</Cell></Row>
+<Row><Cell>prij_jan_zizka__ty_jsi_pe_hErN</Cell><Cell>I expect you're Peter of Pisek? I am Jan Zizka of Trotznov.</Cell><Cell>你是皮塞克的彼得吧？我是特罗茨诺夫的扬·杰式卡。</Cell></Row>
+<Row><Cell>prvn_henry_ale_pan_komori_vBWG</Cell><Cell>You don't say! Then why does Chamberlain Ulrich suspect you personally?</Cell><Cell>真的吗？那么管家乌尔里希为何要怀疑你呢？</Cell></Row>
+<Row><Cell>ptac_ptacek_zatracene_ten_eQSk</Cell><Cell>Fuck, Chamberlain Ulrich!</Cell><Cell>该死，管家乌尔里希！</Cell></Row>
+<Row><Cell>pytl_henry_hledam_kozesin_R36j</Cell><Cell>I'm looking for a hide from a rare white roebuck. And I think you know something about it... </Cell><Cell>我在找一张稀有的白狍子皮。我想你们应该知道一些情况…</Cell></Row>
+<Row><Cell>redi_reditel_t_konrad_zva_10OC</Cell><Cell>Konrad the Kite!</Cell><Cell>“老鹰”康拉德！</Cell></Row>
+<Row><Cell>redi_reditel_t_kozeluh_ot_blqO</Cell><Cell>Odorous Otto the tanner!</Cell><Cell>臭气熏天的奥托皮匠！</Cell></Row>
+<Row><Cell>roza_henry_a_co_by_to_mel_e0vA</Cell><Cell>And what might that be?</Cell><Cell>那具体是什么呢？</Cell></Row>
+<Row><Cell>rozh_henry_a_co_ten_farar_47hD</Cell><Cell>And what about this Father Prokop?</Cell><Cell>那普罗科普神父呢？</Cell></Row>
+<Row><Cell>rozh_henry_a_nemohl_jsi_s_CTeE</Cell><Cell>And could it've been Father Prokop following her?</Cell><Cell>有没有可能是普罗科普神父在跟踪她？</Cell></Row>
+<Row><Cell>rozh_henry_nemohl_by_to_b_4JIN</Cell><Cell>Couldn't it have been Father Prokop?</Cell><Cell>有没有可能是普罗科普神父干的？</Cell></Row>
+<Row><Cell>rozh_henry_prej_chodila_z_b3OI</Cell><Cell>It was a long time ago, but I heard she used to hang around you a lot. And Father Prokop didn't like it.</Cell><Cell>尽管那是很久之前的事了，但我听说她常跟你呆在一起，普罗科普神父为此很不乐意。</Cell></Row>
+<Row><Cell>rozh_sarka_kub_knez_s_nim_gfxR</Cell><Cell>Father Prokop? I don't know him.</Cell><Cell>普罗科普神父？我不认识他。</Cell></Row>
+<Row><Cell>s_bo_suchy_cert_musis_mi__W9cw</Cell><Cell>Fuck you, Jan! I'd trade places with you in a heartbeat, trust me.</Cell><Cell>去你妈的，扬！相信我，我愿意马上和你交换位置。</Cell></Row>
+<Row><Cell>s_ce_raubritte_a_teda_mal_B4Ki</Cell><Cell>Oh… and I almost forgot. When you're done, bring me Canker's mace. As proof.</Cell><Cell>哦…我差点忘了。你完成任务后，要将“溃疡”的钉头锤带回来，作为证物。</Cell></Row>
+<Row><Cell>s_ce_raubritte_opravdu_ta_PMnh</Cell><Cell>Seriously? So you brought me his mace like I told you to?</Cell><Cell>真的吗？你将我要的钉头锤带回来了吗？</Cell></Row>
+<Row><Cell>se_s_henry_ale_ten_u_vrat_XRBH</Cell><Cell>Tuma? Oh come on, he's drinking too. We had some schnapps together a moment ago.</Cell><Cell>图马？哦，得了吧，他自己也喝着呢。刚才我们还一起喝了点烈酒。</Cell></Row>
+<Row><Cell>s_fa_strazny_u_nandej_mu__qVGn</Cell><Cell>Hammer him, Sir Jan!</Cell><Cell>锤他，扬爵士！</Cell></Row>
+<Row><Cell>s_ko_henry_hm_tady_uz_se__pbhv</Cell><Cell>There's nothing to be done now. Go and get some rest, Kozliek. We'll come up with what to do next later.</Cell><Cell>现在想这些也无济于事了。去休息一下吧，科兹里克。我们稍后再想下一步该怎么办。</Cell></Row>
+<Row><Cell>s_ko_pan_semin_jeste_tu_n_jIqH</Cell><Cell>Lord von Bergow isn't here yet, but Chamberlain Ulrich assures me he'll arrive any moment now.</Cell><Cell>冯·波尔高大人还没到，但管家乌尔里希向我保证他很快就会到了。</Cell></Row>
+<Row><Cell>s_ku_henry_a_cesta_k_ni_v_oLhN</Cell><Cell>And the way to get it leads right through the Chamberlain and his quarters.</Cell><Cell>而那本书就在管家的住处可以拿到。</Cell></Row>
+<Row><Cell>s_ku_henry_ale_dorota_rik_TuuM</Cell><Cell>But Dorothy said none of the girls want anything to do with the chamberlain because of his "special tastes".</Cell><Cell>但是多萝西说，由于管家的“特殊品味”，没有一个女孩愿意和他扯上关系。</Cell></Row>
+<Row><Cell>s_ku_henry_ale_holky_rika_vK3B</Cell><Cell>But the girls said they didn't want anything to do with him because of his "special tastes".</Cell><Cell>但是女孩们说，由于管家的“特殊品味”，她们不愿意和他扯上关系。</Cell></Row>
+<Row><Cell>s_ku_henry_jen_si_nemysli_ZZFR</Cell><Cell>Not so fast. It won't be that easy with the chamberlain.</Cell><Cell>没那么简单。有管家在，这件事没那么容易。</Cell></Row>
+<Row><Cell>s_ku_henry_pan_komori_z_t_13Nw</Cell><Cell>The Chamberlain of Trosky, Sir Ulrich von Schaumberg!</Cell><Cell>特罗斯基的管家，乌尔里希·冯·沙恩伯格爵士！</Cell></Row>
+<Row><Cell>s_ku_henry_prej_nejde_vo__wADF</Cell><Cell>It seems it's not about what Chamberlain Schaumberg did to them, but he wanted them to do to him.</Cell><Cell>这不是因为沙恩伯格管家对她们做了什么，而是他希望她们对她做什么。</Cell></Row>
+<Row><Cell>s_ku_kurtyzana_a_kdyby_pr_tdKy</Cell><Cell>And just in case… there's this potion I carry around. A couple of drops and the chamberlain will sleep like a log.</Cell><Cell>以防万一……我随身带着这种药水。只须滴上几滴，就能让管家睡得像根木头。</Cell></Row>
+<Row><Cell>s_ku_kurtyzana_chm_komori_NpaP</Cell><Cell>Hmm… The chamberlain? As in the castle caretaker? I'm not interested in some little clerk.</Cell><Cell>嗯……管家？就是那个城堡的看守人？我对小人物没兴趣。</Cell></Row>
+<Row><Cell>s_ku_kurtyzana_no_ale_mus_CbnV</Cell><Cell>I must say, I'm quite curious about the Chamberlain now.</Cell><Cell>我必须说，我现在对管家很好奇。</Cell></Row>
+<Row><Cell>s_ku_kurtyzana_sup_sup_at_5KsT</Cell><Cell>Hurry up, then. We don't want to keep the chamberlain waiting.</Cell><Cell>那就快点吧。别让管家久等了。</Cell></Row>
+<Row><Cell>s_mi_mikes_zatracenej_koz_uEDO</Cell><Cell>Bloody Kozliek!</Cell><Cell>该死的科兹里克！</Cell></Row>
+<Row><Cell>snid_pavlena_d_o_tom_jsem_IvEZ</Cell><Cell>I told you about them though! The fellahs in the tavern in Zhelejov were saying there's some foreigners like that camping in the rocks down by the pond!</Cell><Cell>我跟你说我知道他们的事！在哲勒约夫酒馆里的人说，有一群这样的外地人在池塘边的山谷间扎营！</Cell></Row>
+<Row><Cell>spec_aranka_ted_to_nejde__7dqe</Cell><Cell>Now? Hajso na! Come later gadjo, when I won't have so much work.</Cell><Cell>现在？Hajso na（不行）！等我不忙的时候再来找我吧，gadjo（外来人）。</Cell></Row>
+<Row><Cell>spec_henry_chtel_bych_se__ZFDj</Cell><Cell>I'd like to learn how to handle an axe or mace.</Cell><Cell>我想学怎么用斧头或者钉头锤。</Cell></Row>
+<Row><Cell>spec_vokrak_nejen_se_skop_uB0v</Cell><Cell>Not just ale. I like wine too, and I wouldn't turn my nose up and some nice schnapps either.</Cell><Cell>不只是啤酒，葡萄酒我也喜欢。只要味道好，烈酒我也来者不拒。</Cell></Row>
+<Row><Cell>s_pt_ptacek_no_ze_je_vede_SatH</Cell><Cell>Well, that some fellah called Jan is in charge.</Cell><Cell>那个叫扬的家伙是他们的头领。</Cell></Row>
+<Row><Cell>s_pt_ptacek_vede_je_nejak_FEWs</Cell><Cell>There's some fellah called Jan in charge, they occupied Nebakov and that bastard Istvan's joined them.</Cell><Cell>有个叫扬的家伙是他们的头领，他们还把内巴科夫给占领了，而且那个混蛋伊斯特万还加入了他们。</Cell></Row>
+<Row><Cell>s_pt_ptacek_ze_je_vede_ne_jJ91</Cell><Cell>That there's some fellah called Jan in charge and that that bastard Istvan has joined them.</Cell><Cell>有个叫扬的家伙是他们的头领，而且那个混蛋伊斯特万加入了他们。</Cell></Row>
+<Row><Cell>s_pt_ptacek_ze_sidlej_na__iqI2</Cell><Cell>That they're based in Nebakov and some fellah called Jan is in charge.</Cell><Cell>他们的基地在内巴科夫，而且那个叫扬的家伙是他们的头领。</Cell></Row>
+<Row><Cell>s_ta_nesikovna_no_dobra_2Mc6</Cell><Cell>Alright… I might have added a little schnapps to it.</Cell><Cell>好吧……可能是因为我在里面加了一点烈酒。</Cell></Row>
+<Row><Cell>star_hospoda_u_ve_druhem__wo8p</Cell><Cell>On the second floor, right across from the stairs. There's a green wreath on the wall there.</Cell><Cell>在三楼，楼梯对面，墙上有绿色的花环的那间。</Cell></Row>
+<Row><Cell>star_hospoda_u_ve_druhem__yd2x</Cell><Cell>On the second floor, right across from the stairs. There's a green wreath on the wall there.</Cell><Cell>在三楼，楼梯对面，墙上有绿色的花环的那间。</Cell></Row>
+<Row><Cell>star_pan_semin_tomu_ja_ro_TIp5</Cell><Cell>Yes. Jan and I were exactly the same. Our wedding was the talk of the county for quite some time.</Cell><Cell>是啊，当初我和扬也是这副模样。我们的婚礼曾经是全郡的佳话。</Cell></Row>
+<Row><Cell>star_seminova__jane_mej_p_D4P5</Cell><Cell>Jan… Have some sympathy, he's getting married today. It's no wonder he's nervous.</Cell><Cell>扬……理解一下吧，他今天要结婚了，难免会紧张。</Cell></Row>
+<Row><Cell>stra_henry_prichazim_jmen_xrAo</Cell><Cell>I'm here on behalf of Sir Jan of Suchotlesky. I'm to meet with László Farkas.</Cell><Cell>我是代表苏霍茨基的扬爵士来的。我要见拉斯洛·法卡斯。</Cell></Row>
+<Row><Cell>stra_kovar_tro_mimochodem_X4dI</Cell><Cell>By the way, you lot all think running the castle is a piece of cake, but for sure Chamberlain Ulrich hasn't got it easy.</Cell><Cell>顺便说一句，你们都认为管理城堡很容易，但可以肯定的是，管家乌尔里希并不轻松。</Cell></Row>
+<Row><Cell>stra_strazny_z_fakt_nevim_5sLu</Cell><Cell>I don't know what your problem is, but you're not going to fight with me, you bastard!</Cell><Cell>我不知道你有什么毛病，但你不能跟我打架，你这个混蛋！</Cell></Row>
+<Row><Cell>suk__henry_palcat_pS3k</Cell><Cell>A mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>s_vy_henry_jsem_z_druziny_v0pd</Cell><Cell>I'm from Jan Zizka's retinue, we want to put King Wenceslas back on the throne.</Cell><Cell>我是扬·杰式卡的随从，我们想让瓦茨拉夫国王重新登上王位。</Cell></Row>
+<Row><Cell>te___henry_myslim_ze_jsem_FmCL</Cell><Cell>So you're that grandmaster?  </Cell><Cell>所以您就是那位大师？  </Cell></Row>
+<Row><Cell>tetr_bohuta_npc_je_to_dal_3fki</Cell><Cell>Is it far? Zizka won't make it too far on foot.</Cell><Cell>很远吗？杰式卡现在这样子，走不了远路啊。</Cell></Row>
+<Row><Cell>tret_henry_hledam_tady_je_AC6e</Cell><Cell>I'm looking for a woman. She was talking to Chamberlain Ulrich, but she vanished. Have you seen her?</Cell><Cell>我正在找一个女人。她原本在和管家乌尔里希谈话，但后来消失了。你见过她吗？</Cell></Row>
+<Row><Cell>tria_henry_musim_souhlasi_FJdw</Cell><Cell>I agree with Father Marian. I grew up next to mines and we never came across any pit to hell.</Cell><Cell>我同意神父马里安的话。我在矿场旁边长大，我们从未见过通往地狱的坑洞。</Cell></Row>
+<Row><Cell>ui_arne_neme_seq1_ejcx</Cell><Cell>I'm seeking reinforcements for Jan of Suchotlesky.</Cell><Cell>我在为苏霍茨基的扬寻求援军。</Cell></Row>
+<Row><Cell>ui_benes_od__seq1_OPYg</Cell><Cell>I'm seeking reinforcements for Jan of Suchotlesky.</Cell><Cell>我在为苏霍茨基的扬寻求援军。</Cell></Row>
+<Row><Cell>ui_bratri_z__seq1_qHuH</Cell><Cell>I'm seeking reinforcements for Jan of Suchotlesky.</Cell><Cell>我在为苏霍茨基的扬寻求援军。</Cell></Row>
+<Row><Cell>ui_custom_di_seq5_RpT9</Cell><Cell>Leave Zizka alone!</Cell><Cell>别碰杰式卡！</Cell></Row>
+<Row><Cell>ui_finalni_p_seq205_x9Ai</Cell><Cell>I should have killed them.</Cell><Cell>我就应该杀了他们。</Cell></Row>
+<Row><Cell>ui_finalni_p_seq272_A0R5</Cell><Cell>There was no other way.</Cell><Cell>我当时别无选择。</Cell></Row>
+<Row><Cell>ui_finalni_p_seq272_WFXN</Cell><Cell>There was no other way.</Cell><Cell>我当时别无选择。</Cell></Row>
+<Row><Cell>ui_franta_ku_seq32_Ebka</Cell><Cell>I can do a better job.</Cell><Cell>我可以更好的胜任工作。</Cell></Row>
+<Row><Cell>ui_hrac_odev_navratovka_9L9L</Cell><Cell>I got the white roebuck's hide.</Cell><Cell>我找到了白狍子皮。</Cell></Row>
+<Row><Cell>ui_hrac_odev_seq1_hnnw</Cell><Cell>I got the white roebuck's hide.</Cell><Cell>我找到了白狍子皮。</Cell></Row>
+<Row><Cell>ui_hrac_odev_seq1_kfPf</Cell><Cell>I have that white roebuck's hide for you.</Cell><Cell>我给你带来了白狍子皮。</Cell></Row>
+<Row><Cell>ui_jan__jind_seq39_OxXD</Cell><Cell>Kozliek and Mikesh.</Cell><Cell>米凯什和科兹里克。</Cell></Row>
+<Row><Cell>ui_jan_laszl_seq11_Rr37</Cell><Cell>Let him speak, Jan.</Cell><Cell>让他说吧，扬。</Cell></Row>
+<Row><Cell>ui_jan_laszl_seq9_oSpJ</Cell><Cell>(Join Jan)</Cell><Cell>（加入扬）</Cell></Row>
+<Row><Cell>ui_kapitan_s_seq7_y9wq</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_katerina__seq39_H0X0</Cell><Cell>I'm looking for medicine for the chamberlain.</Cell><Cell>我在给管家找药。</Cell></Row>
+<Row><Cell>ui_katerina__seq3_r5Ej</Cell><Cell>Do you know Kozliek?</Cell><Cell>你认识科兹里克吗？</Cell></Row>
+<Row><Cell>ui_kostky_pr_formanska_r0vA</Cell><Cell>Wagoners!</Cell><Cell>车夫！</Cell></Row>
+<Row><Cell>ui_kostky_pr_kardinalska_Ylh0</Cell><Cell>Cardinals!</Cell><Cell>主教！</Cell></Row>
+<Row><Cell>ui_kostky_pr_mistrovska_wcCe</Cell><Cell>Wagoners!</Cell><Cell>车夫！</Cell></Row>
+<Row><Cell>ui_kostky_pr_seq28_bTOd</Cell><Cell>Cardinals!</Cell><Cell>主教！</Cell></Row>
+<Row><Cell>ui_kostky_pr_seq32_iwMM</Cell><Cell>I don't want to play.</Cell><Cell>我不想玩了。</Cell></Row>
+<Row><Cell>ui_kostky_pr_seq32_nMhd</Cell><Cell>I don't want to play.</Cell><Cell>我不想玩了。</Cell></Row>
+<Row><Cell>ui_kozlik_a__seq1_DRMd</Cell><Cell>I'm seeking reinforcements for Jan of Suchotlesky.</Cell><Cell>我在为苏霍茨基的扬寻求援军。</Cell></Row>
+<Row><Cell>ui_kubenka_a_seq3_vFkY</Cell><Cell>I'm seeking reinforcements for Jan of Suchotlesky.</Cell><Cell>我在为苏霍茨基的扬寻求援军。</Cell></Row>
+<Row><Cell>ui_laszlo__n_seq36_PREz</Cell><Cell>Jan has the right to know.</Cell><Cell>扬有权利知道。</Cell></Row>
+<Row><Cell>ui_laszlo__p_jindra_uz_os_mQau</Cell><Cell>Jan of Suchotlesky sent me.</Cell><Cell>苏霍茨基的扬派我来的。</Cell></Row>
+<Row><Cell>ui_laszlo__v_seq19_adQK</Cell><Cell>That makes sense. Jan will understand.</Cell><Cell>这很合理。扬会理解的。</Cell></Row>
+<Row><Cell>ui_lore_dial_zizka_KuSk</Cell><Cell>How long have you known Jan Zizka?</Cell><Cell>你认识扬·杰式卡多久了？</Cell></Row>
+<Row><Cell>ui_mlynar__v_seq1_Mh9H</Cell><Cell>I talked to Dorothy about the chamberlain.</Cell><Cell>我跟多萝西说了管家的事。</Cell></Row>
+<Row><Cell>ui_mlynar__v_seq2_V0b9</Cell><Cell>I talked to the bathhouse wenches about the chamberlain.</Cell><Cell>我和澡堂女仆谈了谈管家的事。</Cell></Row>
+<Row><Cell>ui_o_zivote__jak_znas_ziz_H5zZ</Cell><Cell>How did you meet Jan Zizka?</Cell><Cell>你是怎么认识扬·杰式卡的？</Cell></Row>
+<Row><Cell>ui_o_zivote__kde_jsi_potk_L3N1</Cell><Cell>Where did you meet Jan Zizka?</Cell><Cell>你是在哪认识扬·杰式卡的？</Cell></Row>
+<Row><Cell>ui_o_zivote__komori_ulrich_e0mE</Cell><Cell>Who is Chamberlain Ulrich?</Cell><Cell>谁是管家乌尔里希？</Cell></Row>
+<Row><Cell>ui_o_zivote__seq1_iGt3</Cell><Cell>Kozliek is your brother?</Cell><Cell>科兹里克是你的兄弟吗？</Cell></Row>
+<Row><Cell>ui_pista_roz_seq10_M8no</Cell><Cell>Why did you join Zizka?</Cell><Cell>你为什么要加入杰式卡那边？</Cell></Row>
+<Row><Cell>ui_podkoni___seq3_31y1</Cell><Cell>Kincsem.</Cell><Cell>金克森姆。</Cell></Row>
+<Row><Cell>ui_podkoni___seq37_1_1_hKMV</Cell><Cell>About Veillantif.</Cell><Cell>关于韦兰迪夫。</Cell></Row>
+<Row><Cell>ui_podkoni___seq40_1_mZOe</Cell><Cell>Veillantif.</Cell><Cell>韦兰迪夫。</Cell></Row>
+<Row><Cell>ui_podkoni___seq6_mQ4P</Cell><Cell>About Kincsem.</Cell><Cell>关于金克森姆。</Cell></Row>
+<Row><Cell>ui_podkoni_t_seq27_7pDi</Cell><Cell>Svadilfari.</Cell><Cell>斯瓦迪尔法利。</Cell></Row>
+<Row><Cell>ui_podkoni_t_seq37_1_kx2e</Cell><Cell>About Windwurf.</Cell><Cell>关于飓风。</Cell></Row>
+<Row><Cell>ui_podkoni_t_seq37_tgG6</Cell><Cell>About Svadilfari.</Cell><Cell>关于斯瓦迪尔法利。</Cell></Row>
+<Row><Cell>ui_podkoni_t_seq40_HuBk</Cell><Cell>Windwurf.</Cell><Cell>飓风。</Cell></Row>
+<Row><Cell>ui_predani_u_prekupnik_po_g74S</Cell><Cell>Rat sent me to you.</Cell><Cell>老鼠派我来找你。</Cell></Row>
+<Row><Cell>ui_ptacek__d_seq6_LX0e</Cell><Cell>I saw Toth at the pond!</Cell><Cell>我在池塘边看见了托思！</Cell></Row>
+<Row><Cell>ui_ras_si_po_seq30_HJ7x</Cell><Cell>What can I do?</Cell><Cell>我该怎么办？</Cell></Row>
+<Row><Cell>ui_rozhovor__o_jarce_SVBT</Cell><Cell>Did you meet Father Prokop's foster daughter, Jarka?</Cell><Cell>你是否见过普罗科普神父的养女贾卡？</Cell></Row>
+<Row><Cell>ui_rozhovor__presvedcovani_PWtW</Cell><Cell>You'll be doing yourself a favour as well.</Cell><Cell>这对你也有好处。</Cell></Row>
+<Row><Cell>ui_rozhovor__seq12_hbzi</Cell><Cell>Could it have been Father Prokop?</Cell><Cell>有没有可能是普罗科普神父干的？</Cell></Row>
+<Row><Cell>ui_rozhovor__seq5_Rfw1</Cell><Cell>Wasn't it Father Prokop?</Cell><Cell>会是普罗科普神父干的吗？</Cell></Row>
+<Row><Cell>ui_s_cervena_seq10_aNzn</Cell><Cell>Here's Canker's mace.</Cell><Cell>这是“溃疡”的钉头锤。</Cell></Row>
+<Row><Cell>ui_special_a_seq4_cH9P</Cell><Cell>Unarmed Combat (Journeyman)</Cell><Cell>徒手格斗（熟手）</Cell></Row>
+<Row><Cell>ui_special_t_survival_WD7Z</Cell><Cell>Survival skills (Basics)</Cell><Cell>生存（基础）</Cell></Row>
+<Row><Cell>ui_straze_ta_seq14_qwV0</Cell><Cell>I'm a messenger from Jan of Suchotlesky.</Cell><Cell>我是苏霍茨基的扬的信使。</Cell></Row>
+<Row><Cell>ui_suk_zbrane_seq4_DK3W</Cell><Cell>A mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_svec_linh_seq1_MEmp</Cell><Cell>I'm seeking reinforcements for Jan of Suchotlesky.</Cell><Cell>我在为苏霍茨基的扬寻求援军。</Cell></Row>
+<Row><Cell>ui_trialog_n_seq18_spT1</Cell><Cell>Did you hear it too, Father Marian?</Cell><Cell>你也听到了吗，神父马里安？</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_08M0</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_19vW</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_7gdI</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_FIy8</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_Nc26</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_On2U</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_tbqv</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_y2Zc</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq14_ZSUc</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq24_80fs</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq24_dylX</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq24_NKqT</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_13cV</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_e6Mn</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_Gj5j</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_IUKG</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_OHo1</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_sjXq</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_y38E</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_ydLh</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq25_zux4</Cell><Cell>Mace and shield.</Cell><Cell>钉头锤和盾牌。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_1LZP</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_adl7</Cell><Cell>Mace.</Cell><Cell>钉头锤</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_BtjV</Cell><Cell>Mace.</Cell><Cell>钉头锤</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_kZ8H</Cell><Cell>Mace.</Cell><Cell>钉头锤</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_m1CR</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_MKZL</Cell><Cell>Mace.</Cell><Cell>钉头锤。</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_pyEg</Cell><Cell>Mace.</Cell><Cell>钉头锤</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_tAiT</Cell><Cell>Mace.</Cell><Cell>钉头锤</Cell></Row>
+<Row><Cell>ui_vasko_je__seq9_yx79</Cell><Cell>Mace.</Cell><Cell>钉头锤</Cell></Row>
+<Row><Cell>ui_v_laznich_seq12_uP0i</Cell><Cell>No, for the chamberlain.</Cell><Cell>不，是为了管家。</Cell></Row>
+<Row><Cell>ui_v_laznich_seq20_E6Vc</Cell><Cell>Aye, for the chamberlain.</Cell><Cell>是的，给管家。</Cell></Row>
+<Row><Cell>ui_v_laznich_seq3_R5Gy</Cell><Cell>About the chamberlain.</Cell><Cell>关于管家。</Cell></Row>
+<Row><Cell>ui_v_laznich_seq6_REfC</Cell><Cell>He's looking for a girl for the chamberlain.</Cell><Cell>他在为管家找一个姑娘。</Cell></Row>
+<Row><Cell>ui_zena_nauc_seq192_GZYf</Cell><Cell>Unarmed Combat (Apprentice)</Cell><Cell>徒手格斗（学徒）</Cell></Row>
+<Row><Cell>ui_zena_nauc_seq193_FRSK</Cell><Cell>Unarmed Combat (Journeyman)</Cell><Cell>徒手格斗（熟手）</Cell></Row>
+<Row><Cell>ui_zena_nauc_seq194_KfIq</Cell><Cell>Unarmed Combat (Master)</Cell><Cell>徒手格斗（大师）</Cell></Row>
+<Row><Cell>ui_zena_nauc_unarmed_rD2A</Cell><Cell>Unarmed Combat (Basics)</Cell><Cell>徒手格斗（基础）</Cell></Row>
+<Row><Cell>vask_cerny_bar_misto_palc_sGqO</Cell><Cell>Are you trying to kill me? I'll give you a club, you swing it the same way. </Cell><Cell>你想杀了我吗？我给你一根棍棒，你可以用挥舞钉头锤的方式挥舞棍棒。</Cell></Row>
+<Row><Cell>vask_hejtman_f_misto_palc_zTVf</Cell><Cell>Nein, I'll give you a Schlagstock instead of a mace.</Cell><Cell>Nein（不），钉头锤就算了，我给你根Schlagstock（短棍）吧。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_kpalcat_Nh3P</Cell><Cell>Give me a mace.</Cell><Cell>给我一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__4GgH</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__4U5W</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__DqPU</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__QRtX</Cell><Cell>I want a heavy mace and a shield.</Cell><Cell>我想要一根重型钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__r0le</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__tAod</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__Yg8j</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_dej_mi_palcat__z2Yg</Cell><Cell>Give me a mace and a shield.</Cell><Cell>给我一根钉头锤和一张盾牌。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_43im</Cell><Cell>Something proper! A mace. </Cell><Cell>来点趁手的！钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_8REe</Cell><Cell>Give me a mace.</Cell><Cell>给我一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_EB1z</Cell><Cell>Give me a mace.</Cell><Cell>给我一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_fAy3</Cell><Cell>A mace will be best.</Cell><Cell>有钉头锤就最好了。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_skjs</Cell><Cell>Give me a mace.</Cell><Cell>给我一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_uQBx</Cell><Cell>A mace will do for me.</Cell><Cell>钉头锤就够了。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_Wrqv</Cell><Cell>A mace will do fine.</Cell><Cell>钉头锤就好。</Cell></Row>
+<Row><Cell>vask_henry_palcat_mi_bude_WuIN</Cell><Cell>Give me a mace.</Cell><Cell>给我一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_3WSz</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_4EHz</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_AYSx</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_CLIZ</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_GnM8</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_huPF</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_IKRe</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_l0SS</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_PCfh</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_UdG2</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_uv1P</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_voeZ</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_W6b9</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_pa_YLXa</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_taky_si_vem_se_CI2d</Cell><Cell>Take a mace and shield as well.</Cell><Cell>你也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_taky_vem_OqUw</Cell><Cell>Take a mace as well.</Cell><Cell>你也用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_9Hv0</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_9p6f</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_C8t2</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_cBmA</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_fQqs</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_gjbw</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_GMhb</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_gqJ5</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_jcvZ</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_leMj</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_NDIZ</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_njXB</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_piqh</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_sW2s</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_uM0e</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_palc_XIW0</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_seke_8Exg</Cell><Cell>You take a mace and shield.</Cell><Cell>你用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_ty_si_vem_seke_CDJc</Cell><Cell>You take a mace.</Cell><Cell>你用钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_4Irk</Cell><Cell>I'll take a mace and a shield as well.</Cell><Cell>我也用钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_5XbI</Cell><Cell>I'll take a mace and a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_DJl8</Cell><Cell>I'll take a mace and a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_J2R1</Cell><Cell>I'll take a shield as well as a proper mace.  </Cell><Cell>我要张盾牌，还有趁手的钉头锤。 </Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_KiPz</Cell><Cell>I'll take a mace and a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_kpGP</Cell><Cell>I'll take a mace as well as a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_qyeA</Cell><Cell>I'll take a mace and a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_0W0M</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_cxXn</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_hUiF</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_IZrA</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_rD2Z</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_To6D</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_w62w</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_wnDE</Cell><Cell>A mace, I want to hit hard! </Cell><Cell>钉头锤，我想狠狠击打！</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palcat_YO1J</Cell><Cell>I'll take a mace.</Cell><Cell>我要一根钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_wbp7</Cell><Cell>I'll take a mace as well as a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_vezmu_si_palca_Wpwj</Cell><Cell>I'll take a mace and a shield.</Cell><Cell>我要钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_4jXB</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_9jhN</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_aFbq</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_DrQ8</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_hRiW</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_hu9h</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_jjLz</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_kfLo</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_N770</Cell><Cell>I'll give the mace a go.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_NKFB</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_pG0h</Cell><Cell>I'll have a go with a mace and shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_pk02</Cell><Cell>I'll have a go with the mace.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_TcrT</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_vtJD</Cell><Cell>I'll try a mace and a shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_wYek</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_XbJr</Cell><Cell>I'll try a mace and shield.</Cell><Cell>我要试试钉头锤和盾牌。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_XmcP</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_henry_zkusim_to_s_pa_zPci</Cell><Cell>I'll give the mace a try.</Cell><Cell>我要试试钉头锤。</Cell></Row>
+<Row><Cell>vask_jan_balsa_misto_palc_4pIG</Cell><Cell>Are you trying to kill me? I'll give you a cudgel instead of a mace. </Cell><Cell>你想杀了我吗？我给你根棍子，钉头锤就别想了。 </Cell></Row>
+<Row><Cell>vask_vasko_misto_palcatu__3kD6</Cell><Cell>I'll give you a cudgel instead of a mace. It comes to the same thing.</Cell><Cell>钉头锤就算了，我给你根棍子。这两样东西差不多。</Cell></Row>
+<Row><Cell>vask_vasko_misto_palcatu__uaHi</Cell><Cell>You'd better take a club. A mace is no good for practice. </Cell><Cell>你最好拿根棍棒，钉头锤不适合练习。</Cell></Row>
+<Row><Cell>vask_vasko_misto_palcatu__vW5n</Cell><Cell>Mein Freund, I will give you a cudgel instead of a mace. </Cell><Cell>Mein Freund（我的朋友），钉头锤就算了，我给你根短棍吧。 </Cell></Row>
+<Row><Cell>vask_velitel_k_misto_palc_3pu3</Cell><Cell>I'll give you a cudgel instead of a mace. It comes to the same thing.</Cell><Cell>钉头锤就算了，我给你根棍子。这两样东西差不多。</Cell></Row>
+<Row><Cell>verb_henry_ted_se_ale_seb_BBkO</Cell><Cell>But now, gather your things and join the others in the outer bailey, Kozliek.</Cell><Cell>现在，收拾一下你的东西，和其他人到外堡场集合，科兹里克。</Cell></Row>
+<Row><Cell>v_la_bordelmam_a_na_pana__jNwG</Cell><Cell>And the chamberlain who one of you should attend to.</Cell><Cell>以及你们其中一员要去侍候管家。</Cell></Row>
+<Row><Cell>v_la_bordelmam_kdyz_jsem__Hhy9</Cell><Cell>Soon as I found out, I turned down the chamberlain's proposals.</Cell><Cell>我一听到这种事，就拒绝了管家的提议。</Cell></Row>
+<Row><Cell>v_la_bordelmam_klid_holky_EOJr</Cell><Cell>Calm down, girls. Don't worry, I'll never send you to the chamberlain again.</Cell><Cell>冷静点！姑娘们，别担心，我再也不会让你们去见管家了。</Cell></Row>
+<Row><Cell>v_la_bordelmam_nech_si_ty_k6fb</Cell><Cell>Cut the horseshit! He was asking about the chamberlain, he wants a girl for him at the wedding!</Cell><Cell>废话少说！他在问管家的事，他想在婚礼上给管家找个姑娘！</Cell></Row>
+<Row><Cell>v_la_bordelmam_nezdrzuj_n_IrcC</Cell><Cell>Look, we're busy! Tell him about the time the Master Chamberlain invited you to the castle!</Cell><Cell>听着，我们都很忙！跟他讲讲管家让你们去城堡的事吧！</Cell></Row>
+<Row><Cell>v_la_bordelmam_predne_kom_nSBB</Cell><Cell>First of all, the chamberlain ain't no murderer or brute. Not like that fucker who killed people here in the bathhouse.</Cell><Cell>首先，管家不是杀人犯或野蛮人。不像那个在澡堂里杀人的混蛋。</Cell></Row>
+<Row><Cell>v_la_bordelmam_svolala_by_lgpc</Cell><Cell>I'd have the girls tell you about their experiences with the chamberlain…</Cell><Cell>我会让姑娘们告诉你她们和管家的经历。</Cell></Row>
+<Row><Cell>v_la_bordelmam_to_je_pekn_FlPF</Cell><Cell>Not bad, eh? Well? Is anyone willing to go with the chamberlain?</Cell><Cell>还不错吧，怎么样？有人愿意跟管家走吗？</Cell></Row>
+<Row><Cell>v_la_bordelmam_vony_ti_po_1nhE</Cell><Cell>They'll tell you about what they've been through with the Master Chamberlain.</Cell><Cell>她们会告诉你和管家大人都经历了什么。</Cell></Row>
+<Row><Cell>v_la_bordelmam__z_zelejov_D47V</Cell><Cell>No girl from Zhelejov is going with the chamberlain!</Cell><Cell>哲勒约夫没有姑娘会和管家走！</Cell></Row>
+<Row><Cell>v_la_henry_jo_ale_je_to_c_J3uz</Cell><Cell>Aye, but it's all for Chamberlain Ulrich.</Cell><Cell>是的，但这都是为了管家乌尔里希。</Cell></Row>
+<Row><Cell>v_la_henry_ne_chce_aby_se_AU7b</Cell><Cell>No. He wants her to turn the chamberlain's head.</Cell><Cell>不，他想让她转移管家的注意力。</Cell></Row>
+<Row><Cell>v_la_henry_no_na_pana_kom_Hit3</Cell><Cell>Well… it's about the Master Chamberlain.</Cell><Cell>好吧……关于管家大人。</Cell></Row>
+<Row><Cell>v_la_henry_pro_komoriho_FVtN</Cell><Cell>For the chamberlain.</Cell><Cell>给管家。</Cell></Row>
+<Row><Cell>v_la_henry_rekni_mi_proc__CU4K</Cell><Cell>Tell me, why don't you want anything to do with the chamberlain?</Cell><Cell>告诉我，你为什么不想和管家扯上任何关系？</Cell></Row>
+<Row><Cell>v_la_henry_shani_holku_pr_pj7d</Cell><Cell>Get this. He's looking for a girl… for Chamberlain Ulrich himself!</Cell><Cell>听着，他在找一个姑娘……给管家乌尔里希！</Cell></Row>
+<Row><Cell>v_la_lazebnice_myslela_js_exbP</Cell><Cell>I thought the Master Chamberlain might be of a different religion, and that fucking a christian girl would be a sin. </Cell><Cell>我猜管家大人可能信奉不同的宗教，和基督徒姑娘上床是罪过。 </Cell></Row>
+<Row><Cell>v_la_lazebnice_nebo_pan_k_mW5x</Cell><Cell>Or does the Master Chamberlain not like silk?</Cell><Cell>还是管家大人不喜欢丝绸？</Cell></Row>
+<Row><Cell>v_la_lazebnice_no_pan_kom_yXAN</Cell><Cell>Well, the Lord Chamberlain invited me to Trosky and the girls warned me, that…</Cell><Cell>管家大人邀请我去特罗斯基，姑娘们警告我说……</Cell></Row>
+<Row><Cell>vyce_vycerpany_kurva_ty_z_gVGa</Cell><Cell>Look out, brother, they have crossbows and a pistole there!</Cell><Cell>小心，兄弟，他们那里有弩和一把手铳！</Cell></Row>
+<Row><Cell>vyvo_rozhodci__ctihodny_p_CX32</Cell><Cell>Noble Sir Jan of Lesztin and…</Cell><Cell>贵族莱斯廷的扬爵士和…</Cell></Row>
+<Row><Cell>zada_hejtman_s_v_pohode_k_9ZmW</Cell><Cell>Don't worry. I know how things are. And between you and me, Chamberlain Ulrich is a known lecher.</Cell><Cell>没事，我知道是怎么回事。这件事我只告诉你，管家乌尔里希是个出了名的好色之徒。</Cell></Row>
+<Row><Cell>zada_henry_jsem_z_druziny_jLAZ</Cell><Cell>I'm from Jan Zizka's retinue and we have a common interest. To send Sigismund packing and put the true king back on the throne.</Cell><Cell>我是扬·杰式卡的随从，我们有一个共同的目标。把西格斯蒙德打发走，让真正的国王重新登上王位。</Cell></Row>
+<Row><Cell>zada_henry_jsem_z_druziny_nsDd</Cell><Cell>I'm from the retinue of Jan Zizka, who's been fighting against Sigismund in these parts.</Cell><Cell>我是扬·杰式卡的随从，他一直在这一带与西格斯蒙德对抗。</Cell></Row>
+<Row><Cell>zada_henry_ne_ve_skutecno_VAZw</Cell><Cell>I'm not part of your group. I'm from Jan Zizka's retinue, and we'd like to join forces with your band of brigands against Sigismund.</Cell><Cell>我不是你们组织的成员。我是扬·杰式卡的随从，我们想和你们这群绿林好汉联合起来对付西格斯蒙德。</Cell></Row>
+<Row><Cell>zada_karel_zva_hele_ja_js_q8Oe</Cell><Cell>Look… I'm Karel, sometimes people call me Arrowhead. Damned if I know why, heheh!</Cell><Cell>听着……我叫卡雷尔，有时大家叫我锋矢。我不知道为什么，哈哈！</Cell></Row>
+<Row><Cell>zada_karel_zva_hele_ja_se_ezMG</Cell><Cell>Look. The name's Karel, folk call me Karel Arrowhead.</Cell><Cell>听着。我叫卡雷尔，大家都叫我卡雷尔·锋矢。</Cell></Row>
+<Row><Cell>zaje_jan_zizka_nikdo_ani__1D4X</Cell><Cell>Gentlemen! Please forgive this interruption. I am Captain Jan Zizka of Trotznov. </Cell><Cell>诸位！打扰一下，我是特罗茨诺夫的扬·杰式卡上尉。 </Cell></Row>
+<Row><Cell>zatc_henry_podle_me_je_na_8Qwo</Cell><Cell>I think it's perfectly clear that your Lair here is a gunpowder magazine. You're making black powder for pistoles!</Cell><Cell>我认为明显可以看出你这里的“巢穴”是一个火药库。你在制造用于手铳的黑火药！</Cell></Row>
+<Row><Cell>zave_jan_zizka_jsem_jan_z_WOKQ</Cell><Cell>I am Jan of Trotznov. Also known as Zizka. </Cell><Cell>我是特罗兹诺夫的扬，也可以叫我杰式卡。 </Cell></Row>
+<Row><Cell>zave_jan_zizka_toho_casu__IjlW</Cell><Cell>These days in the service of Jan Sokol of Lamberg and Margrave Prokop of Luxembourg.</Cell><Cell>这段时间为兰贝格的扬·索科尔和卢森堡的普罗科普侯爵效力。</Cell></Row>
+<Row><Cell>zave_ptacek_jsou_nazivu_a_pV8K</Cell><Cell>Both Jan and Olda are live, but they had to flee. Henry and I helped them. It was a close shave.</Cell><Cell>扬和奥达都活了下来，不过他们也不得不逃跑，求一条生路。我和亨利帮了他们一把，好在侥幸脱险。</Cell></Row>
+<Row><Cell>zavi_zavis_z_g_do_druhyho_qNHj</Cell><Cell>In the second round, use a shield and any one-handed weapon. Sword, axe, mace - take your pick… er, so to speak.</Cell><Cell>在第二轮中，使用盾牌和单手武器。剑、斧、钉头锤——随你挑…呃，可以这么说。</Cell></Row>
+<Row><Cell>zavi_zavis_z_g_dva_bratry_K8IP</Cell><Cell>I have two brothers, Jan and Piotr. But I have not seen them in a long time. I can only pray they are both still alive. </Cell><Cell>我有两个兄弟，扬和皮奥特。但我已经很久没有见到他们了。我只能祈祷他们都还活着。 </Cell></Row>
+<Row><Cell>zizk_bohuta_npc_klidne_dve_moMp</Cell><Cell>Aye, although turning a blind eye is more your thing, Zizka.</Cell><Cell>是的，不过睁一只眼闭一只眼更像你的风格，杰式卡。</Cell></Row>
+<Row><Cell>zizk_bohuta_npc_no_prave__ayoo</Cell><Cell>Have you forgotten, Zizka? I'm supposed to bring him home in one piece!</Cell><Cell>杰式卡，你忘了吗？我得将他安然无恙地带回家！</Cell></Row>
+<Row><Cell>zizk_henry_tak_proto_jsi__AGww</Cell><Cell>And that's why you killed that man by the pond.</Cell><Cell>所以你在池塘边杀了那个人。</Cell></Row>
+<Row><Cell>zizk_katerina_celou_dobu__eCTE</Cell><Cell>He's right though, Zizka. He acted like an utter madman who's tired of life...</Cell><Cell>不过他说得对，杰式卡。他当时就像个活腻的疯子……</Cell></Row>
+<Row><Cell>zizk_katerina__jene_deje__FAbg</Cell><Cell>Jan, is something wrong?</Cell><Cell>扬，有什么问题吗？</Cell></Row>
+<Row><Cell>zizk_zizka_jen_tak_dal_ch_FtkL</Cell><Cell>That's it, fellahs! Knock down those ladders!</Cell><Cell>就这样，伙计们！推倒那些梯子！</Cell></Row>
+<!-- 菜单文本 -->
+<Row><Cell>dlc0_bruncvik_s0500</Cell><Cell>&lt;strong&gt;Forging instructions for Brunswick's poleaxe&lt;/strong&gt;</Cell><Cell>&lt;strong&gt;布伦瑞克长柄斧的锻造方法&lt;/strong&gt;</Cell></Row>
+<Row><Cell>ui_codex_cont_gunpowder</Cell><Cell>&lt;paragraph&gt;Black powder is the oldest known explosive, discovered around the 9th century in China. Initially, it was used in medicine and widely experimented with by alchemists. However, when it failed to yield the anticipated elixir of immortality, its powerful explosive properties began to be used for ammunition production. It likely arrived in Europe as early as the 13th century, although some experts believe that Europeans discovered black powder independently of China.&lt;/paragraph&gt;&lt;paragraph&gt;The European inventor of gunpowder is typically attributed to either the German alchemist Berthold "The Black" Schwarz, or, according to other sources, the German friar Albertus Magnus, who was familiar with the recipe for gunpowder as early as 1275. Another mention can be found in the work of the alchemist Marcus Graecus, who included a black powder recipe in his writings around 1300. However, at this time, gunpowder was not yet commonly used in combat.&lt;/paragraph&gt;&lt;paragraph&gt;Originally, a fine particle mixture known as “meal powder,” produced by grinding the individual components, was used for shooting. Later, methods were developed to produce larger grains, which significantly improved the consistency of ballistic properties and accuracy in shooting.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;黑火药是目前已知最古老的炸药，大约在9世纪由中国人发明。黑火药最初被用于医疗领域，且广泛地用于炼丹师的实验当中。显然，黑火药并没能如同预期般地成为长生不老药，但那之后人们利用它的爆炸特性将其用于弹药生产中。黑火药可能早在13世纪便已传入欧洲，也有一些专家声称欧洲人是独立发现黑火药的。&lt;/paragraph&gt;&lt;paragraph&gt;欧洲火药的发明者通常被认为是德国炼金术士贝索德·施瓦茨。也有一些其他的说法，比如德国修士阿尔伯特·麦格努斯，据说他早在1275年就掌握了火药配方。也有关于炼金术师马库斯·格拉厄库斯的记载，他在大约1300年的著作之中收录了一份黑火药的配方。不过，在那段时间，火药还并未广泛用于战争之中。&lt;/paragraph&gt;&lt;paragraph&gt;最初人们使用的火药是一种研磨而成的，称为“粉末火药”的细颗粒混合物，通常用于射击。之后人们研发出了生产较大颗粒火药的方法，大大提高了其弹道性能、射击精度和稳定性。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_codex_cont_loupeze</Cell><Cell>&lt;paragraph&gt;Thievery and banditry were 'dishonourable professions', whose practitioners were often known in the wider area - that is, if they could evade justice long enough.&lt;/paragraph&gt;&lt;paragraph&gt;Petty theft most often happened in villages, town markets or taverns. In short, where thieves could hide in the crowd. But people were in greater danger in the open countryside, outside their settlements, or in remote villages, where victims could rarely call for help. Bandits therefore often threatened merchants and travellers on the road, especially around the richer towns, where they flocked to do business.&lt;/paragraph&gt;&lt;paragraph&gt;Some &lt;accent&gt;bands of robbers&lt;/accent&gt; were organised and operated under the auspices of rebelious nobles who profited from their actions. At times they even resorted to raiding entire villages or towns. They would then sell off their loot in markets or taverns.&lt;/paragraph&gt;&lt;paragraph&gt;The execution books give us evidence of the fate of those, who became involved with bandits. In one of them, we read about Jan Zizka, that: &lt;italic&gt;'He steals herrings and killed a hired hand of the Rosenberg's.'&lt;/italic&gt;&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;偷盗是一种“不光彩”的职业，精通此道的人也会臭名远扬——如果他们还未落入法网的话。&lt;/paragraph&gt;&lt;paragraph&gt;偷盗常发生在村中、市场或是酒馆内，简单地说，人群中可能随时藏着小偷。但是，在旷野荒山或是偏远村庄这种人烟罕至的地方，人们可能所面临的境况更为险恶。这种地方的强盗们常常会胁迫路过的商人或旅客，在繁华且有活跃市场的城镇周边这种现象尤为突出。&lt;/paragraph&gt;&lt;paragraph&gt;一些&lt;accent&gt;强盗团伙&lt;/accent&gt;接受着反叛贵族们的资助，并在他们的组织与运作下，通过恶行为他们谋利。有时候，他们还会洗劫整座村庄或城镇，事后再到市场或酒馆内进行销赃。&lt;/paragraph&gt;&lt;paragraph&gt;与处决有关的记录向我们揭露了那些与强盗有染之人的命运，在其中，我们还读到了与扬·杰式卡有关的信息：&lt;italic&gt;“他偷走鲱鱼，并杀死了罗森堡的一位雇工。”&lt;/italic&gt;&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_codex_cont_musicians</Cell><Cell>&lt;paragraph&gt;Theatre as we know it today was not widespread in the Middle Ages and was used more for church purposes (passion plays). Art in the high court, on the other hand, was not comprehensible to commoners, so the profession of folk entertainer was established for a variety of purposes.&lt;/paragraph&gt;&lt;paragraph&gt;&lt;accent&gt;Minstrels&lt;/accent&gt; were seen at fairs and markets; they made the rounds of taverns and were even hired by wealthy merchants or nobles. The minstrel’s repertoire could include singing, playing musical instruments, juggling, staging scenes or narrating humorous stories.&lt;/paragraph&gt;&lt;paragraph&gt;The themes of their work were mostly light and cheerful, but often included satire or criticism of political conditions, whether coming from the minstrels themselves, or paid for by an employer and tailored to their intentions. Most of the minstrels had no employer, they belonged to the margins of society and had to get by from day to day through alms.&lt;/paragraph&gt;&lt;paragraph&gt;&lt;accent&gt;Musicians&lt;/accent&gt; enjoyed a bit more respect and besides entertainment, their music could also be used during religious services. Popular medieval instruments included flutes, trumpets, shawms, as well as lutes, harps and drums. Their performances were mostly improvised, but early musical notations also began to appear at this time.&lt;/paragraph&gt;&lt;paragraph&gt;There were both, professional musicians employed at court or churches and travelling musicians playing in markets and at celebrations. This craft was predominantly pursued by men.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;我们今天所知道的剧院在中世纪其实并不普遍，主要用于教会用途（如受难剧）。另一方面，高贵的宫廷艺术也不为普通人所喜爱，因此为了各种目的，民间艺人的职业得以确立。&lt;/paragraph&gt;&lt;paragraph&gt;&lt;accent&gt;吟游诗人&lt;/accent&gt;开始出现在集市和市场上；他们在酒馆里巡回演出，甚至被富商或贵族雇佣。吟游诗人的节目可能包括唱歌、演奏乐器、杂耍、舞台剧或讲述幽默故事。&lt;/paragraph&gt;&lt;paragraph&gt;他们作品的主题大多是轻松愉快的内容，但也经常是对政治的讽刺或批评，这些政见可能来自吟游诗人自己，也可能是为雇主量身定制的。不过大多数吟游诗人都没有雇主，他们属于社会边缘群体，靠打赏度日。&lt;/paragraph&gt;&lt;paragraph&gt;&lt;accent&gt;音乐家&lt;/accent&gt;则享有更多的尊重，除了娱乐，他们的音乐还可以用于宗教仪式中。中世纪最流行的乐器是长笛、小号、肖姆笛、鲁特琴、竖琴和鼓。他们的音乐作品大多是即兴创作的，不过最早的乐谱也出自这一时期。&lt;/paragraph&gt;&lt;paragraph&gt;宫廷或教会会雇佣职业的音乐家，而未受雇佣的流浪音乐家则会在市场和庆典上演奏，绝大多数的音乐家都是男性。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_codex_cont_polsko</Cell><Cell>&lt;paragraph&gt;In Poland at the turn of the 14th and 15th centuries, similar to the Czech lands, wars over governance, territory, and faith were occurring. The country's prosperity and its cultural and economic growth were particularly hampered by the relentless attacks of the Teutonic Knights from the so-called Crusader states on northern Polish territories, justified by the need for Christianization and the suppression of the still dominant paganism in the Baltic region.&lt;/paragraph&gt;&lt;paragraph&gt;Unfortunately, Poland was not unified for long, because after the death of Casimir III the Great, the Piast dynasty, which had long unified and ruled the country, ended in the male line. The crown was taken by Casimir's cousin, Ludwig I of Anjou, the King of Hungary, but he struggled to gain the obedience of the Polish nobility, and his rule and ability to unite a larger coalition against the Crusader invasion were thus very limited.&lt;/paragraph&gt;&lt;paragraph&gt;The most suitable solution eventually was the marriage of Ludwig's daughter Hedwig to Jagell, the Grand Duke of Lithuania. He took the name Vladislav, was accepted as the King of Poland, and, along with the rest of Lithuania, was baptized. This created the Polish-Lithuanian coalition, which significantly weakened the Teutonic Order.&lt;/paragraph&gt;&lt;paragraph&gt;However, the Crusaders did not want to give up so easily, and the war continued for many more years. A turning point in this conflict was the Battle of Grunwald in 1410, in which the Teutonic forces were decisively defeated by the Polish-Lithuanian army. Many Czech fighters fought on the side of the Poles at that time, including Jan Zizka and Jan Sokol of Lamberg.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;在14至15世纪之交的波兰领土上，与捷克大陆类似，人们为了争夺控制权、领土和信仰而四处引发战火。尤其是波兰北部受到所谓的十字军国家派出的条顿骑士团的不断侵扰，战争冲突阻碍了该国的繁荣以及文化和经济的发展。这些战争被认为是为了对当地进行基督教化，扼杀波罗的海地区主流的异教信仰。&lt;/paragraph&gt;&lt;paragraph&gt;遗憾的是，波兰未能保持长久的统一。卡西米尔三世驾崩以后，统治多年的一统王朝皮亚斯特于战争中覆灭。后来，卡西米尔的堂兄、匈牙利国王安茹·路易一世登基，但波兰贵族却不愿向其俯首称臣，因此他在统筹联军抵抗十字军侵略的过程中备受阻碍。&lt;/paragraph&gt;&lt;paragraph&gt;最好的解决办法就是让路易的女儿海德薇与立陶宛大公雅盖沃联姻。雅盖沃后取名弗拉迪斯拉夫，登上波兰王位，与立陶宛众人一同受洗，波兰-立陶宛联盟因此结成，进而削弱了条顿骑士团的影响力。&lt;/paragraph&gt;&lt;paragraph&gt;然而，十字军并不会轻易投降，战争也因此持续多年。战争的转折点是发生于1410年的格伦瓦尔德战役，波兰-立陶宛联军在这场战役中迎头击败了十字军。当时许多捷克战士也为波兰出战，其中就包括扬·杰式卡和扬·索科尔。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_codex_cont_vojenske_lezeni</Cell><Cell>&lt;paragraph&gt;European medieval armies were based on the feudal obligation of nobles to serve their liege lord. This system, which originated from late Roman traditions, primarily applied to defensive warfare where there was no opportunity for plunder. If a ruler wanted to lead an offensive campaign, he had to not only promise his knights the prospect of loot but also pay them.&lt;/paragraph&gt;&lt;paragraph&gt;In France and Italy, where wars were relatively frequent, mercenary armed bands (&lt;italic&gt;rutta&lt;/italic&gt;, &lt;italic&gt;routes&lt;/italic&gt;) known as &lt;accent&gt;free companies&lt;/accent&gt; began to emerge. These companies fought for wages during wars but extorted protection money from peasants and robbed travellers during peacetime.&lt;/paragraph&gt;&lt;paragraph&gt;In the 14th century, mercenary service became a profession for thousands of impoverished nobles. Among the largest groups were the French &lt;italic&gt;Bandes blanches&lt;/italic&gt;, the English &lt;italic&gt;White Company&lt;/italic&gt;, and the Italian &lt;italic&gt;Compagnia di San Giorgio&lt;/italic&gt;. In Bohemia, there was the retinue surrounding Jan Sokol of Lamberk and Hynek I of Kunstadt.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;欧洲中世纪的军队建立在贵族对其封主的封建义务之上。这一制度源自于罗马帝国末期的传统，主要适用于无法进行劫掠的防御性战争。倘若统治者想要发动进攻性战役，他不仅要向骑士们允诺战利品，还得给他们支付报酬。&lt;/paragraph&gt;&lt;paragraph&gt;在法国和意大利，战争相对频繁，以&lt;accent&gt;自由联队&lt;/accent&gt;著称的雇佣兵团体（&lt;italic&gt;rutta&lt;/italic&gt;，&lt;italic&gt;routes&lt;/italic&gt;）开始涌现。这些团体会在战乱期间为报酬参与到战争当中，而在和平时期又会向农民勒索保护费，或是抢劫过往旅者。&lt;/paragraph&gt;&lt;paragraph&gt;在14世纪，数千名穷困潦倒的贵族走上了成为职业雇佣兵的道路。其中最大的兵团有：法国的&lt;italic&gt;白衣团&lt;/italic&gt;（Bandes blanches），英国的&lt;italic&gt;白公司&lt;/italic&gt;（White Company），以及意大利的&lt;italic&gt;圣乔治公司&lt;/italic&gt;（Compagnia di San Giorgio）。在波希米亚，就曾有围绕在扬·索科尔和海尼克一世身边的随从。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_codex_oldrich_vavak</Cell><Cell>&lt;paragraph&gt;Twice during his life, he was appointed Royal Mint Master, and after the outbreak of the Hussite uprising, he was one of the few representatives of the higher Czech nobility to join the rebels.&lt;/paragraph&gt;&lt;paragraph&gt;We know nothing about his life before the outbreak of the uprising, except that in the years 1402-1403 (or 1404), during King Wenceslas's absence from Bohemia, he held the office of Mint Master.&lt;/paragraph&gt;&lt;paragraph&gt;His later life is documented, during which he supported Jan Hus and complained to King Sigismund about his burning. He initiated the negotiations of the Four Articles of Prague (which defined the direction and demands of the uprising) and was elected as a representative of the nobility to the provisional government at the Congress of Tschaslau. He marched into battle alongside Jan Zizka, and in 1421, he became the Mint Master of Kuttenberg for the second time.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;他一生两次被任命为皇家铸币官，在胡斯起义爆发后，他是少数几个加入叛乱者的捷克高级贵族。&lt;/paragraph&gt;&lt;paragraph&gt;我们对他在起义爆发前的经历知之甚少，只知道在1402年至1403年（或1404年）期间，在瓦茨拉夫国王未掌管波希米亚之时，他担任过铸币官。&lt;/paragraph&gt;&lt;paragraph&gt;但他的晚年经历却有详细记载。当时的他支持扬·胡斯，并向国王西格斯蒙德揭露了扬·胡斯被烧死一事。他曾发起对《布拉格四项条款》（the Four Articles of Prague）的商讨（该条款决定了起义的方向和要求），并在查斯劳大会（the Congress of Tschaslau）上被选为贵族代表，加入了临时政府。他曾与扬·杰式卡并肩作战，并于1421年在库滕堡第二次担任铸币官。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>ui_deposit_jug</Cell><Cell>Put down the carafe</Cell><Cell>放下酒瓶</Cell></Row>
+<Row><Cell>ui_extra_in_wh_bascinet</Cell><Cell>A bascinet adorned with the colours of the Lords of Warhorse. The only one of its kind.</Cell><Cell>一件饰有战马领主配色的中头盔，且此物世间绝无仅有。</Cell></Row>
+<Row><Cell>ui_extra_nm_wh_bascinet</Cell><Cell>Warhorse bascinet</Cell><Cell>战马中头盔</Cell></Row>
+<Row><Cell>ui_helpoverlay_guns_s0000</Cell><Cell>Handgonne</Cell><Cell>手铳</Cell></Row>
+<Row><Cell>ui_invhint_edit_belt</Cell><Cell>Attach to belt</Cell><Cell>装在腰带上</Cell></Row>
+<Row><Cell>ui_invhint_unselect</Cell><Cell>Unselect</Cell><Cell>取消选择</Cell></Row>
+<Row><Cell>ui_item_info_category_Belt</Cell><Cell>Body – Belt</Cell><Cell>躯干–腰带</Cell></Row>
+<Row><Cell>ui_item_info_category_Crossbow</Cell><Cell>Ranged – Crossbow</Cell><Cell>远程武器–弩</Cell></Row>
+<Row><Cell>ui_item_info_category_LongSword</Cell><Cell>Bladed – Long</Cell><Cell>利器–长剑</Cell></Row>
+<Row><Cell>ui_item_info_category_Rifle</Cell><Cell>Handgonne</Cell><Cell>手铳</Cell></Row>
+<Row><Cell>ui_item_info_category_Spur</Cell><Cell>Legs – Spurs</Cell><Cell>腿部–马刺</Cell></Row>
+<Row><Cell>ui_maplegend_ambushedBergovsMen</Cell><Cell>Von Bergow's ambushed men</Cell><Cell>遭受伏击的冯·波尔高士兵</Cell></Row>
+<Row><Cell>ui_maplegend_roadsideCamp</Cell><Cell>Camp by the road</Cell><Cell>路边营地</Cell></Row>
+<Row><Cell>ui_tooltip_spur</Cell><Cell>Legs – Spurs</Cell><Cell>腿部–马刺</Cell></Row>
+<!-- 物品文本 -->
+<Row><Cell>alch_fevertonic_step_3</Cell><Cell>Grind the elderberry leaves and add them to the cauldron.</Cell><Cell>研磨接骨木莓叶后将其加入锅中。</Cell></Row>
+<Row><Cell>andelstrazny_riddles_5_pa_cl2x</Cell><Cell>&lt;poem&gt;
+St. George has struck with his deadly sword,&lt;br/&gt;
+The dragon writhes and spills its blood.&lt;br/&gt;
+But St. George is not done yet.&lt;br/&gt;
+Beneath his helm he turns his head.&lt;br/&gt;
+&lt;br/&gt;
+He fixes his gaze towards the &lt;accent&gt;east&lt;/accent&gt;&lt;br/&gt;
+Where there spawns another beast.&lt;br/&gt;
+This dragon though is set on stone.&lt;br/&gt;
+In its throat to your aid a &lt;accent&gt;window&lt;/accent&gt; will come.&lt;br/&gt;
+&lt;/poem&gt;</Cell><Cell>&lt;poem&gt;
+圣乔治刺出长矛，&lt;br/&gt;
+龙血流淌，恶兽倒地。&lt;br/&gt;
+但战斗还未结束，&lt;br/&gt;
+圣乔治转过头去。&lt;br/&gt;
+&lt;br/&gt;
+他将目光投向&lt;accent&gt;东方&lt;/accent&gt;，&lt;br/&gt;
+新的巨龙于彼处诞生。&lt;br/&gt;
+纵使砖石身躯坚不可摧，&lt;br/&gt;
+喉处的&lt;accent&gt;窗户&lt;accent&gt;将助你破局。&lt;br/&gt;
+&lt;/poem&gt;</Cell></Row>
+<Row><Cell>heavyweapons_skillbook_lv_FtYY</Cell><Cell>You won’t let go? Alright, maybe you could learn a thing or two. Here are the 101 best mace fighting techniques from Master Fiore Furlano de'i Liberi de Cividale d'Austria. </Cell><Cell>还不愿意放弃？好吧，也许你还能学几招。这是大师菲奥雷·弗兰诺·德·利贝里·德·奇维达莱·达奥斯特里亚的《101种最棒的钉头锤战法》！ </Cell></Row>
+&lt;paragraph&gt;希望您和夫人阿涅什卡安好。我刚从格兰返回，扬·卡尼日斯基大主教告诉我，教宗博尼法斯九世决定支持那不勒斯的拉迪斯劳斯继承匈牙利王位的合法主张。您也清楚，自从您堂兄行使帝国事务以来，国库已捉襟见肘，但依然未能为我们应对南方奥斯曼帝国的威胁提供足够的保障。&lt;/paragraph&gt;
+<Row><Cell>lorebook_grimoirsecretzer_qXbd</Cell><Cell>&lt;title&gt;Algoritmi de numero Indorum&lt;/title&gt;&lt;subtitle&gt;Treatise on Nought&lt;/subtitle&gt;&lt;newpage/&gt;</Cell><Cell>&lt;title&gt;《Algorithmi de numero Indorum（印度数字演算法）》&lt;/title&gt;&lt;subtitle&gt;论空无&lt;/subtitle&gt;&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>natroskach_zapiskyfelcara_m0cq</Cell><Cell>&lt;paragraph&gt; Fortunately, the feverfew grows right in the forecourt, on the terrace on the path to the lower gate. I'm not a herbalist, so I had a bit of trouble finding it, as it looks almost identical to chamomile. As for the elderberry leaves, I visited the carpenter above the upper gate. I know well that they dye their cloth in secret right behind the workshop and then sell it around the village, so they have an abundance of elderberry leaves.&lt;/paragraph&gt;&lt;newpage/&gt;</Cell><Cell>&lt;paragraph&gt;幸运的是，前院通往下门的小路上就长有小白菊，露台上就有很多。因为它们看起来和甘菊几乎一模一样，我又不是专业的草药学家，分辨起来费了点力气。至于接骨木莓叶，附近的木匠那里就有。我知道他在作坊后面偷偷给布料染色，然后卖到村子里，所以他藏了很多接骨木莓叶。&lt;/paragraph&gt;&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>natroskach_zapiskyfelcara_NLe2</Cell><Cell>&lt;paragraph&gt;The scribe Erazim lay down with a fever, which probably came from an inflamed wound on his right hand. I have thus an occasion to try my new decoction against the fevers which accompany inflammations of various kinds. It's a simple decoction made from ingredients that are quite readily available. The decoction is prepared from boiled wine, three parts of feverfew, two parts of grated ginger and one part of elderberry leaves.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;抄写员埃拉兹姆高烧不起，应该是他右手的伤口发炎的缘故，因此我有机会尝试我的新煎药了。这种药可以治疗各种炎症引发的发热，它的优点是材料易于获得，做起来也容易。用煮沸的葡萄酒、三份小白菊、两份磨碎的姜和一份接骨木莓叶就可以制成。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>recipe_perfume_shortStrong_name</Cell><Cell>Lion perfume</Cell><Cell>雄狮香水</Cell></Row>
+<Row><Cell>recipe_potion_hooch_name</Cell><Cell>Moonshine</Cell><Cell>私酒</Cell></Row>
+<Row><Cell>ui_antibust_gold</Cell><Cell>After an unlucky throw, you can &lt;strong&gt;throw again&lt;/strong&gt;. Can be used &lt;strong&gt;three times per game&lt;/strong&gt;.</Cell><Cell>若对掷骰不满意，你可以使用该徽章进行&lt;strong&gt;重掷&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;三次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_antibust_plumb</Cell><Cell>After an unlucky throw, use this badge to &lt;strong&gt;throw again&lt;/strong&gt;. Can be used &lt;strong&gt; once per game&lt;/strong&gt;.</Cell><Cell>若对掷骰不满意，你可以使用该徽章进行&lt;strong&gt;重掷&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_extra_dice_plumb</Cell><Cell>Use it to add &lt;strong&gt;one extra die to your throw&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>使用后，可在指定掷骰时&lt;strong&gt;额外增加一颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_in_animal_sheepCasings</Cell><Cell>Freshly extracted sheep guts. Carrying something like that around is a bit... disgusting.</Cell><Cell>刚取出的羊肠。随身携带这种东西有点……恶心。</Cell></Row>
+<Row><Cell>ui_in_bow_c_b</Cell><Cell>Hunting bows are supposed to be strong enough to bring down larger game. This bow is made of ashen wood and is therefore one of the stronger hunting weapons that are still easy to handle. Most experienced gamekeepers and poachers will rely on it.</Cell><Cell>要想猎杀大型猎物，猎弓就应当足够强大。这把弓由白蜡木制成，因此是把威力相对强劲的弓，且易于操持。大多经验老道的猎手和偷猎者都对其有所依仗。</Cell></Row>
+<Row><Cell>ui_in_bow_d_a</Cell><Cell>A long strong bow made of ashen wood. It has a decent range and thanks to its draw speed it is suited very well for fighting.</Cell><Cell>白蜡木制成的强劲长弓。射程可观，且得益于拉动其弓弦的速度，这把弓非常适合用于战斗。</Cell></Row>
+<Row><Cell>ui_in_hoodSemin</Cell><Cell>A hood of the good knight Jan Semine of Semine.</Cell><Cell>杰出骑士扬·塞米的兜帽。</Cell></Row>
+<Row><Cell>ui_in_kumaniNaTrosecku_peculiarSpirits</Cell><Cell>Schnapps from the hidden stash. Judging by the smell, it's bound to have the right kick.</Cell><Cell>被藏起来的烈酒，光闻一闻就知道它够劲。</Cell></Row>
+<Row><Cell>ui_in_maceBailiff</Cell><Cell>Bronze mace cast in one piece with ground tips. It expresses both position and determination to make one's case, even if one has to beat one's ideas into opponent's head with force.</Cell><Cell>由青铜一体打造的钉头锤，尖端经过打磨。它既象征着地位，也表明了一种决心——即要用武力将思想灌输到对手脑海之中。</Cell></Row>
+<Row><Cell>ui_in_maceHetman</Cell><Cell>A captain's mace is a great weapon expressing the status of the owner and the punishment that will befall anyone who opposes him. A single movement with the weapon in hand is enough to set in motion whole ranks of warriors!</Cell><Cell>首领手中的钉头锤是一种强大的武器，象征着持有者的身份，也预示着反对者即将遭受的惩罚。仅凭挥动此武器的简单动作就足以让整个队伍的战士动起身来！</Cell></Row>
+<Row><Cell>ui_in_magic_arrow</Cell><Cell>The magic arrowhead from Karel the Arrow's head.</Cell><Cell>“锋矢”卡雷尔的魔法箭头</Cell></Row>
+<Row><Cell>ui_in_magickySip_magickaSipka</Cell><Cell>A shaft with an arrowhead, which I pulled out of the head of the dead Karel, whom folk called Arrowhead. It's supposed to be magical, but I have my doubts.</Cell><Cell>我从死去的卡雷尔头上拔下的一柄带箭头的箭矢，而人们都叫卡雷尔“锋矢”。这支箭似乎有魔力，但我对此秉持疑虑。</Cell></Row>
+<Row><Cell>ui_in_magicShop_nepomukNeedle</Cell><Cell>The needle used to sew vicar Jan of Pomuk into a bag, after which he was thrown into the Vltava river, all on the orders of Wenceslas IV.</Cell><Cell>在瓦茨拉夫四世的命令下，扬·波穆克副主教被缝进袋子，丢进了伏尔塔瓦河，这就是当时用到的针。</Cell></Row>
+<Row><Cell>ui_in_PaintedStatueSaintMagdaleine</Cell><Cell>A small worn-down statuette of St Mary Magdalene. Beikovetz must have stolen it straight from some church or monastery.</Cell><Cell>一个破旧的马格达莱妮圣玛利亚的小雕像，肯定是贝科维茨从教堂或者修道院偷来的。</Cell></Row>
+<Row><Cell>ui_in_poPytlackeStezce_machKey</Cell><Cell>A key to a chest found in the possession of the poacher, Mach of Marschowitz.</Cell><Cell>在偷猎者马绍维茨的马赫身上发现的钥匙。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_bergov</Cell><Cell>A riding pavese with the symbol of Lord von Bergow, owner of Trosky Castle.</Cell><Cell>一面骑兵帕维斯巨盾，其上装饰着特罗斯基堡垒的拥有者冯·波尔高领主的图纹。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_dragon</Cell><Cell>A skillfully painted riding pavese.</Cell><Cell>一面精心涂绘的骑兵帕维斯巨盾。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_hungary</Cell><Cell>A cavalry pavese with Hungarian symbols.</Cell><Cell>绘有匈牙利人图纹的骑兵帕维斯巨盾。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_prague</Cell><Cell>A riding pavese with the symbol of the Old Town of Prague.</Cell><Cell>一面骑兵帕维斯巨盾，盾上涂饰着布拉格老城的纹章。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_stripes</Cell><Cell>A skillfully painted riding pavese.</Cell><Cell>一面精心涂绘的骑兵帕维斯巨盾。</Cell></Row>
+<Row><Cell>ui_in_skin_roe</Cell><Cell>A roe-deer hide does not reach the strength and quality of deerskin and is not suitable for tanning. It is therefore mainly used as fur.</Cell><Cell>狍子皮的韧性和质量都不及鹿皮，不适合鞣制，只能当做皮草使用。</Cell></Row>
+<Row><Cell>ui_in_taboryLapkuTrosecko_plesnivecMace</Cell><Cell>A mace of the leader of the bandits from the Troskowitz gorge. A crude weapon that cracked many a skull and was never properly wiped clean afterwards.</Cell><Cell>特罗斯科维茨峡谷土匪首领的钉头锤。这是一种粗制武器，曾击碎过许多头骨，但从未被彻底擦拭干净。</Cell></Row>
+<Row><Cell>ui_in_tournament_maceHerald</Cell><Cell>An excellent mace, which serves more as a symbol of a strict ruler over the tournament than for fighting.</Cell><Cell>一把精良的钉头锤，更像是作为比武大会严苛规则的象征，而非简单用于战斗。</Cell></Row>
+<Row><Cell>ui_matrimonium_badge</Cell><Cell>A memento of Agnes and Olda's big day. Using it allows you to &lt;strong&gt;reroll up to three dice&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>用于纪念阿格尼丝和奥达盛大婚礼的徽章。使用后可在某次掷骰时&lt;strong&gt;重掷最多三颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_mn_antibust_dice_badge_silver</Cell><Cell>Silver badge of resurrection</Cell><Cell>银制重掷徽章</Cell></Row>
+<Row><Cell>ui_mn_double_take_dice_badge_gold</Cell><Cell>Gold doppelganger badge</Cell><Cell>金制镜像徽章</Cell></Row>
+<Row><Cell>ui_mn_extra_dice_dice_badge</Cell><Cell>Silver badge of might</Cell><Cell>银制力量徽章</Cell></Row>
+<Row><Cell>ui_mn_multiplier_dice_badge_silver</Cell><Cell>Silver warlord's badge</Cell><Cell>银制军阀徽章</Cell></Row>
+<Row><Cell>ui_mn_null_dice_badge_silver</Cell><Cell>Silver badge of defence</Cell><Cell>银制防守徽章</Cell></Row>
+<Row><Cell>ui_mn_reroll_dice_dice_badge_silver</Cell><Cell>Silver badge of fortune</Cell><Cell>银制幸运女神徽章</Cell></Row>
+<Row><Cell>ui_mn_set_dice_dice_badge_silver</Cell><Cell>Silver badge of transmutation</Cell><Cell>银制换点徽章</Cell></Row>
+<Row><Cell>ui_nm_animal_sheepCasings</Cell><Cell>Sheep guts</Cell><Cell>羊肠</Cell></Row>
+<Row><Cell>ui_nm_appleDried</Cell><Cell>Dried apple</Cell><Cell>苹果干</Cell></Row>
+<Row><Cell>ui_nm_arrow_broken</Cell><Cell>Broken arrow</Cell><Cell>损坏的箭矢</Cell></Row>
+<Row><Cell>ui_nm_arrow_hunter</Cell><Cell>Hunting arrow</Cell><Cell>狩猎箭矢</Cell></Row>
+<Row><Cell>ui_nm_axeBattle01</Cell><Cell>Bearded axe</Cell><Cell>胡须斧</Cell></Row>
+<Row><Cell>ui_nm_azZaHrob_silveredStudSarcofag</Cell><Cell>Silver-plated button</Cell><Cell>镀银纽扣</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen01_m01</Cell><Cell>Open bascinet</Cell><Cell>开放式中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen02_m01</Cell><Cell>Bell-shaped bascinet</Cell><Cell>钟型中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen08_m01</Cell><Cell>Bascinet with aventail</Cell><Cell>配有颈甲的中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen_twitch</Cell><Cell>Warhorse bascinet</Cell><Cell>战马中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor01_m01</Cell><Cell>Saxon bascinet</Cell><Cell>萨克森中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor03_m01</Cell><Cell>Nuremberg bascinet</Cell><Cell>纽伦堡中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor05_m01</Cell><Cell>Italian bascinet</Cell><Cell>意大利中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisorcapon_m01</Cell><Cell>Capon's bascinet</Cell><Cell>卡蓬的中头盔</Cell></Row>
+<Row><Cell>ui_nm_bow_c_b</Cell><Cell>Ash hunting bow</Cell><Cell>白蜡木猎弓</Cell></Row>
+<Row><Cell>ui_nm_bow_d_a</Cell><Cell>Ash longbow</Cell><Cell>白蜡木长弓</Cell></Row>
+<Row><Cell>ui_nm_caparison02_m01</Cell><Cell>Executioner's caparison simple</Cell><Cell>刽子手简易马衣</Cell></Row>
+<Row><Cell>ui_nm_coifmail01_m01</Cell><Cell>Mail coif</Cell><Cell>链甲头巾</Cell></Row>
+<Row><Cell>ui_nm_cuman_bow_a_b</Cell><Cell>Cuman folded bow</Cell><Cell>库曼人的层压弓</Cell></Row>
+<Row><Cell>ui_nm_deerFlank</Cell><Cell>Deer ribs</Cell><Cell>鹿排</Cell></Row>
+<Row><Cell>ui_nm_dieFavourable</Cell><Cell>Favourable die</Cell><Cell>好运骰子</Cell></Row>
+<Row><Cell>ui_nm_egg</Cell><Cell>Egg</Cell><Cell>蛋</Cell></Row>
+<Row><Cell>ui_nm_handgonneNormal01</Cell><Cell>Pistole</Cell><Cell>手铳</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_comfrey</Cell><Cell>Dried comfrey</Cell><Cell>干燥的紫草</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_hypericum</Cell><Cell>Dried St. John's wort</Cell><Cell>干燥的圣约翰草</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_mint</Cell><Cell>Dried mint</Cell><Cell>干燥的薄荷</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_nightshade</Cell><Cell>Dried henbane</Cell><Cell>干燥的天仙子</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_poppy</Cell><Cell>Dried poppy</Cell><Cell>干燥的罂粟</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_urticaria</Cell><Cell>Dried nettle</Cell><Cell>干燥的荨麻</Cell></Row>
+<Row><Cell>ui_nm_herb_elderberry</Cell><Cell>Elderberry leaves</Cell><Cell>接骨木莓叶</Cell></Row>
+<Row><Cell>ui_nm_longswordCommon</Cell><Cell>Common longsword</Cell><Cell>制式长剑</Cell></Row>
+<Row><Cell>ui_nm_loot_copperPlate</Cell><Cell>Copper plate</Cell><Cell>铜盘</Cell></Row>
+<Row><Cell>ui_nm_maceBailiff</Cell><Cell>Bailiff's mace</Cell><Cell>执行官的钉头锤</Cell></Row>
+<Row><Cell>ui_nm_maceDagger</Cell><Cell>Dagger mace</Cell><Cell>匕首钉头锤</Cell></Row>
+<Row><Cell>ui_nm_maceHetman</Cell><Cell>Captain's mace</Cell><Cell>首领的钉头锤</Cell></Row>
+<Row><Cell>ui_nm_mailshort02_m01</Cell><Cell>Italian hauberk</Cell><Cell>意大利链甲衫</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_letter</Cell><Cell>Scapular with insignia</Cell><Cell>饰有徽章的肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_saint</Cell><Cell>Scapular with saint</Cell><Cell>圣人肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_window</Cell><Cell>Scapular with aperture</Cell><Cell>带孔肩带</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison03_m01</Cell><Cell>Executioner's caparison decorated</Cell><Cell>刽子手装饰马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison03_mLeipa</Cell><Cell>Executioner’s caparison in colours of Leipa</Cell><Cell>莱佩家族配色的刽子手马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison04_m01</Cell><Cell>Executioner's caparison with harness</Cell><Cell>带马具的刽子手马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison07_m01</Cell><Cell>Executioner’s caparison with harness</Cell><Cell>带马具的刽子手马衣</Cell></Row>
+<Row><Cell>ui_nm_paddedcaparison02_m01</Cell><Cell>Executioner's caparison quilted</Cell><Cell>刽子手绗缝马衣</Cell></Row>
+<Row><Cell>ui_nm_perfume_longWeak_best</Cell><Cell>Henry's Mintha perfume</Cell><Cell>亨利的薄荷香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_best</Cell><Cell>Henry's Lion perfume</Cell><Cell>亨利的雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_high</Cell><Cell>Strong Lion Perfume</Cell><Cell>强效雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_medium</Cell><Cell>Lion perfume</Cell><Cell>雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_placeholder_maceHeavy</Cell><Cell>Heavy mace</Cell><Cell>重型钉头锤</Cell></Row>
+<Row><Cell>ui_nm_poPytlackeStezce_youngWhiteDeerHide</Cell><Cell>White roebuck's hide</Cell><Cell>白狍子皮</Cell></Row>
+<Row><Cell>ui_nm_recipe_axebattle01</Cell><Cell>Sketch – Bearded axe</Cell><Cell>胡须斧图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_hoochPotion</Cell><Cell>Moonshine recipe</Cell><Cell>私酒配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_longswordcommon</Cell><Cell>Sketch – Common longsword</Cell><Cell>制式长剑图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_sabrecommon</Cell><Cell>Sketch – Common sabre</Cell><Cell>制式军刀图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_shortswordcommon</Cell><Cell>Sketch – Military sword</Cell><Cell>武装剑图纸</Cell></Row>
+<Row><Cell>ui_nm_sabrecommon</Cell><Cell>Common sabre</Cell><Cell>制式军刀</Cell></Row>
+<Row><Cell>ui_nm_shortSwordBasilard</Cell><Cell>Basilard</Cell><Cell>巴塞拉德短剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordBroad</Cell><Cell>Broadsword</Cell><Cell>阔剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordCommon</Cell><Cell>Military sword</Cell><Cell>武装剑</Cell></Row>
+<Row><Cell>ui_nm_skin_roe</Cell><Cell>Roe-deer hide</Cell><Cell>狍子皮</Cell></Row>
+<Row><Cell>ui_nm_spirits</Cell><Cell>Schnapps</Cell><Cell>烈酒</Cell></Row>
+<Row><Cell>ui_nm_warhammer02</Cell><Cell>Rider's war hammer</Cell><Cell>骑兵战锤</Cell></Row>
+<Row><Cell>ui_nm_warhammer03_trollslayer</Cell><Cell>Trollbane hammer</Cell><Cell>巨魔克星战锤</Cell></Row>
+<Row><Cell>ui_nm_warhammer03_trollslayer_broken</Cell><Cell>Trollbane hammer stub</Cell><Cell>巨魔克星战锤的残骸</Cell></Row>
+<Row><Cell>ui_null_silver</Cell><Cell>Use to cancel the effect of your opponent's Silver badge in the game.</Cell><Cell>使用后可取消对手的银制徽章效果。</Cell></Row>
+<!-- 杂项文本 -->
+<Row><Cell>game_over_setkaniVRatbori1_SigismundDead_text</Cell><Cell>You killed King Sigismund, although you died at his guards' hands shortly after. King Wenceslas soon returned to the Bohemian throne, Jan Hus was never burned at the stake, and the Hussite Wars never took place.</Cell><Cell>你杀死了西格斯蒙德国王，不久后你也成了他护卫的刀下亡魂。而后，瓦茨拉夫国王很快坐回了他在波希米亚的王座，扬·胡斯也并没有上火刑架，以及那场胡斯战争，它也从未发生。</Cell></Row>
+<Row><Cell>game_over_zizkaDead_text</Cell><Cell>Jan Zizka died.</Cell><Cell>扬·杰式卡已死亡。</Cell></Row>
+<Row><Cell>generic_a_rozebrat_zed_nY7o</Cell><Cell>Pull down the wall</Cell><Cell>拆毁墙壁</Cell></Row>
+<Row><Cell>lecebne_p_p_alkohol_pro_j_4SwU</Cell><Cell>Alcohol for Jan</Cell><Cell>给扬的酒精</Cell></Row>
+<Row><Cell>lecebne_p_p_painkiller_pr_JLQN</Cell><Cell>Something for Jan's pain</Cell><Cell>缓解扬疼痛的东西</Cell></Row>
+<Row><Cell>lurewolves_pocihat_si_na__WHeI</Cell><Cell>Lurk on wolves</Cell><Cell>潜伏并等待狼群</Cell></Row>
+<Row><Cell>objective_hadry_YbSY</Cell><Cell>Skin.</Cell><Cell>毛皮。</Cell></Row>
+<Row><Cell>predani_cestujes_na_misto_iGd1</Cell><Cell>You and Jan are on your way to meet with László Farkas</Cell><Cell>与扬一同前往与拉斯洛·法卡斯会面的地方</Cell></Row>
+<!-- 灵魂文本 -->
+<Row><Cell>buff_bard_3</Cell><Cell>Strong Fox Effect</Cell><Cell>强效狐狸药剂效果</Cell></Row>
+<Row><Cell>buff_bard_4</Cell><Cell>Henry's Fox Effect</Cell><Cell>亨利的狐狸药剂效果</Cell></Row>
+<Row><Cell>char_BEJK_uiName</Cell><Cell>Apprentice Bull</Cell><Cell>熟手“公牛”</Cell></Row>
+<Row><Cell>char_FARAR_KONRAD_PNEVICE_uiName</Cell><Cell>Father Konrad of Pnewitz</Cell><Cell>普内维茨的神父康拉德</Cell></Row>
+<Row><Cell>char_FARAR_PETR_MALIN_uiName</Cell><Cell>Father Peter of Malien</Cell><Cell>马林的神父彼得</Cell></Row>
+<Row><Cell>char_JEZEK_Z_RUDOLCE_uiName</Cell><Cell>Jezhek of Holohlavy</Cell><Cell>霍洛拉维的杰泽克</Cell></Row>
+<Row><Cell>char_KOZLIK_ZIZKOVA_BANDA_uiName</Cell><Cell>Kozliek</Cell><Cell>科兹里克</Cell></Row>
+<Row><Cell>char_KUN_PRODEJNI_GRUNTA_3_uiName</Cell><Cell>Svadilfari</Cell><Cell>斯瓦迪尔法利</Cell></Row>
+<Row><Cell>char_KUN_PRODEJNI_GRUNTA_5_uiName</Cell><Cell>Veillantif</Cell><Cell>韦兰迪夫</Cell></Row>
+<Row><Cell>char_KUN_PRODEJNI_KUTNA_HORA_1_uiName</Cell><Cell>Kincsem</Cell><Cell>金克森姆</Cell></Row>
+<Row><Cell>char_KUN_PRODEJNI_KUTNA_HORA_3_uiName</Cell><Cell>Napoli</Cell><Cell>拿波里</Cell></Row>
+<Row><Cell>char_MARIAN_KNEZ_uiName</Cell><Cell>Father Marian</Cell><Cell>神父马里安</Cell></Row>
+<Row><Cell>char_MILENA_Z_TROSKOVIC_uiName</Cell><Cell>Butcher's wife Milena</Cell><Cell>屠夫妻子米莉娜</Cell></Row>
+<Row><Cell>char_MLADEJ_MIKA_uiName</Cell><Cell>Young Mika</Cell><Cell>小米卡</Cell></Row>
+<Row><Cell>char_OPILEC_JEZEK_uiName</Cell><Cell>Drunkard Jezhek</Cell><Cell>醉汉杰泽克</Cell></Row>
+<Row><Cell>char_OTIK_RYCHNA_uiName</Cell><Cell>Odorous Otto</Cell><Cell>臭气熏天的奥托</Cell></Row>
+<Row><Cell>perk_salva_name</Cell><Cell>Salvo</Cell><Cell>连射</Cell></Row>
+<Row><Cell>soul_ui_name_q_suchdol_defender</Cell><Cell>Suchdol defender</Cell><Cell>苏赫多尔守军</Cell></Row>
+<Row><Cell>stat_apples_consumed</Cell><Cell>Apples eaten</Cell><Cell>吃下的苹果数量</Cell></Row>
+<Row><Cell>stat_arrows_fired</Cell><Cell>Arrows fired</Cell><Cell>射出的箭矢数量</Cell></Row>
+<Row><Cell>stat_food_consumed</Cell><Cell>Food eaten</Cell><Cell>吃下的食物数量</Cell></Row>
+<Row><Cell>stat_fruits_consumed</Cell><Cell>Fruit eaten</Cell><Cell>吃下的水果数量</Cell></Row>
+<Row><Cell>stat_liquor_consumed</Cell><Cell>Liquor drinks consumed</Cell><Cell>喝下的烈酒数量</Cell></Row>
+<Row><Cell>stat_mushrooms_consumed</Cell><Cell>Mushrooms eaten</Cell><Cell>吃下的蘑菇数量</Cell></Row>
+<Row><Cell>stat_pastry_consumed</Cell><Cell>Pastry consumed</Cell><Cell>吃下的糕点数量</Cell></Row>
+<Row><Cell>stat_pears_consumed</Cell><Cell>Pears consumed</Cell><Cell>吃下的梨数量</Cell></Row>
+<Row><Cell>stat_potions_consumed</Cell><Cell>Potions consumed</Cell><Cell>喝下的药剂数量</Cell></Row>
+<Row><Cell>stat_vegetables_consumed</Cell><Cell>Vegetables eaten</Cell><Cell>吃下的蔬菜数量</Cell></Row>
+<Row><Cell>stat_wines_consumed</Cell><Cell>Wine consumed</Cell><Cell>喝下的红酒数量</Cell></Row>
+<Row><Cell>ui_codex_name_jan_zizka</Cell><Cell>Jan Zizka</Cell><Cell>扬·杰式卡</Cell></Row>
+<Row><Cell>ui_fac_nobility_trosky_desc</Cell><Cell>The castle's lord, Otto Von Bergow, and his closest subjects - Chamberlain Ulrich, Erazim the scribe, Burgrave Hashek and Captain Thomas, noble guests and members of high scoiety living at Trosky.</Cell><Cell>领主奥托·冯·波尔高及其亲信——管家乌尔里希、抄写员埃拉兹姆、城伯哈舍克和托马斯队长，贵族宾客以及居住在特罗斯基的上流人士。</Cell></Row>
+<Row><Cell>ui_fac_trosecko_settlements_semin_desc</Cell><Cell>Inhabitants of the home fortress of the Lords of Semine. The family of Jan of Semine, their servants, guards and others.</Cell><Cell>住在塞米领主堡垒中的居民，包括扬·塞米及其家属、他们的仆人、卫兵等。</Cell></Row>
+<!-- 任务文本 -->
+<Row><Cell>confrontl_laszlo_mi_nabid_MXNy</Cell><Cell>László made me an offer. If I help him conspire against Jan, I'll receive the dead Peter's equipment. Politely but clearly, I turned him down. I have my honour, after all. The handover will still take place, so that Jan can properly bury his brother. I hope László doesn't cause any more problems.</Cell><Cell>拉斯洛提出一个条件。如果我帮助他密谋反对扬，我将得到死去彼得的装备。我礼貌而明确地拒绝了他。我毕竟要维护自己的荣誉。交接还是要进行，这样扬就可以安葬他的哥哥。我希望拉斯洛不会再制造任何麻烦。</Cell></Row>
+<Row><Cell>confrontl_laszlo_mi_nabid_Zanm</Cell><Cell>László made me an offer. If I help him conspire against Jan, he'll provide me with such equipment that many a knight could only dream about. Sounds interesting, but I don't like the idea of joining up with his Cumans. </Cell><Cell>拉斯洛向我提出了一个条件。如果我帮助他密谋对付扬，他将为我提供许多骑士梦寐以求的装备。听起来很有意思，但我不想与他的库曼人联手。</Cell></Row>
+<Row><Cell>confrontl_p_kdyz_jsem_zji_l9or</Cell><Cell>When I learned that Peter was dead, I knew that László wasn't playing fair with Jan. But that's all I learned.</Cell><Cell>当我得知彼得死了，我知道拉斯洛对扬使了诈，但我就知道这么多。</Cell></Row>
+<Row><Cell>confrontl_p_naoko_jsem_la_mTFg</Cell><Cell>I lied to László, telling him I would betray Jan and lead him into a trap. If I tell Jan about these plans in time, we can think up a way to protect ourselves.</Cell><Cell>我对拉斯洛撒了谎，告诉他我会背叛扬，把他引入陷阱。如果我把这些计划及时告诉扬，我们可以想出一个保护自己的办法。</Cell></Row>
+<Row><Cell>confrontl_p_oboril_jsem_s_aerd</Cell><Cell>I told László that I know what happened to Peter. He responded that Jan will want his body back to bury it. So a handover should take place in any case.</Cell><Cell>我告诉拉斯洛，我知道彼得发生了什么。他回答说，扬会希望要回尸体埋葬。所以无论如何都应该进行交接。</Cell></Row>
+<Row><Cell>councilman_konsel_je_na_n_O6WM</Cell><Cell>I fought a duel of honour on Tuchmacher's behalf against Jan of Lesztin. I won, and Tuchmacher promised me he'd support the Kingfisher baths in the council vote.</Cell><Cell>我代表图赫马赫进行了一场荣誉决斗，在这场与列斯汀的扬的较量中，我成功胜出。图赫马赫也因此向我承诺，他将在市议会投票时向翠鸟澡堂提供他的支持。</Cell></Row>
+<Row><Cell>crouch_v_rybniku_nejsme_s_WDZu</Cell><Cell>Me and Sir Hans are not alone in the pond. A little further along by the banks there are some girls bathing, and Sir Hans, gentleman that he is, wants to go and spy on them. We'll have to keep our heads down in the reeds, otherwise we'll cause a stir.</Cell><Cell>光顾这片池塘的，不止我和汉斯少主。沿岸稍远处有群姑娘在洗澡。汉斯少主一展绅士风度，欲要上前窥探。我们得在芦苇丛中藏好，不然麻烦就大了。</Cell></Row>
+<Row><Cell>defeatjan_p_laszlo_padl_v_V3ul</Cell><Cell>Everything that could go wrong did go wrong. Sir Peter is dead, Jan of Suchotlesky is dead, and so too is Baron Farkas. No one gained anything from it all. There was no winner…</Cell><Cell>满盘皆输。彼得爵士死了，苏霍茨基的扬也死了，法卡斯男爵也死了。没有人从中获利。没有赢家……</Cell></Row>
+<Row><Cell>defeatlas_p_jan_padl_v_bo_oQHZ</Cell><Cell>Unfortunately, Jan did not survive his second encounter with László's Cumans. But at least he's now with his brother. May the earth rest lightly on them.</Cell><Cell>不幸的是，与拉斯洛的库曼人进行第二次对抗时，扬没有幸存下来。但至少他现在和哥哥在一起了。愿他们安息。</Cell></Row>
+<Row><Cell>deliverof_knez_marian_ves_0zKe</Cell><Cell>Father Marian doesn't believe in the local legend about a gateway to hell in the abandoned mines near Old Kutna. Nevertheless, he hired me to look into it to put a stop to the rumours. He gave me some food to prepare as an offering for demons in the mines. We'll see who really comes to pick it up.</Cell><Cell>当地传说称老库特纳附近的废弃矿场有一个通往地狱的通道，神父马里安并不相信。尽管如此，他还是雇我去调查，以终止谣言。他给了我一些食物，用来献祭矿井里的恶魔。我们可以看看究竟是谁会来拿走这些东西。</Cell></Row>
+<Row><Cell>deliverof_knez_marian_ves_hL9O</Cell><Cell>Father Marian doesn't believe in the local legend about a gateway to hell in the abandoned mines near Old Kutna. Nevertheless, he hired me to look into it to put a stop to the rumours. He gave me some supplies to lower into the mine. That will no longer be possible, since the locals were stricken by an unforseeable event...</Cell><Cell>当地传说称老库特纳附近的废弃矿场有一个通往地狱的通道，神父马里安并不相信。尽管如此，他还是雇我去调查，以终止谣言。他给了我一些物资，让我下放到矿井。这将不再可能实施，因为当地人被一个不可预知的事件所困扰......</Cell></Row>
+<Row><Cell>deliverof_knez_marian_ves_y2gR</Cell><Cell>Father Marian doesn't believe in the local legend about a gateway to hell in the abandoned mines near Old Kutna. Nevertheless, he hired me to look into it to put a stop to the rumours. He gave me some supplies and I lowered them into the mine. But what I lured out were no demons. Or were they?</Cell><Cell>当地传说称老库特纳附近的废弃矿场有一个通往地狱的通道，神父马里安并不相信。尽管如此，他还是雇我去调查，以终止谣言。他给了我一些物资，我把它们下放到矿井。但我引出来的东西究竟是不是恶魔，我心里也没数。</Cell></Row>
+<Row><Cell>dones_enn_prinest_vino_vl_uIbm</Cell><Cell>Enneleyn doesn't want anything left to chance, so she'll mix sleeping potion into some wine for the chamberlain. I brought her some wine as a gift. At the very least, she'll be able to fortify herself before the wedding.</Cell><Cell>恩内琳希望事情万无一失，所以她会在给管家的酒里加入安眠药水。于是我决定给她带些酒，这样她可以在婚礼前喝点来壮胆。</Cell></Row>
+<Row><Cell>dones_enn_prinest_vino_vl_ZExG</Cell><Cell>Enneleyn didn't want anything left to chance, so she mixed sleeping potion into some wine for the chamberlain. Since she used her own supply of the potion for our sakes, I at least brought her some wine as a gift.</Cell><Cell>恩内琳希望事情万无一失，所以她在给管家的酒里加入了安眠药水。既然她要用自己的东西完成我们的计划，我决定给她带些酒做为礼物。</Cell></Row>
+<Row><Cell>dones_koz_kdyz_kozesinu_z_kfWI</Cell><Cell>If I hand over the white roebuck's hide to the huntsman, he will rightfully give it to Peter of Pisek, the owner of the local woods.</Cell><Cell>如果我将白狍子皮交给猎人，他自然会将它交给本地森林的主人——皮塞克的彼得。</Cell></Row>
+<Row><Cell>dones_koz_kozesina_z_bile_Uuwe</Cell><Cell>The white roebuck's hide I happened upon by chance turned out to be from a recently killed rare roebuck. Dobrosh, the huntsman of Suchdol, rewarded me for finding it.</Cell><Cell>我偶然发现的那张白狍子皮原来属于最近被猎杀的一头稀有狍子。苏赫多尔的猎人多布罗什为我提供了发现这张狍子皮的赏金。</Cell></Row>
+<Row><Cell>doved_enn_krejzluv_plan_j_F3y4</Cell><Cell>Kreyzl's plan is underway. Enneleyn, wearing the finest Tyrolean brocade and Mintha perfume, is the bait for the chamberlain. Now it's all up to her.</Cell><Cell>克雷泽的计划正在进行中。恩内琳穿着最好的蒂罗尔锦缎，喷着薄荷香水，将引诱管家上钩。而现在就都看她的了。</Cell></Row>
+<Row><Cell>doved_kur_kurtyzanu_jsem__ObIL</Cell><Cell>Kreyzl's plan is underway. Enneleyn, wearing finest Tyrolean brocade and Mintha perfume, will be bait for the chamberlain. As her bodyguard for the evening, I have to hope she'll do what we agreed and we'll both go straight to Trosky from the wedding. But ideally separately: Enneleyn with the chamberlain, and me with von Bergow. Shall we got to it?</Cell><Cell>克雷泽的计划正在进行中。恩内琳穿着最好的蒂罗尔锦缎，喷着薄荷香水，将引诱管家上钩。而我作为她今晚的保镖，希望她能够遵守我们之间的约定，我们俩将在婚礼上直接去往特罗斯基。但最好是分头行动：恩内琳和管家一起，我和冯·波尔高一起。我们可以走了吗？</Cell></Row>
+<Row><Cell>dvojityag_getreinforcemen_o5PF</Cell><Cell>Find reinforcements for Jan.</Cell><Cell>为扬找增援。</Cell></Row>
+<Row><Cell>dvojityag_gowithjantohand_Foxl</Cell><Cell>Tell Jan once you are ready to head out.</Cell><Cell>等准备好了，就去找扬。</Cell></Row>
+<Row><Cell>dvojityag_reinforcements__wNNA</Cell><Cell>Reinforcements - Mikesh and Kozliek.</Cell><Cell>增援——米凯什和科兹里克。</Cell></Row>
+<Row><Cell>dvojityag_rewardfromjan_m4qx</Cell><Cell>Go and see Jan for your reward.</Cell><Cell>去见扬，要你的奖赏。</Cell></Row>
+<Row><Cell>dvojityag_telljanlaszlois_LObM</Cell><Cell>Tell Jan that László died.</Cell><Cell>告诉扬，拉斯洛死了。</Cell></Row>
+<Row><Cell>dvojityag_telljanwhatyouk_Bp4g</Cell><Cell>Tell Jan what you found out in the camp.</Cell><Cell>告诉扬你在营地里发现了什么。</Cell></Row>
+<Row><Cell>dvojityag_zabij_jana_pKMM</Cell><Cell>Kill Jan.</Cell><Cell>杀了扬。</Cell></Row>
+<Row><Cell>fetch_pac_beta_po_me_chce_MYoy</Cell><Cell>Betty wants me to bring her some package from Grund and to pick up Matsek the wagoner, who went there before me.</Cell><Cell>贝蒂希望我能从格兰德为她取回一些包裹，并将早先前往那里的马车夫马切克接回。</Cell></Row>
+<Row><Cell>finaltalk_knez_marian_me__wSNx</Cell><Cell>Father Marian rewarded me for my help. There's no one guarding the pit to hell now, as the only demon turned out to be the deranged knight, Taras Mura.</Cell><Cell>神父马里安奖励我伸出援手。现在通往地狱的深坑无人看守，因为疯狂的骑士塔拉斯·穆拉才是唯一的恶魔。</Cell></Row>
+<Row><Cell>finaltalk_vsechno_co_se_s_j3B4</Cell><Cell>I should visit Father Marian and discuss everything that happened.</Cell><Cell>我应该去拜访神父马里安，讨论所发生的一切。</Cell></Row>
+<Row><Cell>gethalberd_rytir_jan_mi_d_29hr</Cell><Cell>Sir Jan recommended I take one of the halberds previously carried by his men. We won't have the numbers on our side in this fight, so keeping the enemy back will be crucial. I decided to follow the knight's advice.</Cell><Cell>扬爵士建议我拿上他手下以前携带的一把战戟。在这场战斗中，我们要以寡敌众，所以拦阻敌人至关重要。我决定听从这位骑士的建议。</Cell></Row>
+<Row><Cell>gethalberd_rytir_jan_mi_d_6E1O</Cell><Cell>Sir Jan recommended I take one of the halberds previously carried by his men. We won't have the numbers on our side in this fight, so keeping the enemy back will be crucial.</Cell><Cell>扬爵士建议我拿上他手下以前携带的一把战戟。在这场战斗中，我们要以寡敌众，所以拦阻敌人至关重要。</Cell></Row>
+<Row><Cell>gethalberd_rytir_jan_mi_d_XHfu</Cell><Cell>Sir Jan recommended I take one of the halberds previously carried by his men. I prefer my own weaponry, however, and don't require anything else.</Cell><Cell>扬爵士建议我拿上他手下以前携带的一把战戟。不过，我更喜欢自己的兵器装备，不需要其他东西。</Cell></Row>
+<Row><Cell>getreinfo_p_bohuzel_se_mi_Y7lT</Cell><Cell>I didn't arrange any reinforcements against László with Jan.</Cell><Cell>我并未与扬指派任何援军来对付拉斯洛。</Cell></Row>
+<Row><Cell>getreinfo_p_na_janovu_zad_1EFU</Cell><Cell>At Jan's request, I've found a few fearless men who I can count on.</Cell><Cell>在扬的要求下，我找到了几个可信而无畏的人选。</Cell></Row>
+<Row><Cell>getreinfo_p_na_janovu_zad_o9ni</Cell><Cell>A nice little group will be accompanying me to meet László. I hope Jan will be happy.</Cell><Cell>一支精锐小队将陪同我去见拉斯洛。我希望扬会很高兴。</Cell></Row>
+<Row><Cell>gowithjan_mel_bych_si_zar_KBdq</Cell><Cell>I should take care of all necessary affairs, then return to Jan and go for the handover. The journey will take some time. It'll be best if we head out before noon.</Cell><Cell>我应该处理好所有必要事务，再回到扬那里然后去，交接。路途有些遥远，最好在中午前出发。</Cell></Row>
+<Row><Cell>gowithjan_vzhledem_k_nast_wFK2</Cell><Cell>Given the situation, there's no point in going with Jan to the agreed-upon handover.</Cell><Cell>鉴于这种情况，和扬一起去约定的交接地点没有意义。</Cell></Row>
+<Row><Cell>jdi_do_ve_stestena_nam_pr_OOKh</Cell><Cell>Fortune shone upon us, and the defenders of Maleshov fortress eventually surrendered. We captured the royal chamberlain and rescued Rosa Ruthard.</Cell><Cell>受到幸运之神的眷顾，马列索夫堡垒的守卫们最终选择了投降。我们抓住了那位皇家总管，也救出了罗莎·鲁瑟德。</Cell></Row>
+<Row><Cell>kubaparalu_podej_zpravu_o_6frC</Cell><Cell>Give the report on the killing of Father Prokop.</Cell><Cell>汇报普罗科普神父被杀一事。</Cell></Row>
+<Row><Cell>kubaparalu_zabij_prokopa_GkKX</Cell><Cell>Kill Father Prokop.</Cell><Cell>杀死普罗科普神父。</Cell></Row>
+<Row><Cell>location_krcak</Cell><Cell>Kerchak Pond</Cell><Cell>科尔察克池塘</Cell></Row>
+<Row><Cell>location_vezak</Cell><Cell>Rocktower Pond</Cell><Cell>石塔池塘</Cell></Row>
+<Row><Cell>location_vidlak</Cell><Cell>Vidlak Pond</Cell><Cell>维德拉克池塘</Cell></Row>
+<Row><Cell>lootersco_jak_to_s_dranci_wKNG</Cell><Cell>I'll never know what happened to the looters because I simply walked away. I can't expect Jan to forgive me for doing so.</Cell><Cell>我永远不会知道那些劫掠者发生了什么，因为我直接走开了。我不能指望扬会原谅我的所作所为。</Cell></Row>
+<Row><Cell>lootersco_osud_dranciru_b_GChI</Cell><Cell>The fate of the looters was sealed the moment Sir Jan beheld their godless behaviour. No one was left alive.</Cell><Cell>当扬爵士看到他们的大逆不道行为时，这些劫掠者已经难逃一死。最终没人幸免。</Cell></Row>
+<Row><Cell>najdi_dev_aby_dostal_tu_s_DKek</Cell><Cell>This time, Kreyzl doesn't even want me to steal the book. He's found some girl called Enneleyn for that. He'll take her to the Semine wedding and dangle her like bait in front of Chamberlain Ulrich's eyes. I ended up going to the wedding with the Tachov blacksmith, so it's hard to say how that turned out.</Cell><Cell>这次，克雷泽甚至都不想让我去偷书。他找来了一个叫恩内琳的姑娘做这件事。他会带她去参加塞米的婚礼，然后让她作为诱饵在管家乌尔里希面前晃悠。最后我和塔霍夫的铁匠去参加了婚礼，所以结果如何就不好说了。</Cell></Row>
+<Row><Cell>najdi_dev_aby_dostal_tu_s_X2jJ</Cell><Cell>I was supposed to find this fearless Enneleyn in the nomads' camp by the Rocktower Pond. I had heard she was likely to ask for quite a tidy sum in return, but she turned out to be a reasonable and experienced woman and more importantly, she agreed to the plan. I even got the impression she was really looking forward to meeting the chamberlain.</Cell><Cell>我应该在石塔池塘边的游牧民营地里找到这位无所畏惧的恩内琳。我听说她可能会索要一笔数目不小的报酬，但结果她是位通情达理且老练的女人，更重要的是，她同意了这个计划。我甚至感觉她实际上非常期待见到管家。</Cell></Row>
+<Row><Cell>najdi_koz_kuzi_z_bileho_s_wP7u</Cell><Cell>I found the white roebuck's hide in the poachers' camp.</Cell><Cell>我在偷猎者的营地找到了白狍子皮。</Cell></Row>
+<Row><Cell>najdi_koz_pokud_pytlaci_k_dGfl</Cell><Cell>If the poachers didn't sell the white roebuck's hide, it must be hidden somewhere in their camp.</Cell><Cell>如果偷猎者没有卖掉白狍子皮，那么它肯定就藏在他们的营地里。</Cell></Row>
+<Row><Cell>nasleduj__jakmile_jsme_me_P4Ln</Cell><Cell>Me and Godwin went back down to the secret passageway. We were lucky - nobody came across Zizka or Katherine.</Cell><Cell>我和古德温回到了秘密通道里。杰式卡和凯瑟琳没被人撞见，我们真走运。</Cell></Row>
+<Row><Cell>nasleduj__uz_mame_vsechno_jb6a</Cell><Cell>We've already got everything, so now I have to hurry back to Godwin. Zizka and Katherine are waiting.</Cell><Cell>东西都到手了，我得尽快跟古德温汇合。杰式卡和凯瑟琳还在等着我们。</Cell></Row>
+<Row><Cell>naverbuj__kozlik_je_jedni_6Dsb</Cell><Cell>Kozliek has been serving under Zizka for a long time. Now he's a member of my company.</Cell><Cell>科兹里克曾在杰式卡手下工作了很久。现在他是我连队的一员了。</Cell></Row>
+<Row><Cell>naverbuj__kozlik_je_jedni_r0GH</Cell><Cell>Kozliek has been serving under Zizka for a long time. Now he'll be reporting to me.</Cell><Cell>科兹里克曾在杰式卡手下工作了很久。现在他要向我报道了。</Cell></Row>
+<Row><Cell>naverbuj__zizka_mi_dal_ve_1cxY</Cell><Cell>Zizka assigned two of his most experienced men to my company: Mikesh and Kozliek.</Cell><Cell>杰式卡把他最有经验的两个人派给了我的连队：米凯什和科兹里克。</Cell></Row>
+<Row><Cell>naverbuj__zizka_mi_dal_ve_1zA6</Cell><Cell>Zizka put me in command of two of his experienced men. I’ll likely find Mikesh and Kozliek on the battlements.</Cell><Cell>杰式卡让我指挥他那两个身经百战的手下。我去城垛上或许就能找到米凯什和科兹里克。</Cell></Row>
+<Row><Cell>nebakovob_osetri_kozlika_aXZ5</Cell><Cell>Treat Kozliek.</Cell><Cell>治疗科兹里克。</Cell></Row>
+<Row><Cell>negotiate_nastoupil_jsem__UE7j</Cell><Cell>I told László that I know what happened to Peter. His response surprised me. Not batting an eyelid, he made me an offer, a rather dishonourable one. In my situation, though, it would be foolish to turn it down. I do feel sorry for Jan though…</Cell><Cell>我告诉拉斯洛，我知道彼得发生了什么。他的反应让我吃惊。他眼皮都不眨一下，给我开了个条件，一个相当可耻的条件。不过，如果我拒绝，就显得愚蠢。但我确实为扬感到难过......</Cell></Row>
+<Row><Cell>negotiate_oslovil_jsem_la_Qaz6</Cell><Cell>I spoke to László and introduced myself as Jan's intermediary. Although László received me, during our negotiations he made it abundantly clear that he was the one setting conditions. He agreed the handover would take place on neutral ground, but when I wanted to see the captive, László adamantly refused. I hope Jan won't be disappointed with the outcome. </Cell><Cell>我与拉斯洛交谈，说自己是扬的中间人。虽然拉斯洛接待了我，但在我们的谈判中，他非常清楚地表示，他才是开出条件的人。他同意在中立地点进行交接，但当我要看俘虏时，拉斯洛坚决拒绝。我希望扬不会对这个结果感到失望。</Cell></Row>
+<Row><Cell>negotiate_p_laszla_jsem_r_fT31</Cell><Cell>I immediately told László I know what happened to Peter. László claimed that Jan will certainly want to bury Peter's body. We agreed where the body will be handed over. Jan should be cautious though…</Cell><Cell>我立即告诉拉斯洛我知道彼得发生了什么。拉斯洛称，扬肯定会想埋葬彼得的尸体。我们商定了要在哪里进行尸体交接。但扬应该谨慎行事......</Cell></Row>
+<Row><Cell>oblehanis_naverbuj_kozlika_I3xd</Cell><Cell>Recruit Kozliek.</Cell><Cell>征募科兹里克。</Cell></Row>
+<Row><Cell>oblehanis_naverbuj_mikese_DRBj</Cell><Cell>Recruit Mikesh and Kozliek.</Cell><Cell>征募米凯什和科兹里克。</Cell></Row>
+<Row><Cell>oblehanis_seber_mece_k_br_7xr4</Cell><Cell>Collect swords to be sharpened.</Cell><Cell>收集需要打磨锋利的剑。</Cell></Row>
+<Row><Cell>opatrne_n_holky_nas_sice__z1kr</Cell><Cell>Capon and I weren't alone in the pond. A bit further along the shore some laundresses were bathing and Capon had the bright idea of going to spy on them. Although the girls didn’t spot us, we didn’t enjoy their scantily dressed loveliness for long.</Cell><Cell>光顾这片池塘的，不止我和汉斯少主。沿岸稍远处有几名洗衣女在洗澡。卡蓬起了雅兴，欲要上前窥探。虽然我们未被发现，但也没能欣赏她们的曼妙身姿太久。</Cell></Row>
+<Row><Cell>opatrne_n_nakonec_se_to_u_z6fe</Cell><Cell>Capon and I weren't alone in the pond. A bit further along the shore some laundresses were bathing and Capon had the bright idea of going to spy on them.That turned out to be one damned stupid idea! We just ended up scaring one of the girls.</Cell><Cell>光顾这片池塘的，不止我和汉斯少主。沿岸稍远处有几名洗衣女在洗澡。卡蓬起了雅兴，欲要上前窥探。真是个馊主意！我们吓到了其中一位姑娘。</Cell></Row>
+<Row><Cell>osetri_ko_kozlik_byl_rane_f48n</Cell><Cell>Kozliek was wounded in battle. I should take a look at him and treat him.</Cell><Cell>科兹里克在战斗中负伤。我得查看他的伤势并对他进行治疗。</Cell></Row>
+<Row><Cell>osetri_ko_raneneho_kozlik_ly6P</Cell><Cell>I examined the injured Kozliek and treated him.</Cell><Cell>我查看了科兹里克的伤势并提供了治疗。</Cell></Row>
+<Row><Cell>osetri_ko_zraneneho_kozli_1tUG</Cell><Cell>I didn't treat the injured Kozliek.</Cell><Cell>我没有治疗受伤的科兹里克。</Cell></Row>
+<Row><Cell>pokracuj__chvala_panu_vuz_GwQT</Cell><Cell>Thank God! I made it to the wagon and Katherine's other allies. After waiting a few hours for von Bergow's soldiers to call off the search, we got Zizka onto the cart and set off for the Kuttenberg region.</Cell><Cell>谢天谢地！我终于找到了那辆马车和凯瑟琳的其他伙伴。我们等了几个小时，终于等到冯·波尔高的手下结束了搜捕，随后帮杰式卡上了马车，便朝着库滕堡地区行进。</Cell></Row>
+<Row><Cell>pomodli_s_knez_prokop_z_k_AgWa</Cell><Cell>Father Prokop of Kuttenberg sent me on a penitential pilgrimage to the shrine of the Virgin Mary in Bohunowitz. I prayed to the Virgin and repented of my sins.</Cell><Cell>库滕堡的普罗科普神父指派我前往博胡诺维茨的圣母玛利亚教堂进行朝圣。我已向圣母祈祷，为我的罪孽进行了忏悔。</Cell></Row>
+<Row><Cell>pomodli_s_knez_prokop_z_k_cpsm</Cell><Cell>Father Prokop of Kuttenberg sent me on a penitential pilgrimage to the shrine of the Virgin Mary in Bohunowitz. I am to pray at the chapel and repent of my sins.</Cell><Cell>库滕堡的普罗科普神父指派我前往博胡诺维茨的圣母玛利亚教堂进行朝圣，我得到那里去进行祈祷，为我的罪孽进行忏悔。</Cell></Row>
+<Row><Cell>pomoz_zaj_po_vsem_co_se_n_T8Bp</Cell><Cell>Despite all the things that went wrong that bloody night, Maleshov fortress still fell, Otto van Bergow was captured, and Lady Rosa Ruthard was rescued. Fortune finally smiled upon us, and we literally had the royal chamberlain in the palm of our hand.</Cell><Cell>即使在那个腥风血雨的夜晚发生了很多意外，随着马列索夫堡垒的最终沦陷，奥托·冯·波尔高落入了我们手里，同时罗莎·鲁瑟德夫人也就此得救。幸运女神终于朝我们微笑了，而我们也确实将那位皇家总管掌握在了手中。</Cell></Row>
+<Row><Cell>po_pytlac_dones_kozesinu__5Noe</Cell><Cell>Bring the white roebuck's hide to the knacker.</Cell><Cell>将白狍子皮交给屠夫。</Cell></Row>
+<Row><Cell>po_pytlac_dones_kozesinu__Bcii</Cell><Cell>Bring the white roebuck's hide to the huntsman.</Cell><Cell>将白狍子皮交给猎人。</Cell></Row>
+<Row><Cell>promluv_s_kozlik_byl_vybr_Rbr9</Cell><Cell>Kozliek was chosen for the raid. I could send Mikesh with him.</Cell><Cell>我选择派科兹里克参加突袭，也也可以派米凯什和他一起去。</Cell></Row>
+<Row><Cell>promluv_s_kozlik_se_rad_v_NIIc</Cell><Cell>Kozliek is a betting man, but should I be betting his life on today's raid?</Cell><Cell>科兹里克是个赌徒，但我要拿他的命作今天突袭的赌注吗？</Cell></Row>
+<Row><Cell>promluv_s_mikes_a_kozlik__Xhu8</Cell><Cell>Mikesh and Kozliek should be on guard duty in the courtyard. If I want to select them for the raid I should find them there.</Cell><Cell>米凯什和科兹里克正在庭院执勤。若想派他们参加突袭，我应该去那里找到他们。</Cell></Row>
+<Row><Cell>promluv_s_mikes_byl_vybra_l9oL</Cell><Cell>Mikesh was chosen for the raid. I could send Kozliek with him.</Cell><Cell>我选择派米凯什参加突袭，也可以派科兹里克和他一起去。</Cell></Row>
+<Row><Cell>promluv_s_mikes_i_kozlik__RV4t</Cell><Cell>Mikesh and Kozliek were both chosen for the raid. They work well together.</Cell><Cell>米凯什和科兹里克都被选中参加突袭，他们配合默契。</Cell></Row>
+<Row><Cell>promluv_s_na_vypad_jsem_z_Q62e</Cell><Cell>From my company, I chose Kozliek for the raid.</Cell><Cell>我从部下中选择了科兹里克去参加突袭。</Cell></Row>
+<Row><Cell>promluv_s_vybral_jsem_na__ChY3</Cell><Cell>I chose Kozliek for the raid. I hope it's the right choice.</Cell><Cell>我选择了科兹里克去突袭。希望这是正确的选择。</Cell></Row>
+<Row><Cell>qdesc_dvojityagent_27AM</Cell><Cell>Jan of Suchotlesky has sent me in his name to negotiate the release of his brother, a knight who is held captive in Sigismund's camp.</Cell><Cell>苏霍茨基的扬派我以他之名去谈判，要求释放他的哥哥，后者被囚禁在西格斯蒙德营地。</Cell></Row>
+<Row><Cell>questfail_jan_ze_suchotle_rqWv</Cell><Cell>Jan of Suchotlesky died before we managed to put an end to this matter. I'll pray for him this evening at least.</Cell><Cell>苏霍茨基的扬在我们了结这件事之前就死了。至少今晚我会为他祈祷。</Cell></Row>
+<Row><Cell>reinforce_mikes_s_kozlike_TyTD</Cell><Cell>Mikesh and Kozliek from Zizka's band could come in handy.</Cell><Cell>杰式卡的米凯什和科兹里克可以派上用场。</Cell></Row>
+<Row><Cell>rewardfro_p_bitka_u_preda_wfyw</Cell><Cell>László made his bed and now sleeps in it. I think that Jan will recognise me for my aid and that I deserve a reward.</Cell><Cell>拉斯洛自作自受。我想，扬会感激我的援助，并认为我值得奖赏。</Cell></Row>
+<Row><Cell>rewardfro_p_jana_sme_kras_H19N</Cell><Cell>Jan paid for his gullibility and is now with his brother Peter. I hope that László Farkas recognises my help and rewards me as promised.</Cell><Cell>扬为他的轻信付出了代价，现在跟哥哥彼得在黄泉相聚了。我希望拉斯洛·法卡斯能赏识我的帮助，并按承诺给我奖励。</Cell></Row>
+<Row><Cell>rewardfro_p_jan_umrel_nez_qQtV</Cell><Cell>Jan didn't manage to thank me before he died.</Cell><Cell>扬还没来得及感谢我就去世了。</Cell></Row>
+<Row><Cell>rewardfro_p_jsem_sice_vsi_5bX6</Cell><Cell>Jan acted honourably and courageously, but still lost in the end. And I profited from it.</Cell><Cell>扬的行为体面而勇敢，但最后还是输了。而我却从中获利。</Cell></Row>
+<Row><Cell>rewardfro_p_s_janem_jsme__AnIW</Cell><Cell>I probably won't get any reward from Jan now. </Cell><Cell>看来现在我无法再向扬获取报酬了。 </Cell></Row>
+<Row><Cell>rewardfro_p_vsechno_krasn_GjyV</Cell><Cell>Jan was devastated by the loss of his brother but admitted that without my help, things would have ended much worse.</Cell><Cell>扬为失去哥哥而感到悲痛，但他承认，如果没有我的帮助，事情的结局会更糟糕。</Cell></Row>
+<Row><Cell>rutinaavy_promluv_si_s_ko_E96O</Cell><Cell>Speak with Kozliek</Cell><Cell>与科兹里克谈谈。</Cell></Row>
+<Row><Cell>s54_trask_poslechni_si_st_5czR</Cell><Cell>Listen to Knuckle's proposal.</Cell><Cell>听取巧指的建议。</Cell></Row>
+<Row><Cell>searching_hynek_nelhal_ry_Sdmq</Cell><Cell>The captured knight, Hynek wasn't lying. Sir Peter of Suchotlesky is dead, yet László still wants to get his hands on Jan's money. I could threaten to reveal the truth. Or go straight to Jan…</Cell><Cell>那个被俘的骑士海尼克并没有说谎。苏霍茨基的彼得爵士已经死了，然而拉斯洛仍然想得到扬的钱。我可以威胁说要揭露真相。或者直接去找扬…</Cell></Row>
+<Row><Cell>searching_jan_me_posila_s_gRBP</Cell><Cell>Jan has sent me to negotiate on his behalf with László Farkas. Jan told me nothing more about him, so I'll have to find him myself in Sigismund's camp.</Cell><Cell>扬派我代表他与拉斯洛·法卡斯进行谈判。扬没有告诉我更多关于他的信息，所以我必须亲自到西格斯蒙德营地去找他。</Cell></Row>
+<Row><Cell>searching_jan_me_poslal_d_4KqX</Cell><Cell>Jan has sent me to Sigismund's camp to negotiate with László Farkas. After asking around a bit, I found out I should look somewhere below the smithy. I hope that doesn't mean half the camp.</Cell><Cell>扬派我去西格斯蒙德的营地找拉斯洛·法卡斯进行谈判。四处打听了一下，线索指向铁匠铺下面的某个地方，希望能好找一点。</Cell></Row>
+<Row><Cell>searching_moje_podezreni__sxLD</Cell><Cell>I immediately had the feeling something was off. My suspicions were warranted. Sir Peter of Suchotlesky has already met his maker, and here László Farkas is prattling on about a prisoner exchange. I could tell him I know the truth. After all, if Jan finds out what has happened, he won't let it go.</Cell><Cell>一股不祥的预感瞬间生起。我怀疑得没错。苏霍茨基的彼得爵士已经去见了上帝，而拉斯洛·法卡斯却在这里喋喋不休地谈论交换囚犯的事情。我可以告诉他我知道真相。毕竟，如果扬知道了这件事，他不会善罢甘休。</Cell></Row>
+<Row><Cell>searching_p_s_laszlem_jse_jjXT</Cell><Cell>I negotiated the terms of the captive's release and went to inform Jan. I didn't see Peter in the camp. László says he'll take him to the agreed-upon place for the handover.</Cell><Cell>我谈好了释放俘虏的条件，然后去通知扬。 我在营地里没有看到彼得。拉斯洛说他会带他到约定的地点进行交接。</Cell></Row>
+<Row><Cell>sezen_dam_krejzl_neprekva_0XVu</Cell><Cell>Unsurprisingly, Kreyzl came up with a complicated plan. We'll find an ordinary wench from the Zhelejov baths, the miller will give her some fine clothes and perfume and take her to the Semine wedding. There we'll dangle her in front of Ulrich, the Trosky chamberlain. If he takes the bait, the wench, posing as a lady, will be invited to his chambers at Trosky and I, as her bodyguard, will have time to myself in the castle, ideally to spend looking for the book. But above all, this plan will finally get me to von Bergow. Now I just have to talk to Dorothy from the bathhouse and find out which of the wenches will be keen to attend the biggest celebration in the region. </Cell><Cell>不出所料，克雷泽想出了一个复杂的计划。我们要在哲勒约夫澡堂找一位普通的女人，磨坊主会给她一些漂亮衣服和香水，然后带她去塞米的婚礼。然后我们就把她留在特罗斯基的管家，也就是乌尔里希眼前。如果他上钩了，这位冒充淑女的女人，就会被邀请前去他在特罗斯基的房间。而我，身为她的保镖，就可以在城堡里自由行动，最好是把时间用在找那本书上。但最重要的是，这个计划最终会让我找到冯·波尔高那里。现在，我只需要和澡堂的多萝西聊聊，然后看看哪个女人愿意参加这个地区最盛大的庆典。 </Cell></Row>
+<Row><Cell>sezen_pro_krejzl_nechtel__MCg4</Cell><Cell>Not wanting to leave anything to chance, Kreyzl knows exactly the kind of dress he wants to turn the chamberlain's head. I got hold of a red cotehardie of Tyrolean brocade, of course.</Cell><Cell>克雷泽希望事情万无一失，他很清楚要弄来什么样的衣服才能让管家眼前一亮。当然，我弄来了一件蒂罗尔锦缎制成的贴身红裙。</Cell></Row>
+<Row><Cell>sezen_pro_prinest_vino_vl_bsRq</Cell><Cell>Enneleyn doesn't want anything left to chance, so she'll mix a sleeping potion into some wine for the chamberlain. As she's using her own supplies of the potion for our plan, maybe I could bring her some wine as a gift. Maybe she could use it to boost her courage before the wedding.</Cell><Cell>恩内琳希望事情万无一失，所以她会在给管家的酒里加入安眠药水。既然她要用自己的东西完成我们的计划，或许我可以给她带些酒做礼物，这样她可以在婚礼前喝点来壮胆。</Cell></Row>
+<Row><Cell>talktobal_konflikt_s_mist_EXgR</Cell><Cell>Conflict with the local riffraff was averted. Now I need to decide with Jan on how to move forward.</Cell><Cell>与当地暴徒的冲突得以避免。现在我需要和扬一起决定后续行动。</Cell></Row>
+<Row><Cell>talktobal_po_zazehnani_ko_czCr</Cell><Cell>Having averted the conflict with the looters, Jan and I decided on our next move. Tracking the band of Cumans won't be difficult.</Cell><Cell>在避免了与劫掠者的冲突之后，扬和我决定了我们的下一步行动。追踪库曼人的队伍并不困难。</Cell></Row>
+<Row><Cell>talktobal_po_zazehnani_ko_GUVB</Cell><Cell>Having averted the conflict with the looters, Jan and I have yet to discuss our next move. That's because I went away, bringing our quest to an unsuccessful finish.</Cell><Cell>在避免了与劫掠者的冲突之后，扬和我还没有讨论我们的下一步行动。因为我离开了，我们的探险以失败告终。</Cell></Row>
+<Row><Cell>taras_mura_finaltalkvilla_92Ug</Cell><Cell>Talk to Father Marian.</Cell><Cell>和神父马里安交谈。</Cell></Row>
+<Row><Cell>telljanla_jana_mrzelo_ze__cFTY</Cell><Cell>Jan regretted not getting his brother's body back, but he was glad that László got what he deserved…</Cell><Cell>没有拿回哥哥的尸体，扬感到遗憾，但他很高兴拉斯洛得到了报应......</Cell></Row>
+<Row><Cell>telljanla_mel_bych_zajit__gBT3</Cell><Cell>I should go to Jan and tell him about László.</Cell><Cell>我应该去找扬，将拉斯洛的事告诉他。</Cell></Row>
+<Row><Cell>telljanwh_jan_hodla_pro_s_m8x0</Cell><Cell>Jan is willing to risk his life for his brother Peter. But I serve the Lords of Leipa... The Lords of Suchotlesky will have to manage without me.</Cell><Cell>扬甘愿为了他的兄弟彼得赌上性命。但我在为莱佩的领主效力……苏霍茨基的领主们只能自己想办法处理问题了。</Cell></Row>
+<Row><Cell>telljanwh_kdyz_jsem_rekl__9gl8</Cell><Cell>When I told Jan about his brother's death, he cursed László and his whole damned family. He has now sworn himself to avenging Peter. But we need more men for that…</Cell><Cell>当我告诉扬他哥哥的死讯时，他诅咒了拉斯洛和他整个该死的家族。他现在发誓要为彼得报仇。但要复仇，我们需要更多的人......</Cell></Row>
+<Row><Cell>telljanwh_kdyz_se_jan_dov_yj68</Cell><Cell>When Jan heard about his brother's death, he was devastated. The news about the impending attack was the final drop. Taking to heart the adage 'the best defence is a good offense', he told me to get ready for combat and find a few experienced warriors to accompany us to the handover site.</Cell><Cell>当听说自己哥哥的死讯时，扬大受打击。最后的一击，是即将发生的袭击。他牢记“最佳防御是一种良好的进攻”这句格言，让我做好战斗准备，找几个有经验的战士陪同我们去交接地点。</Cell></Row>
+<Row><Cell>telljanwh_misto_predani_a_42OF</Cell><Cell>Jan was surprised by where the handover was to take place and the ransom amount, but he says the blood of kin can't be counted in coin. He also regretted that I hadn't seen Peter, but understood that in our situation I couldn't be giving orders. I should prepare for departure.</Cell><Cell>扬对交接地点和赎金数额感到惊讶，但他说亲人不能用钱币衡量。我没有见到彼得，他对此感到遗憾，但他明白，鉴于我们的情况，当时的我不可能发号施令。我应该准备出发了。</Cell></Row>
+<Row><Cell>telljanwh_p_mrtvy_petr_na_mPRO</Cell><Cell>Jan, informed of Peter's death, still sent me back to the camp to negotiate the handover of the captive.</Cell><Cell>扬在得知彼得的死讯后，仍然派我回到营地，商谈俘虏的交接......</Cell></Row>
+<Row><Cell>telljanwh_povedel_jsem_ja_DGAF</Cell><Cell>I told Jan everything about the conditions of the handover, but kept the truth about Peter to myself, instead assuring him that everything would go smoothly. Now we must go to the handover location.</Cell><Cell>我把交接条件全部告诉了扬，但隐瞒了有关彼得的真相，向他保证一切会顺利进行。现在我们必须去交接地点。</Cell></Row>
+<Row><Cell>telljanwh_p_sice_jsem_jan_mNxt</Cell><Cell>At first, I lied a bit to Jan, but then it began to gnaw on me. In the end, I admitted everything and told him the truth about Peter. Jan, understanding the situation, decided to exact revenge upon Farkas.</Cell><Cell>起初，我对扬撒了谎，但后来我于心不忍。最后，我承认了一切，将有关彼得的真相告诉了他。扬了解情况后，决定对法卡斯进行报复......</Cell></Row>
+<Row><Cell>telljanwh_p_vzhledem_k_ok_A7Kj</Cell><Cell>Given the circumstances, there's no use in talking over the outcomes of the negotiations with Jan.</Cell><Cell>鉴于这种情况，跟扬谈论谈判的结果没有意义。</Cell></Row>
+<Row><Cell>telljanwh_vyjednal_jsem_v_KY0b</Cell><Cell>I've negotiated everything I need to in the camp. I must now return to Jan and prepare for the handover.</Cell><Cell>我已经在营地里进行了所有必要的谈判。我现在必须回到扬身边，为交接做准备。</Cell></Row>
+<Row><Cell>tmp_setke_mam_jit_do_tabo_RVPP</Cell><Cell>They must have noticed we're gone, because the forest is swarming with soldiers looking for us! It seems Katherine's ally Mika is waiting for us with a wagon in some abandoned camp south of here, but Zizka's in a really bad way! I’ll go and find him and tell him what happened. But I have to be careful no soldiers see me. That would be the end.</Cell><Cell>我们逃跑的事情一定是败露了，因为树林里到处都是搜捕我们的士兵！凯瑟琳的朋友米卡，似乎就在南边某个废弃的营地，备好了马车等着我们，可是现在杰式卡的处境很糟糕！我得找到他，并告诉他发生了什么。但是我得小心，不能让士兵们发现我，万一被逮到就全完了。</Cell></Row>
+<Row><Cell>tmp_setke_stretl_jsem_bor_VoJ8</Cell><Cell>Our absence must have been discovered, because the forest is swarming with soldiers looking for us! It seems Katherine's ally Mika is waiting for us with a wagon in some abandoned camp south of here, but Zizka's in a really bad way! I’ll go and find him and tell him what happened.</Cell><Cell>我们逃跑的事情一定是败露了，因为树林里到处都是搜捕我们的士兵！凯瑟琳的朋友米卡，似乎就在南边某个废弃的营地，备好了马车等着我们，可是现在杰式卡的处境很糟糕！我得找到他，并告诉他发生了什么。</Cell></Row>
+<Row><Cell>ui_maplegend_laundry</Cell><Cell>Laundry</Cell><Cell>洗衣点</Cell></Row>
+<Row><Cell>utok_vesnice_horela_a_my__PctG</Cell><Cell>There was a large garrison at Maleshov that we managed to draw out of the fortress to extinguish the fire we'd set. Von Bergow's mercenaries assumed that a horrible fire had broken out in the village and didn't expect an enemy raid on the royal chamberlain's seat. The village was burning, and we gained the upper hand.</Cell><Cell>我们成功引出了马列索夫的大批守卫，让他们前去扑火。冯·波尔高的士兵们皆以为那不过是村庄意外失火，也未曾料到他们的敌人将突袭皇家总管的领地。烈火之下，我们占据了上风。</Cell></Row>
+<Row><Cell>vezninatr_dojdi_na_konec__qO96</Cell><Cell>Accompany Zizka, Katherine and Godwin to the end of the passageway.</Cell><Cell>陪杰式卡、凯瑟琳、古德温一起走出密道。</Cell></Row>
+<Row><Cell>vypatrej__dle_otce_prokop_rXWA</Cell><Cell>According to Father Prokop, Jarka was a kind girl who served the local von Grolle family. Father Prokop feels responsible, but mainly blames a wandering minstrel named William.</Cell><Cell>通过与普罗科普神父了解得知，贾卡生前是个好姑娘，还曾服侍过冯·格罗尔一家。尽管心怀愧疚，但神父普罗科普还是将贾卡的死怪罪到了一位叫威廉的吟游诗人头上。</Cell></Row>
+<Row><Cell>vypatrej__jarka_nejstarsi_c3Oh</Cell><Cell>Jarka, the oldest victim of the mad murderer, was the ward of a local priest, Father Prokop. It shouldn't be too hard to track him down and talk to him about Jarka and her condition before the murder.</Cell><Cell>贾卡是头几位惨遭疯狂杀手谋害的姑娘，同时也是当地牧师普罗科普神父的养女。要想找到这位神父并与他谈论贾卡及其生前境况并非难事。</Cell></Row>
+<Row><Cell>vypatrej__nepodarilo_se_m_KLSW</Cell><Cell>I didn't manage to learn anything more from Father Prokop about the life and death of his ward Jarka, and so the investigation has hit a dead end. Just like Father Prokop.</Cell><Cell>我没能向普罗科普神父打探到任何与其养女贾卡生死相关的信息。正如一命呜呼的神父，案件调查的进展也因此被中断。</Cell></Row>
+<Row><Cell>vypatrej__podarilo_se_mi__3ykB</Cell><Cell>I managed to glean from Father Prokop that Jarka was pregnant, so it was a double murder. Perhaps the father of the child wanted to silence the mother before she disgraced  him?</Cell><Cell>通过向普罗科普神父了解得知，当时的贾卡已经怀有身孕，因此那凶手实际上害死了两条人命。难道是孩子父亲担忧名誉扫地，才杀害了贾卡？</Cell></Row>
+<Row><Cell>zabij_jana_planovane_miro_UA1T</Cell><Cell>The idea of a peaceful handover was a naive one. First an argument broke out that soon grew into a fight. I had to make a quick decision. Jan might be honourable, but he's also naive, dangerously so. There is a war on, and in war, it's the strong that win. And Baron Farkas is strong. I'm not proud of it, but he offered a better deal. At least Jan is with Peter now.</Cell><Cell>和平交接的想法太过天真。双方先是发生了争执，很快就发展成争斗。我不得不迅速做出决定。扬可能品格高尚，但他也很天真，这很危险。现在一场战争正在进行，而在战争中，强者才能获胜。而法卡斯男爵是强者。这事虽并不光彩，但他给出的条件更好。至少扬现在和彼得在一起了。</Cell></Row>
+<Row><Cell>zabij_jana_planovane_miro_uIWj</Cell><Cell>The idea of a peaceful handover was a naive one. First an argument broke out that soon grew into a fight. I had to make a quick decision. Jan might be honourable, but he's also naive, dangerously so. There is a war on, and in war, it's the strong that win. And Baron Farkas is strong. </Cell><Cell>和平交接的想法太过天真。双方先是发生了争执，很快就发展成争斗。我不得不迅速做出决定。扬可能品格高尚，但他也很天真，这很危险。现在一场战争正在进行，而在战争中，强者才能获胜。而法卡斯男爵是强者。</Cell></Row>
+<Row><Cell>zabij_pro_dle_dlouhe_deba_Z3QR</Cell><Cell>After much debate and argument we decided that Father Prokop was the murderer. I then killed him and hopefully stopped his murderous rampage.</Cell><Cell>经过费尽心力的探究与讨论后，我们断定是普罗科普神父就是杀人凶手。随后我便将其杀死，只愿能以此终结他的屠杀行径。</Cell></Row>
+<Row><Cell>zabij_pro_dle_nasi_dlouhe_CvDv</Cell><Cell>After a long debate in which we concluded Father Prokop was the murderer, I just couldn't bring myself to kill the old man. I didn't want to have that on my conscience. </Cell><Cell>经过了漫长的探讨，我们得出了普罗科普神父就是凶手的结论，但是并不想让自己良心不安的我，无法下手杀死一位年迈的老者。 </Cell></Row>
+<Row><Cell>zabij_pro_dohodli_jsme_se_LGRP</Cell><Cell>We agreed that Father Prokop was the murderer and that we needed to kill him to stop his murderous rampage.</Cell><Cell>我们都认为普罗科普神父就是杀人凶手，为阻止他惨无人道的屠杀行为，我们必须把他杀死。</Cell></Row>
+<Row><Cell>zeptej_se_bozena_mi_porad_zTA0</Cell><Cell>Bozhena told me where I could find the Cumans. They're camping near the pond where the nomads are.</Cell><Cell>博珍娜告诉我库曼人的位置。他们在池塘边扎营，和游牧民族待在一起。</Cell></Row>
+<Row><Cell>zeptej_se_lovci_tibor_mi__IsR2</Cell><Cell>Natan told me where to find the Cumans. They're camping near the pond where the nomads are.</Cell><Cell>纳坦告诉我库曼人的位置。他们在池塘边扎营，和游牧民族待在一起。</Cell></Row>
+<Row><Cell>zjisti_vo_krejzl_puvodne__gEGO</Cell><Cell>Kreyzl originally meant to get the book through the Trosky chamberlain at the Semine wedding, but he wasn't able to arrange it. The castle was still closed off at the time. But now he knows me, and I have near unlimited access to the castle, making the whole situation a lot simpler. I found Erazim the scribe at the castle and asked him where the book is. He gave me a few names, the most important of which is Nikvard Libak. </Cell><Cell>克雷泽原本想在塞米的婚礼上通过特罗斯基的管家拿到那本书，但他的安排出了差错。那时候的城堡还处于关闭中。但现在他认识了我，我几乎可以不受限制地进出城堡，这就让整件事简单多了。我在城堡这儿找到了特罗斯基的抄写员埃拉兹姆，并问了他书在哪里。他告诉了我几个名字，其中最重要的一位叫尼克瓦德·利巴克。 </Cell></Row>
+<Row><Cell>zjisti_vo_krejzl_puvodne__hroH</Cell><Cell>Kreyzl originally meant to get the book through the Trosky chamberlain at the Semine wedding, but he wasn't able to arrange it. The castle was still closed off at the time. But now he knows me, and I have near unlimited access to the castle, making the whole situation a lot simpler. Now I just have to go to the castle writing room and talk Erazim the scribe. He should know where the book is.</Cell><Cell>克雷泽原本想在塞米的婚礼上通过特罗斯基的管家拿到那本书，但他的安排出了差错。那时候的城堡还处于关闭中。但现在他认识了我，我几乎可以不受限制地进出城堡，这就让整件事简单多了。现在我只需要去城堡的抄写室，和抄写员埃拉兹姆聊聊。他应该知道书在哪里。</Cell></Row>
+<!-- 教程文本 -->
+<Row><Cell>combo_knockknock_text_wcjk</Cell><Cell>&lt;head&gt;Shield Deflect&lt;/head&gt;&lt;body&gt;A new combat technique for a shield and its combination with a mace or an axe.&lt;/body&gt;&lt;combo id='2010,2001,2001,2010'/&gt;</Cell><Cell>&lt;head&gt;盾反&lt;/head&gt;&lt;body&gt;盾牌或与斧头、钉头锤配合发动的全新战技。&lt;/body&gt;&lt;combo id='2010,2001,2001,2010'/&gt;</Cell></Row>
+<Row><Cell>combo__text_oZsF</Cell><Cell>&lt;head&gt;Knee Crusher&lt;/head&gt;&lt;body&gt;New combat technique for axe and mace.&lt;/body&gt;&lt;combo id='2100,2001,2001,2010'/&gt;</Cell><Cell>&lt;head&gt;碎膝重击&lt;/head&gt;&lt;body&gt;斧头与钉头锤的全新战技。&lt;/body&gt;&lt;combo id='2100,2001,2001,2010'/&gt;</Cell></Row>
+</Table>
