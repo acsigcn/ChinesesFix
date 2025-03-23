@@ -1,0 +1,4 @@
+<Table>
+<Row><Cell>ui_hud_reputation_notification_reputation_gained</Cell><Cell>Reputation gained</Cell><Cell>获得声望</Cell></Row>
+<Row><Cell>ui_hud_reputation_notification_reputation_lost</Cell><Cell>Reputation lost</Cell><Cell>失去声望</Cell></Row>
+</Table>
