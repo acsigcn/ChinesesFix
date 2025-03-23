@@ -1,0 +1,465 @@
+<Table>
+<Row><Cell>alch_fevertonic_step_1</Cell><Cell>You will need wine, 3 handfuls of feverfew, 2 handfuls of ginger and a handful of elderberryberry leaves.</Cell><Cell>准备好葡萄酒，三把小白菊，两把生姜以及一把接骨木莓叶。</Cell></Row>
+<Row><Cell>alch_fevertonic_step_3</Cell><Cell>Grind the elderberry leaves and add them to the cauldron.</Cell><Cell>研磨接骨木莓叶后将其加入锅中。</Cell></Row>
+<Row><Cell>andelstrazny_oresmus_book_tVjY</Cell><Cell>&lt;paragraph&gt;God be praised, here begins Aristotle's treatise On Heaven and Earth, which I, Nicole Oresmus, dean of the church of Rouen, propose to translate and explain in French by order of the almighty and most illustrious Prince Charles, the fifth named, by the grace of God, king of France, seeker and lover of all noble wisdom.&lt;/paragraph&gt;&lt;paragraph&gt;This work bears this title because it treats of the heavens and the elements of which the world is composed, the word world including the four elements contained in and under the heavens; for in this treatise the world is commonly interpreted otherwise to mean the whole mass of the heavens together with the four elements. Elsewhere world is used in several other senses not relevant to this treatise.&lt;/paragraph&gt;This work contains four separate books. In the first of these, Aristotle considers the cosmos as a whole, as a unit in itself, and discusses its characteristic properties; in the second book he discusses the heavens; in the third book he examines the views of his predecessors on the elements; in the fourth book he expresses his own view of the elements. The first book contains thirty-six chapters.&lt;newpage/&gt;</Cell><Cell>&lt;paragraph&gt;赞美上帝。由亚里士多德的论著《论天》开始，我，鲁昂教堂的院长，尼古拉·奥雷姆，受全能与盛名无双的君主————即蒙上帝恩典的法兰西国王查理五世、崇高智慧的探寻者与拥戴者之命，将其翻译为法语并加以解释。&lt;/paragraph&gt;&lt;paragraph&gt;《论天》探究天空之真谛、创世元素之内核，因而得此题名，所谓“世界”即与天上地下的四大元素息息相关；在此著作中，“世界”被通俗地解读为天空与四大元素。在别处，“世界”所承载的内涵各不相同，但却均与此著作毫无关联。&lt;/paragraph&gt;此著作由四本独立书籍组成。其一，亚里士多德于其中把宇宙视作整体，将其看作独一事物，并探讨了它的特性；其二，亚里士多德着眼于对天空的解读；其三，亚里士多德探讨了前人关于元素的看法；其四，书中阐述了亚里士多德本人关于元素的见解。而此著作的第一本书籍则涵盖了整整36篇章节。&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>andelstrazny_oresmus_book_ukm3</Cell><Cell>1. In the first chapter, Aristotle proves that the world is perfect in both quantity and size.&lt;br/&gt;
+2. In the second chapter, he explains how bodies in the world are capable of three simple movements.&lt;br/&gt;
+3. In the third chapter, he applies his observations regarding local movements to several earthly bodies.&lt;br/&gt;
+4. In the fourth chapter, he presents five reasons why, in addition to the four elements, it is necessary to assume another simple body.&lt;br/&gt;
+5. In the fifth chapter, he shows that the heavens are neither heavy nor light.&lt;br/&gt;
+6. In the sixth chapter, he suggests that the heavens could neither have been created, nor corrupted, nor increased, nor decreased, nor changed.&lt;br/&gt;
+7. In the seventh chapter, he presents three proofs of what he has just stated.&lt;br/&gt;
+8. In the eighth chapter, he shows that circular movement is not contradictory.&lt;br/&gt;
+9. In the ninth chapter, he aims to determine whether there exists any infinite body.&lt;br/&gt;
+10. In the tenth chapter, he shows that it is impossible for a body moving in a circle to be infinite.&lt;br/&gt;
+11. In the eleventh chapter, he shows that no body capable of straight-line motion can be infinite.&lt;br/&gt;
+12. In the twelfth chapter, he shows that neither heaviness nor lightness can be infinite.&lt;br/&gt;
+13. In the thirteenth chapter, he broadly argues that no body can be infinite, basing his reasons on the rules governing local movement.&lt;br/&gt;
+14. In the fourteenth chapter, he shows that no body can be infinite, using reasons based generally on all types of movements or actions.&lt;br/&gt;
+15. In the fifteenth chapter, he presents other, more general and less obvious reasons to show that no body can be infinite.&lt;br/&gt;
+16. In the sixteenth chapter, he proposes to determine whether there exist or can exist multiple worlds, and with two arguments proves that they cannot.&lt;br/&gt;
+17. In the seventeenth chapter, he proves with another argument that there can only be one world.&lt;br/&gt;
+18. In the eighteenth chapter, he proves that the elements move to certain specific places without the distance to them being infinite, which he had previously assumed.&lt;br/&gt;
+19. In the nineteenth chapter, he refutes views contrary to what is stated in the previous chapter.&lt;br/&gt;
+20. In the twentieth chapter, he again proves with two reasons that there can be only one world.&lt;br/&gt;
+21. In the twenty-first chapter, he presents the reason why some believed that multiple worlds could exist.&lt;br/&gt;
+22. In the twenty-second chapter, he finds an answer to the above argument, thereby confirming his view.&lt;br/&gt;
+23. In the twenty-third chapter, he shows that no living body can exist outside this world, which he had previously assumed.&lt;br/&gt;
+24. In the twenty-fourth chapter, he shows that there is nothing concerning a living body outside this world.&lt;br/&gt;
+25. In the twenty-fifth chapter, he begins to question whether the world is eternal, and discusses the views of other ancient thinkers.&lt;br/&gt;
+26. In the twenty-sixth chapter, he refutes Plato's view.&lt;br/&gt;
+27. In the twenty-seventh chapter, he refutes the views of Empedocles and Anaxagoras.&lt;br/&gt;
+28. In the twenty-eighth chapter, he precisely explains various concepts that he will continue to use.&lt;br/&gt;
+29. In the twenty-ninth chapter, he addresses the problem of the possible and the impossible with respect to a given force.&lt;br/&gt;
+30. In the thirtieth chapter, he asserts and begins to prove that everything that had a beginning, and all things subject to change, will have an end, and also that everything that ends had or will have a beginning.&lt;br/&gt;
+31. In the thirty-first chapter, he tries to prove as a universal law that what is not without a beginning is not without an end, and if it is not without an end, then it is not without a beginning; also, that what has no beginning is eternal, and if it is eternal, it is without a beginning.&lt;br/&gt;
+32. In the thirty-second chapter, he shows how certain concepts used in this area of study are translatable.&lt;br/&gt;
+33. In the thirty-third chapter, he again tries to prove that everything that had a beginning will necessarily have an end, and that everything that will have an end had a beginning.&lt;br/&gt;
+34. In the thirty-fourth chapter, he further argues the same problem.&lt;br/&gt;
+35. In the thirty-fifth chapter, he defends the idea that all perishable things will necessarily be destroyed, and further argues the previous question.&lt;br/&gt;
+36. In the thirty-sixth chapter, he provides another more specific reason from natural science to support his claim.&lt;br/&gt;</Cell><Cell>第一章，亚里士多德为“世界”自身在“量”与“寸”上的无可挑剔进行了证明。&lt;br/&gt;
+第二章，他对世界上物体如何进行三种简单运动做出了解释。&lt;br/&gt;
+第三章，他将自己对局部运动的观察应用于地球上的多个物体。&lt;br/&gt;
+第四章，他为脱离四大元素而进行简单物体假设的必要性给出了五大理由。&lt;br/&gt;
+第五章，他证明了天体非轻非重的特性。&lt;br/&gt;
+第六章，他提出了天体并非造物、难以侵蚀、无法扩张、不可销毁、无从扭曲的说法。&lt;br/&gt;
+第七章，他为先前的陈词列出了三项证明。&lt;br/&gt;
+第八章，他为圆周运动的非矛盾性做出了证明。&lt;br/&gt;
+第九章，他着手探讨是否存在无限大的物体。&lt;br/&gt;
+第十章，他证明了圆周运动中的物体不可能是无限的。&lt;br/&gt;
+第十一章，他指出任何能够进行直线运动的物体都不是无限的。&lt;br/&gt;
+第十二章，他证明了“轻”与“重”的有限性。&lt;br/&gt;
+第十三章，他以局部运动规则作为论据，对物体的非无限性进行了广泛论证。&lt;br/&gt;
+第十四章，他以各种运动与行为作依据，证明了物体的非无限性。&lt;br/&gt;
+第十五章，他为物体的非无限性给出了更常规但却更抽象的理由。&lt;br/&gt;
+第十六章，他探讨了是否可能存在多个世界，并用两个论点证明了它们不可能存在。&lt;br/&gt;
+第十七章，他对世界的唯一性提出了另一个论点。&lt;br/&gt;
+第十八章，他证明了元素移动至特定位置时，所途径的距离都并非无限的，这与他之前的假设相符。&lt;br/&gt;
+第十九章，他反驳了与前一章节所提及观点相反的看法。&lt;br/&gt;
+第二十章，他以两则论据再次证明了世界的唯一性。&lt;br/&gt;
+第二十一章，他对部分人认为存在其它世界的观点进行原因分析。&lt;br/&gt;
+第二十二章，他为上一章的分析找出了答案，进而印证了他的观点。&lt;br/&gt;
+第二十三章，他在先前章节提出的假设“任何生物均无法脱离本世界生存”在本章得到了证明。&lt;br/&gt;
+第二十四章，他证明了本世界之外不存在任何与活物相关的物体。&lt;br/&gt;
+第二十五章，他开始探讨世界是否具备永恒性，同时对其他古代思想家的观点进行了讨论。&lt;br/&gt;
+第二十六章，他对柏拉图的观点进行了反驳。&lt;br/&gt;
+第二十七章，他对恩培多克勒和阿那克萨哥拉的观点进行了反驳。&lt;br/&gt;
+第二十八章，他详细解释了接下来将会使用的各种概念。&lt;br/&gt;
+第二十九章，他讨论了力的可能性及其极限。&lt;br/&gt;
+第三十章，他断言一切有开端、会演变的事物均会面临终结，而一切会面临终结的事物都曾有过或将会有开端。&lt;br/&gt;
+第三十一章，他致力于证明“无始无终”、“无终无始”这一客观法则；同时还试图证明“无始即永恒”、“永恒便无始”的观点。&lt;br/&gt;
+第三十二章，他证明了此研究领域所使用的一些术语是如何能够用于别处的。&lt;br/&gt;
+第三十三章，他再次尝试证明“有始必有终”、“有终亦有始”的观点。&lt;br/&gt;
+第三十四章，他就同一问题进行了深入论证。&lt;br/&gt;
+第三十五章，他为“所有会腐朽之物必然终结”这一观点提供了辩护支持，还对先前论题进行了进一步论证。&lt;br/&gt;
+第三十六章，他从自然科学的角度提出了另一则更为具体的论据，加以证明他的论点。&lt;br/&gt;</Cell></Row>
+<Row><Cell>andelstrazny_riddles_5_pa_cl2x</Cell><Cell>&lt;poem&gt;
+St. George has struck with his deadly spear,&lt;br/&gt;
+The dragon bleeds and writhes in fear.&lt;br/&gt;
+But St. George is not done yet.&lt;br/&gt;
+Beneath his helm he turns his head.&lt;br/&gt;
+&lt;br/&gt;
+He fixes his gaze towards the &lt;accent&gt;east&lt;/accent&gt;&lt;br/&gt;
+Where there spawns another beast.&lt;br/&gt;
+This dragon though from rock is made.&lt;br/&gt;
+In its throat a &lt;accent&gt;window&lt;/accent&gt; will come to your aid.&lt;br/&gt;
+&lt;/poem&gt;</Cell><Cell>&lt;poem&gt;
+圣乔治刺出长矛，&lt;br/&gt;
+龙血流淌，恶兽倒地。&lt;br/&gt;
+但战斗还未结束，&lt;br/&gt;
+头盔下的他转过头。&lt;br/&gt;
+&lt;br/&gt;
+将那目光投向&lt;accent&gt;东方&lt;/accent&gt;，&lt;br/&gt;
+新的巨龙于彼处诞生。&lt;br/&gt;
+纵使砖石身躯坚不可摧，&lt;br/&gt;
+喉处的&lt;accent&gt;窗户&lt;accent&gt;将助你破局。&lt;br/&gt;
+&lt;/poem&gt;</Cell></Row>
+<Row><Cell>fairystory_houseofruthard_ntwf</Cell><Cell>&lt;paragraph&gt;&lt;inc&gt;D&lt;/inc&gt;uring the reign of the good King Wenceslas II of the Premyslides, a fever for precious metals broke out in Kuttenberg. Many people came every day to Gang and Kukliek to seek their fortune on the surface and underground. There was so much pure silver flowing out of the furnaces that even the last miner could get rich if he had not drunk it all before or had not met with misfortune in the mine. And those who didn't return were not few. But nothing could discourage the profit-hungry mine owners from opening new shafts.&lt;/paragraph&gt;&lt;paragraph&gt;Along with the mine owners, rich merchants also came to Kuttenberg, who rented the mines from the king to extract white metal from them at their own expense and thus increase their wealth even more. Proving that they were successful in their work, the patricians began to build great houses and palaces, and soon a large town with several markets and a town hall was established. A little later, high walls were also erected to guard the peace and wealth of the upper town.&lt;/paragraph&gt;&lt;newpage/&gt;&lt;paragraph&gt;One of the first to come to Kuttenberg to try their luck was the German Ruthard family, who established an estate on Kolmark above the river Vrchlitz, where silver in the fissures rose to the surface in abundance and had therefore been mined here for ages. Jan Kunzlin Ruthard was a well-known mine owner and erckaufier in Kuttenberg, so when King Wenceslas II himself visited Kuttenberg, he offered him hospitality in his house. The king, impressed by the selection of food and the wealth of Ruthard's house, realised that Jan must be well versed in silver mining, since he was doing so well. &lt;/paragraph&gt;Imagine the king's astonishment when, after a good meal, Jan took him into the cellar, where the silver bars lay on top of each other like ears of silver wheat in a sheaf. Then the king asked Jan for the first time: 'Whose silver is all this, Ruthard?' And he answered him wisely: 'Yours, King, if ever thou hast need of it from me.' The king, pleased with these words, shook his head and told Jan that he had no need of it yet, but would remember it.&lt;br/&gt;Later Jan accompanied King Wenceslas to vespers in the monastery of Sedletz. On the way, the king asked his guide who owned the meadows they were passing through, and Jan told him: 'You, gracious King! But I manage them, and I pay every year ten white groschen to the abbot of the monastery for their use. Please plead with him, so I pay less.' &lt;br/&gt;The king promised to plead, and in good humour turned his horse to a willow tree that grew by the roadside. He broke off a branch from it and handed it to Jan, saying: 'Let this sprig be a reminder to posterity of My Grace for the sincerity with which you have shared your treasures with me.'&lt;br/&gt;Ruthard understood the king's words, and while Wenceslas stayed in the monastery, he hastened to the city, where he had the royal arm and the sprig painted on his shield. When Wenceslas saw the new decoration on his shield, he confirmed the coat of arms and with it the dignity Ruthard had achieved for his family that day.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;&lt;inc&gt;瓦&lt;/inc&gt;茨拉夫二世·普热米斯尔国王执政期间，人们对珍贵矿石的狂热追求席卷整片库滕堡地区。每天，堪克和库克里克都会涌来源源不断的淘银者，地上和地下均留下了他们追寻财富的痕迹。当时，不计其数的纯银从熔炉中淬炼而出，即便是搭上热潮末班车的矿工，只要他未将钱财挥霍在酒水之上，或是在矿场中遭遇不测，他最终都能腰缠万贯。至于那些一去未归者也不在少数，但无论如何，任何事情都无法磨灭醉心利益的矿工们不断开采的欲望。&lt;/paragraph&gt;&lt;paragraph&gt;除了矿工以外，富商们也来到了库滕堡。他们自掏腰包，跟国王租下矿场，从中开采的白银更是让他们赚得盆满钵满。为了展示自己在事业上的成就，这些富商巨贾开始兴建豪宅与宫殿，很快，一个坐拥几处市场、设有市政厅的大城镇赫然屹立于大地之上。未几间，高耸城墙拔地而起，守护着城中的财富与安宁。&lt;/paragraph&gt;&lt;newpage/&gt;&lt;paragraph&gt;在第一批前往库滕堡寻求财富的淘银者中，就见得德国人鲁瑟德一家的身影。弗赫利茨河中的裂痕常会有大量白银浮上水面，鲁瑟德一家在河边上的科尔马克修建庄园，多年来一直在那里经营着采矿事业。扬·昆克林·鲁瑟德是库滕堡远近闻名的采矿者，当瓦茨拉夫二世国王亲临库滕堡之时，扬将其接至家中，施以盛情款待。待客佳肴让国王欣喜万分，堂皇别墅也让他过目不忘，他意识到，能拥有如此丰裕的生活条件，鲁瑟德在采矿事业中必定颇有建树。&lt;/paragraph&gt;饱餐之后，扬将国王领到了地窖中，谁知眼前的一幕竟让国王瞪目结舌：只见银条一根接一根地叠在一起，就像捆起的银色麦穗。随后国王向扬发问：“这些白银都是谁的，鲁瑟德？”扬则给出了明智的回答，说道：“都是您的，陛下，如果您愿意的话。”听闻此言，国王喜上眉梢，但只是摇摇头，说他并不需要那些白银，不过会将此铭记于心。&lt;br/&gt;而后，扬在陪同瓦茨拉夫国王前往塞德莱茨修道院的夕祷仪式的路上，他们经过了一处牧场，国王便向扬问起了牧场归属之事宜，扬回答道：“那是您的，尊敬的陛下！只不过它现由微臣打理，我每年都会给修道院的院长支付10枚格罗申，以此租用牧场。还请您向他说情，好让我少付些钱。”&lt;br/&gt;国王答应了扬的请求，心满意足的他把马牵到了路边的一棵柳树旁。他折下一根柳树枝，递给了扬，说道：“感谢你甘愿与我分享财富，遂予你此树枝以表恩宠，就让它提醒后人，勿忘王恩。”&lt;br/&gt;鲁瑟德明白了国王的话中深意，趁着国王在修道院落脚期间，他立马赶回城里，将国王的手与柳树枝印画在了他的盾牌上。看到盾牌上崭新的涂饰，瓦茨拉夫承认了这一纹章的权威性，扬也因此为自己的家族争得了尊严。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>heavyweapons_skillbook_lv_FtYY</Cell><Cell>You won’t let go? Alright, maybe you could learn a thing or two. Here are the 101 best mace fighting techniques from Master Fiore Furlano de'i Liberi de Cividale d'Austria. </Cell><Cell>还不愿意放弃？好吧，也许你还能学几招。这是大师菲奥雷·弗兰诺·德·利贝里·德·奇维达莱·达奥斯特里亚的《101种最棒的钉头锤战法》！ </Cell></Row>
+<Row><Cell>heavyweapons_skillbook_lv_OnSD</Cell><Cell>Mace or Hammer?</Cell><Cell>《钉头锤还是战锤？》</Cell></Row>
+&lt;paragraph&gt;希望您和夫人阿涅什卡安好。我刚从格兰返回，扬·卡尼日斯基大主教告诉我，教宗博尼法斯九世决定支持那不勒斯的拉迪斯劳斯继承匈牙利王位的合法主张。您也清楚，自从您堂兄行使帝国事务以来，国库已捉襟见肘，但依然未能为我们应对南方奥斯曼帝国的威胁提供足够的保障。&lt;/paragraph&gt;
+<Row><Cell>lorebook_grimoirsecretzer_qXbd</Cell><Cell>&lt;title&gt;Algoritmi de numero Indorum&lt;/title&gt;&lt;subtitle&gt;Treatise on Nought&lt;/subtitle&gt;&lt;newpage/&gt;</Cell><Cell>&lt;title&gt;《Algorithmi de numero Indorum（印度数字演算法）》&lt;/title&gt;&lt;subtitle&gt;论空无&lt;/subtitle&gt;&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>lorebook_magicalseferrazi_OvWB</Cell><Cell>&lt;paragraph&gt;&lt;inc&gt;T&lt;/inc&gt;his book is full of many wonders, but it also hides many secrets. The name of the prince who sent it to me is Sameton, and the two wise men who brought it are named Kamazan and Zozont. The Latin name of the book comes from Angelus Magnus Secreti Creatoris, which in Hebrew means Cefar Raziel, the Great Angel, the secret creator. It was he who appeared to the first man Adam on God's command, to teach him the knowledge of the power of thoughts, the soul, the laws of nature and life on Earth, including the secrets of the planets and stars. This is therefore Adam's book, and it was written by King Solomon in Chaldean and translated into Hebrew. Whoever reads it should remember that it contains all the &lt;accent&gt;Semifores&lt;/accent&gt;, the great names of God, supplemented by all their virtues and sacraments.&lt;/paragraph&gt;&lt;img width="512" height="128" align="right" src="TextRazier01"/&gt;&lt;newpage/&gt;&lt;paragraph&gt;&lt;inc&gt;W&lt;/inc&gt;ho sees and does not understand is blind and does not know colours,&lt;br/&gt;Who hears and does not understand is deaf.&lt;br/&gt;Who thinks and does not know thought is drunk.&lt;br/&gt;Who speaks and does not say a thought is dumb.&lt;br/&gt;Who reads books and does not understand them, &lt;accent&gt;wanders in dreams.&lt;/accent&gt;&lt;/paragraph&gt;&lt;img width="512" height="256" align="right" src="TextRazier02"/&gt;&lt;newpage/&gt;&lt;paragraph&gt;&lt;inc&gt;I&lt;/inc&gt; obtained this book divided into seven treatises, of which the first and the last are truly very dark, and the middle five are clearer, although in them I found many dark places and understood only as much as could be understood. The first treatise is called &lt;accent&gt;Clavis&lt;/accent&gt;, the Key, for it explains astronomy and the stars, without which we can truly do nothing magical.&lt;/paragraph&gt;&lt;newpage/&gt;&lt;img width="512" height="512" align="center" src="SolomonSeal01"/&gt;&lt;newpage/&gt;&lt;paragraph&gt;&lt;inc&gt;T&lt;/inc&gt;he second is called &lt;accent&gt;Ala&lt;/accent&gt;, the Wings, and in it, the virtues of individual stones, herbs and animals are gradually explained. The third is &lt;accent&gt;Tractatus Thymiamatum&lt;/accent&gt;, the Treatise on Incense, where their classification, significance for suffumigation and methods of use are described. The fourth is &lt;accent&gt;Temporum Anni&lt;/accent&gt;, the Treatise on the Seasons, Days and Nights, explaining when to do what according to this book. The fifth is &lt;accent&gt;Tractatus Munditia&lt;/accent&gt;, the Treatise on Purity, for it explains the importance of abstinence. The sixth is called Samaim in Hebrew, the Heavens, for in this work all the heavenly spheres and the effects of their angels are named. The seventh is &lt;accent&gt;Liber Virtutum&lt;/accent&gt;, the Book of Virtues, for it explains miracles, virtues, numbers and the properties of the magical ark.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;&lt;inc&gt;这&lt;/inc&gt;本书中蕴含着许多奇迹，也隐藏着诸多奥秘。一位名为萨梅顿的王子将此书交予两位智者，卡马赞和佐宗特，并经由他们之手转赠于我。这本书的名字取自拉丁语的“Angelus Magnus Secreti Creatoris”，在希伯来语中意为“Cefar Raziel”，即大天使，秘密造物主。正是他在上帝的命令下，显现在人类的祖先亚当面前，传授给他诸多知识，包括思想的力量，灵魂的本质，自然的法则与地球生灵的学识，甚至包括星辰的诸多奥秘。因此，这本书也可以称作“亚当之书”，它最初由所罗门王用迦勒底语编写，被后人翻译成希伯来语。书中记述了所有的&lt;accent&gt;Semifores&lt;/accent&gt;，即上帝的神名，也记载了与之相关的所有美德和神圣仪式。&lt;/paragraph&gt;&lt;img width="512" height="128" align="right" src="TextRazier01"/&gt;&lt;newpage/&gt;&lt;paragraph&gt;&lt;inc&gt;夫&lt;/inc&gt;&lt;paragraph&gt;视而不解者，如瞽者不知黑白；&lt;br/&gt;听而不明者，如聋者不闻雷霆；&lt;br/&gt;思而不知者，如酣者乱神丧志；&lt;br/&gt;言而无思者，如喑者不能言语；&lt;br/&gt;学而不悟者，如惑者心声并乱。&lt;/paragraph&gt;&lt;img width="512" height="256" align="right" src="TextRazier02"/&gt;&lt;newpage/&gt;&lt;paragraph&gt;&lt;inc&gt;我&lt;/inc&gt;得到的抄本分为七个篇章，第一篇和最后一篇十分晦涩，而中间五篇则相对清晰，但也充满了难以理解的部分。第一篇名为&lt;accent&gt;“Clavis”&lt;/accent&gt;，即“钥匙”，它解释了天象和星辰，是施展一切真正魔法的必要知识。&lt;/paragraph&gt;&lt;newpage/&gt;&lt;img width="512" height="512" align="center" src="SolomonSeal01"/&gt;&lt;newpage/&gt;&lt;paragraph&gt;&lt;inc&gt;第&lt;/inc&gt;二篇名为&lt;accent&gt;“Ala”&lt;/accent&gt;，即“翅膀”，它解释了各种石头，草药和动物蕴含的美德。第三篇名为&lt;accent&gt;“Tractatus Thymiamatum”&lt;/accent&gt;即“论香料”，它讲述了香料的分类，熏香的意义以及使用方法。第四篇名为&lt;accent&gt;“Temporum Anni”&lt;/accent&gt;，即“论时节”，它讲述了何时应当做何事。第五篇名为&lt;accent&gt;“Tractatus Munditia”&lt;/accent&gt;，即“论纯洁”，讲述了禁欲的重要性。第六篇以希伯来语命名，名为“Samaim”，即“天堂”，它列出了所有天体的轨迹，即对应天使的影响。第七篇名为&lt;accent&gt;“Liber Virtutum”&lt;/accent&gt;，即“美德之书”，它解释了奇迹、美德、数学以及魔法方舟的种种性质。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>lorebook_magicalseferrazi_uk3Z</Cell><Cell>Liber Razielis Archangeli </Cell><Cell>《大天使拉结尔之书》</Cell></Row>
+<Row><Cell>lorebook_onmaidenswar_part_VYDQ</Cell><Cell>&lt;paragraph&gt;Yet hardly a soul took them seriously, and it was with great mirth that the men did observe these girls taking up arms and learning to saddle horses. However, Premysl, the wise ruler that he was, did not find merriment in these actions and warned his men to broker a peace. His warnings were not heeded, however, and they set out to Děvín in great merriment. But alas! The women did not flee! With Vlasta in the lead, they charged out of the gate, chainmail on their bodies, helmets on their heads, and spears aimed to kill. “If we allow ourselves to be vanquished,” called out Vlasta, “it will be then that the men shall laugh at us. We shall become their servants and slaves! For it is better to die than to give up! Strike at the men, at each and every one, be he brother or father.” And the furies then did set upon them, until three hundred men lay dead in their own blood and the rest had fled.&lt;/paragraph&gt; </Cell><Cell>&lt;paragraph&gt;然而却没人把这些女人放在眼里，甚至男人们还嘲笑她们用剑骑马的架势。但是，普热米斯尔，一代明君，却没有轻视这场骚乱，他警告男性族人们要主动去和女性族人议和。而他的警告却被当成了耳旁风，男性族人们心态放松地前去征讨德文据点。但是，啊！女性族人并没有退缩！弗拉斯塔领军冲锋，她们杀出了城门，身披链甲，头戴铁盔，剑拔出鞘，已做好拼杀的准备。“如果我们就此被征服，”弗拉斯塔号召追随者，“我们将会永远成为男人的笑柄。我们将会永远成为他们的贱仆与奴隶！士可杀，不可辱！杀死眼前这帮男人，无论长兄父老，一律格杀勿论！”女人们为这段鼓舞所带动，盛怒之下，使三百余男族人倒在血泊之中，余下的尽数逃走了。&lt;/paragraph&gt; </Cell></Row>
+<Row><Cell>natroskach_zapiskyfelcara_aqyF</Cell><Cell>&lt;paragraph&gt;Although I have to admit, she's got it in for me. In the middle of my lecture on the dangers of nightshade extract, I found myself staring at her plump cleavage. Let's just say I let the rest of her transgressions go unnoticed. But I'll be locking the chest carefully from now on, as well as the chest with raw materials I keep right next to my apparatus.&lt;/paragraph&gt;&lt;newpage/&gt;</Cell><Cell>&lt;paragraph&gt;她还是很不满，但我得说，在和她讲茄科提取物有多危险的时候，我发现我一直盯着她那对大胸看。这样吧，她其他的过失我就不追究了。不过从现在开始我得好好锁好所有的箱子，仪器旁边的原料箱也不例外。&lt;/paragraph&gt;&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>natroskach_zapiskyfelcara_m0cq</Cell><Cell>&lt;paragraph&gt; Fortunately, the feverfew grows right in the forecourt, on the terrace on the path to the lower gate. I'm not a herbalist, so I had a bit of trouble finding it, as it looks almost identical to chamomile. As for the elderberry leaves, I visited the carpenter above the upper gate. I know well that they dye their cloth in secret right behind the workshop and then sell it around the village, so they have an abundance of elderberry leaves.&lt;/paragraph&gt;&lt;newpage/&gt;</Cell><Cell>&lt;paragraph&gt;幸运的是，前院通往下门的小路上就长有小白菊，露台上就有很多。因为它们看起来和甘菊几乎一模一样，我又不是专业的草药学家，分辨起来费了点力气。至于接骨木莓叶，附近的木匠那里就有。我知道他在作坊后面偷偷给布料染色，然后卖到村子里，所以他藏了很多接骨木莓叶。&lt;/paragraph&gt;&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>natroskach_zapiskyfelcara_NLe2</Cell><Cell>&lt;paragraph&gt;The scribe Erazim lay down with a fever, which probably came from an inflamed wound on his right hand. I have thus an occasion to try my new decoction against the fevers which accompany inflammations of various kinds. It's a simple decoction made from ingredients that are quite readily available. The decoction is prepared from boiled wine, three parts of feverfew, two parts of grated ginger and one part of elderberry leaves.&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;抄写员埃拉兹姆高烧不起，应该是他右手的伤口发炎的缘故，因此我有机会尝试我的新煎药了。这种药可以治疗各种炎症引发的发热，它的优点是材料易于获得，做起来也容易。用煮沸的葡萄酒、三份小白菊、两份磨碎的姜和一份接骨木莓叶就可以制成。&lt;/paragraph&gt;</Cell></Row>
+<Row><Cell>poi_duelostrostrelcu_skil_baIi</Cell><Cell>Beauty of the Crossbow</Cell><Cell>弩之美</Cell></Row>
+<Row><Cell>recipe_perfume_longWeak_name</Cell><Cell>Mintha perfume</Cell><Cell>冥河仙女薄荷香水</Cell></Row>
+<Row><Cell>recipe_perfume_longWeak_usage</Cell><Cell>A weak but long-lasting perfume. Slightly increases charisma for a longer period, but reduces charisma if used with another perfume.</Cell><Cell>传说哈迪斯的妻子珀耳塞福涅出于嫉妒，将冥河仙女“Minthe”变成了薄荷，而薄荷因其芳香特性备受人们青睐。此种香水气味清淡，但可长久留香。使用后可在较长时间内略微提升魅力值，若与其他香水混合使用将会降低魅力值。</Cell></Row>
+<Row><Cell>recipe_perfume_shortStrong_name</Cell><Cell>Lion perfume</Cell><Cell>雄狮香水</Cell></Row>
+<Row><Cell>recipe_potion_fever_name</Cell><Cell>Saviour Schnapps </Cell><Cell>救世烈酒</Cell></Row>
+<Row><Cell>recipe_potion_hooch_name</Cell><Cell>Moonshine</Cell><Cell>私酒</Cell></Row>
+<Row><Cell>skillbook_alchemy_iv_kcd2_hNBl</Cell><Cell>Recipe for Panacea</Cell><Cell>多香果配方</Cell></Row>
+<Row><Cell>troskovice_chronicle_part_h1I6</Cell><Cell>&lt;heading&gt;Margaret's Lovers&lt;/heading&gt;&lt;paragraph&gt;It is not for a decent man to judge another's love, but the circle of Margaret's lovers is already asking to be noticed. Illa femina multum viros amat - the brothers Martin and John had time to ask her. The woman, however, did not want to return the love of the brothers and chose another man for herself, thus causing immense grief to the brothers. Pax animae Johannis - John, in his distress, threw himself off the rock! The body of John, unrequited by love, lay under the rock between Troskovice and Tachov, and was buried outside the holy ground. Tristis erat frater eis - Martin then went to meet the world. The brother of the deceased left our country after a great mourning and is said to have become a member of a knightly order in foreign lands.&lt;/paragraph&gt;&lt;newpage/&gt;</Cell><Cell>&lt;heading&gt;玛格丽特的情人们&lt;/heading&gt;&lt;paragraph&gt;作为一个正人君子，我本不该评判他人的爱情，但玛格丽特的交际圈广为人知。Illa femina multum viros amat——玛格丽特吸引了许多男人的爱慕，包括马丁和扬两兄弟。但最后，对兄弟俩的爱慕，她并未给予任何回报，而是选择了另外一个男人，这给两兄弟带来了莫大的痛苦。Pax animae Johannis——爱而不得的扬甚至从岩石上跳了下去！他的遗体就躺在特罗斯科维茨和塔霍夫之间的岩石下，被埋葬在未祝圣的土地上。Tristis erat frater eis——马丁则是在巨大的悲痛中离开了家乡，失去了兄弟的他沉浸在哀痛之中，不过据说他在多年之后走出了悲伤，加入了一个外国的骑士团。&lt;/paragraph&gt;&lt;newpage/&gt;</Cell></Row>
+<Row><Cell>ui_antibust_gold</Cell><Cell>After an unlucky throw, you can &lt;strong&gt;throw again&lt;/strong&gt;. Can be used &lt;strong&gt;three times per game&lt;/strong&gt;.</Cell><Cell>若对掷骰不满意，你可以使用该徽章进行&lt;strong&gt;重掷&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;三次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_antibust_plumb</Cell><Cell>After an unlucky throw, use this badge to &lt;strong&gt;throw again&lt;/strong&gt;. Can be used &lt;strong&gt; once per game&lt;/strong&gt;.</Cell><Cell>若对掷骰不满意，你可以使用该徽章进行&lt;strong&gt;重掷&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_antibust_silver</Cell><Cell>When a throw doesn't go your way, use this badge to &lt;strong&gt;throw again&lt;/strong&gt;. Can be used &lt;strong&gt;twice per game&lt;/strong&gt;.</Cell><Cell>若对掷骰不满意，你可以使用该徽章进行&lt;strong&gt;重掷&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;两次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_bird_king_badge</Cell><Cell>The badge of the rightful king of the birds will allow you to roll an &lt;strong&gt;additional die&lt;/strong&gt;. Can be used &lt;strong&gt;twice per game&lt;/strong&gt;.</Cell><Cell>正统鸟王的徽章。使用后，可在指定掷骰时&lt;strong&gt;额外增加一颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;两次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_double_take_gold</Cell><Cell>Using this badge will double the point value of your last throw. Can be use &lt;strong&gt;three times per game&lt;/strong&gt;.</Cell><Cell>使用后将你所选骰子的&lt;strong&gt;分数翻倍&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;三次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_double_take_silver</Cell><Cell>You &lt;strong&gt;double the score of your last throw&lt;/strong&gt;. Can be used &lt;strong&gt;twice per game&lt;/strong&gt;</Cell><Cell>使用后将你所选骰子的&lt;strong&gt;分数翻倍&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;两次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_extra_dice_dice_badge</Cell><Cell>Using it will allow you to roll &lt;strong&gt;one extra die&lt;/strong&gt;. Can be used &lt;strong&gt;twice per game&lt;/strong&gt;</Cell><Cell>使用后，可在指定掷骰时&lt;strong&gt;额外增加一颗骰子&lt;/strong&gt;，每局游戏可使用&lt;strong&gt;两次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_extra_dice_gold</Cell><Cell>Using it will allow you to roll &lt;strong&gt;one extra die&lt;/strong&gt;. Can be used &lt;strong&gt;three times per game&lt;/strong&gt;</Cell><Cell>使用后，可在指定掷骰时&lt;strong&gt;额外增加一颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;三次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_extra_dice_plumb</Cell><Cell>Use it to add &lt;strong&gt;one extra die to your throw&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>使用后，可在指定掷骰时&lt;strong&gt;额外增加一颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_in_alias_loot_zizkaChalice</Cell><Cell>A chalice from some sort of bandit expedition. It seems to have a sentimental value for Zizka.</Cell><Cell>一次剿匪行动时获得的圣杯，对杰式卡来说似乎有特殊意义。</Cell></Row>
+<Row><Cell>ui_in_animal_sheepCasings</Cell><Cell>Freshly extracted sheep guts. Carrying something like that around is a bit... disgusting.</Cell><Cell>刚取出的羊肠。随身携带这种东西有点……恶心。</Cell></Row>
+<Row><Cell>ui_in_axebattle01</Cell><Cell>The bearded axe is a battle axe which is a simple tool in its origin, but it can chop down shields as well as trees.</Cell><Cell>胡须斧是战斧的一种，起源于简单的工具，既能劈开盾牌，也能砍倒树木。</Cell></Row>
+<Row><Cell>ui_in_axebattle02</Cell><Cell>The battle axe, called a broadaxe, is related to the ordinary carpenter's axe, but is much lighter and forged specifically for combat. It's a good weapon against shields and chain mail.</Cell><Cell>阔斧是一种战斧，与普通木匠斧相似，但要轻得多，专门为战斗而锻造。能轻松劈开盾牌和链甲。</Cell></Row>
+<Row><Cell>ui_in_axebattle03</Cell><Cell>The horseman's pick is a light riding axe with a spike. Used correctly, it's a good friend in a pinch. Its sharp point can cut through armour, its blade through any shield.</Cell><Cell>骑兵之选是一种带有尖刺的轻型骑兵斧。使用得当的话，在紧要关头能发挥很大用处。它锋利的斧尖可以轻易击穿盔甲，而斧刃则可以劈开任何盾牌。</Cell></Row>
+<Row><Cell>ui_in_bascinet_open</Cell><Cell>A helmet called a bascinet with a wide chainmail aventail that protects the neck and shoulders of the warrior.</Cell><Cell>中头盔的一种，配有宽阔的链甲颈甲，可保护战士的脖颈和肩膀。</Cell></Row>
+<Row><Cell>ui_in_bascinet_open01</Cell><Cell>A helmet called a bascinet forged from a single piece of sheet metal. In this basic form, it has no bretache or klappvisor and therefore does not protect the warrior's face.</Cell><Cell>中头盔的一种，由单片金属片锻造而成。这种基础款式的头盔并未配备保护片或翻盖面甲，因此无法保护战士的脸部。</Cell></Row>
+<Row><Cell>ui_in_bascinet_open02</Cell><Cell>A helmet called a bascinet protecting the whole head except the face, so it looks a bit like a bell. Very often used by marksmen because the face is not covered by any visor and it is easy to see the target.</Cell><Cell>中头盔的一种，为除脸颊外的整个头部提供保护，因此形状与钟相似。这种头盔常由弓箭手穿戴，因为脸部未设面甲，便于佩戴者清晰地观察目标。</Cell></Row>
+<Row><Cell>ui_in_bascinet_open03</Cell><Cell>An older form of the bascinet with a removable wide bretache, complete with a chainmail aventail protecting the warrior's neck and shoulders.</Cell><Cell>旧式中头盔，配有可拆卸的宽型保护片，还附带可保护战士脖颈和肩膀的链甲颈甲。</Cell></Row>
+<Row><Cell>ui_in_bascinet_open_Brunswig</Cell><Cell>A large bascinet decorated with a gilded lion statuette, excellent for jousting tournaments. According to legend, it belonged to the Bohemian prince Brunswick.</Cell><Cell>饰有镀金狮子雕像，适用于马术对决。据说此头盔曾属于波希米亚王子布伦瑞克。</Cell></Row>
+<Row><Cell>ui_in_bascinet_visor01</Cell><Cell>A helmet called a bascinet with a fitted klappvisor of an older drop-shaped pattern. The helmet is fitted with a wide chainmail aventail, so it protects the whole head and shoulders of the warrior.</Cell><Cell>中头盔的一种，配有旧式水滴形状的翻盖面甲。这种头盔还配有宽阔的链甲颈甲，所以可为战士的整个头部和肩膀提供防护。</Cell></Row>
+<Row><Cell>ui_in_bascinet_visor02</Cell><Cell>A helmet called a bascinet with a fitted klappvisor. It has been pejoratively nicknamed the dog's snout because of its strange shape, but it is easier to breathe in it and is more durable than its older models.</Cell><Cell>中头盔的一种，配有翻盖面甲。因其形状奇特，人们戏谑地称其为“狗面盔”，但它比旧式头盔更便于呼吸，也更加耐用。</Cell></Row>
+<Row><Cell>ui_in_bow_b_a</Cell><Cell>A homemade weaker bow made of dogwood. It's a little stronger than a hazel bow, but that's about it. It'll do for poaching small game, though.</Cell><Cell>由山茱萸木制成的自制弓，威力较弱，但稍强于榛木弓，不过也仅此而已。尽管如此，亦适用于猎取小型猎物。</Cell></Row>
+<Row><Cell>ui_in_bow_c</Cell><Cell>Hunting bows are supposed to be strong enough to bring down larger game. This bow is made of dogwood and is therefore one of the weaker hunting weapons.</Cell><Cell>要想猎杀大型猎物，猎弓就应当足够强大。这把弓由山茱萸木制成，以至于它也不过是把威力不足的弓。</Cell></Row>
+<Row><Cell>ui_in_bow_c_b</Cell><Cell>Hunting bows are supposed to be strong enough to bring down larger game. This bow is made of ashen wood and is therefore one of the stronger hunting weapons that are still easy to handle. Most experienced gamekeepers and poachers will rely on it.</Cell><Cell>要想猎杀大型猎物，猎弓就应当足够强大。这把弓由白蜡木制成，因此是把威力相对强劲的弓，且易于操持。大多经验老道的猎手和偷猎者都对其有所依仗。</Cell></Row>
+<Row><Cell>ui_in_bow_d_a</Cell><Cell>A long strong bow made of ashen wood. It has a decent range and thanks to its draw speed it is suited very well for fighting.</Cell><Cell>白蜡木制成的强劲长弓。射程可观，且得益于拉动其弓弦的速度，这把弓非常适合用于战斗。</Cell></Row>
+<Row><Cell>ui_in_brigandine01</Cell><Cell>Folded armour made up of a number of forged plates hammered side by side under a leather vest of good cowhide. A well-made brigandine has the individual plates folded so that they overlap slightly. Compared to a plate cuirass, it is a little cheaper to make, but still a very expensive part of a warrior's armour.</Cell><Cell>层叠式盔甲，由多块锻造板组成，且在优质牛皮背心下经过并排捶打而成。这是一件制作精良的板甲衣，各部分金属板稍微重叠。与板甲胸甲相比，它的制造成本稍低，但仍是战士盔甲中非常昂贵的一种。</Cell></Row>
+<Row><Cell>ui_in_brigandine02</Cell><Cell>Folded armour made up of forged slats hammerd on a leather vest is a slightly older form of protection than the fashionable metal cuirass. Both provide similar protection, but the brigandine is a bit heavier, but there are warriors who will not let it go. This one's been through a lot, though, and has had more than one owner. Most certainly haven't given her up willingly.</Cell><Cell>由钉在皮革背心上的锻造板条组成的层叠护甲，与时尚的金属胸甲相比稍显古老。尽管两类护甲都具有相似的保护性，但是这款板甲衣更重，却仍有战士不愿舍弃它。这件盔甲已久经沙场，也曾有过不止一个主人。显然，他们中的大多数人都是战败后才不得不放弃这件盔甲。</Cell></Row>
+<Row><Cell>ui_in_brigandine03</Cell><Cell>One of the best folded armours you can get. The individual hardened plates overlap perfectly, making the brigandine very durable. In addition, a lower fauld is attached to the vest, so the armour covers not only the torso, but also the warrior's groin.</Cell><Cell>这是你能得到最好的层叠护甲之一。各部分硬化的板片完美重叠，使得此板甲衣非常耐用。此外，外套下方还附有裙甲，不仅能够覆盖躯干，还能保护战士的腹股沟。</Cell></Row>
+<Row><Cell>ui_in_brigandine05</Cell><Cell>Composite armour according to an Italian tradition. It is actually a fake plate cuirass sewn into cow leather. Its arched belly disperses blows better than ordinary lamellae. The armour is also fitted with a wide skirt at the bottom, so that it covers the knight's groin.</Cell><Cell>根据意大利传统制作的复合护甲。主体由缝在牛皮中的仿板甲护胸构成，其拱起的腹部设计比普通的甲片更能分散打击力度，在盔甲的下摆装有宽裙边，用于保护穿戴者的下体。</Cell></Row>
+<Row><Cell>ui_in_brigandine10</Cell><Cell>The metal cuirass with folded falds creates excellent protection for the torso and groin of the knight. The falds are also made from slats, so they can be easily moved and worn on a horse.</Cell><Cell>这件带有层叠裙甲的金属胸甲为骑士的躯干和腹股沟提供了妥善的保护。裙甲同样由板条制成，因此可使穿戴者轻松移动，骑马时亦可穿戴。</Cell></Row>
+<Row><Cell>ui_in_brigandine_arm05</Cell><Cell>Arm and forearm guards composed of leather parts with hardened lamellae and plate couters and pauldrons.</Cell><Cell>由皮革，硬化甲片，板甲护肘以及肩甲组成的护臂，可以保护整个手臂。</Cell></Row>
+<Row><Cell>ui_in_cheesecake</Cell><Cell>For those who aren't fans of poppy seeds or nuts, a quark kolach is the best of all.</Cell><Cell>如果不喜欢罂粟籽和坚果，夸克奶酪派就是最好的选择。</Cell></Row>
+<Row><Cell>ui_in_cheeseQuarterSmoked</Cell><Cell>Smoked cheese never gets old, whether it's made from cow or sheep milk.</Cell><Cell>无论原料是牛奶还是羊奶，熏奶酪永不过时。</Cell></Row>
+<Row><Cell>ui_in_collar_chain</Cell><Cell>A short chainmail collar, called a gorget, protects the neck and guards the warrior from being cut or penetrated by a blade under the visor of the helmet.</Cell><Cell>较短的链甲护颈，又称颈甲，用来保护脖子，防止刀刃从头盔下方刺入。</Cell></Row>
+<Row><Cell>ui_in_cracklings</Cell><Cell>What could be better than freshly roasted pork cracklings? Especially with a tankard of ale.</Cell><Cell>还有什么比新鲜出炉的猪油渣配上一大杯啤酒更美妙吗？</Cell></Row>
+<Row><Cell>ui_in_cuirass02</Cell><Cell>The richly shaped two-piece cuirass with folded faulds protects the whole torso and groin very well. There are constant arguments among knights about whether a good brigandine or a hardened cuirass is better. In short, both have their undeniable advantages and obvious weaknesses.</Cell><Cell>这件外观华丽的两片式胸甲装有层叠裙甲，可有效保护整个躯体和腹股沟。骑士们常常为精良板甲衣和硬化胸甲的质量高低争论不休。总而言之，两者都有毋庸置疑的优点和显而易见的缺陷。</Cell></Row>
+<Row><Cell>ui_in_cuirass07</Cell><Cell>A masterpiece from the best armoursmith workshops. Well-set metal parts decorated with brass bands, possibly additionally suitably gilded. The two-piece cuirass is joined by folded plate faulds, so that the armour perfectly covers the whole body and can still be worn while riding a horse.</Cell><Cell>出自顶级盔甲匠之手的杰作。精致的金属部件饰有黄铜带，可能还额外镀了金。这件两片式胸甲通过层叠裙甲连接，使得护甲能完美覆盖全身，在骑马时也能舒适穿戴。</Cell></Row>
+<Row><Cell>ui_in_cuirass08_Brunswig</Cell><Cell>A masterpiece from the best armourer. The folded armour is assembled from a number of small hardened slats attached to an upper vest of the finest cowhide, which is covered with a precious fabric of excellent quality. The best protection and fashion taste in one! The armour is said to have once belonged to the legendary Bohemian Prince Brunswick.</Cell><Cell>出自顶尖盔甲匠之手的杰作。这件层叠护甲由多个小型硬化板片组装而成，固定在最优质的牛皮上身背心上，且覆盖着质量上等的珍贵织物。此盔甲集优等的美观与保护能力于一体！据说它曾属于传奇人物波希米亚王子布伦瑞克。</Cell></Row>
+<Row><Cell>ui_in_desctrainingweapon</Cell><Cell>A wooden longsword that can bruise but not kill. For those who are serious about swordsmanship, this is an invaluable tool for practicing.</Cell><Cell>一把能够造成皮外伤的木剑，但无法致人于死地。对于那些认真学习剑术的人来说，这种剑是宝贵的练习用具。</Cell></Row>
+<Row><Cell>ui_in_dieLucky</Cell><Cell>When fortune smiles on you, smile back. Otherwise you'll look suspicious</Cell><Cell>当幸运降临时，回应以微笑，否则你看起来会很可疑。</Cell></Row>
+<Row><Cell>ui_in_egg</Cell><Cell>It's not advisable to carry raw eggs into battle with you. Things could get messy.</Cell><Cell>把生蛋带到战场上去可不是明智的选择，场面会变得一团糟。</Cell></Row>
+<Row><Cell>ui_in_falchion</Cell><Cell>An older cousin of the broad-bladed sword. A somewhat outdated weapon for some, perhaps, but there's nothing like tried and tested methods on the battlefield.</Cell><Cell>阔剑的一种老旧变体。对一些人来说可能稍显过时，但在战场上，经受过时间考验的东西才真正可靠。</Cell></Row>
+<Row><Cell>ui_in_gauntlets02</Cell><Cell>Fingered gauntlets in a typical hourglass shape. The individual fingers are protect a series of folded iron slats.</Cell><Cell>典型沙漏形状的指套。每根手指都由一连串层叠的护片保护。</Cell></Row>
+<Row><Cell>ui_in_Gloves02_mdrowner</Cell><Cell>The stinking gloves of a poor man who died a hideous death.</Cell><Cell>恶臭的手套，其可怜的主人死状凄惨。</Cell></Row>
+<Row><Cell>ui_in_hoodSemin</Cell><Cell>A hood of the good knight Jan Semine of Semine.</Cell><Cell>杰出骑士扬·塞米的兜帽。</Cell></Row>
+<Row><Cell>ui_in_hookgunNormal</Cell><Cell>A hand cannon, unlike a pistole, is a much more massive weapon. The barrel is fitted with a hook on the underside, which serves to wedge the weapon behind an obstacle and limit recoil when fired. This piece has a barrel made of wrought iron and therefore does not last as long as guns cast in bronze. It is therefore recommended to shoot with a smaller powder charge. Up close, this gun cracks knights in metal like thrushes smash snails on a rock.</Cell><Cell>一把手炮，与手铳不同，它是一种更为大型的武器。炮身底部装有钩子，可将武器楔住在障碍物后，降低射击时产生的后坐力。此火器铳身由铸铁制成，因此其耐用性与青铜制火器难以比拟，遂建议装填较小火药进行射击。近距离内，这种手炮能像画眉鸟啄击岩石上的蜗牛一样，粉碎披甲的骑士。</Cell></Row>
+<Row><Cell>ui_in_HoseJoined01_mdrowner</Cell><Cell>These are the hose the drowning man was wearing. They smell awful and only a madman would wear them.</Cell><Cell>溺死者穿过的裤子，气味难闻，只有疯子才会穿。</Cell></Row>
+<Row><Cell>ui_in_huntingswordBasic</Cell><Cell>The hunting sword is the faithful companion of every hunter or poacher. It is usually used to finish off hunted game, but it's also handy for cutting kindling for a fire.</Cell><Cell>狩猎剑是每个猎人（或者偷猎者）的忠实伙伴，通常用来剥皮割肉，但也可以用于砍柴生火。</Cell></Row>
+<Row><Cell>ui_in_kettlehat01</Cell><Cell>A simple iron helmet for all poor squires. It is usually a good idea to wear it with a quilted hood with a collar, as the helmet alone does not protect the cheeks or neck of the warrior. But it's cheap and can be repaired literally on your knee.</Cell><Cell>专为贫穷侍从设计的简易铁盔。因为这种头盔并未对战士的脸部和脖颈提供保护，一般来说，最好搭配带有护颈的绗缝兜帽使用。但此头盔价格便宜，随手就可进行修理。</Cell></Row>
+<Row><Cell>ui_in_kettlehat04</Cell><Cell>Iron hat with a wide brim. It covers the head well and at the same time, thanks to conveniently placed cut-outs, does not restrict the view, which is an advantage especially for foot marksmen.</Cell><Cell>宽边铁盔，可良好地覆盖头部。同时，得益于其设计巧妙的开口，这种头盔不会限制视线，为欲要射击目标腿部的弓箭手提供了优势。</Cell></Row>
+<Row><Cell>ui_in_kumaniNaTrosecku_peculiarSpirits</Cell><Cell>Schnapps from the hidden stash. Judging by the smell, it's bound to have the right kick.</Cell><Cell>被藏起来的烈酒，光闻一闻就知道它够劲。</Cell></Row>
+<Row><Cell>ui_in_legs_brigandine01</Cell><Cell>Protection of the entire leg formed by individual iron plates riveted to the honest cowhide leather. This is an older form of folded armour, which can be seen especially in the shape of the knee pads.</Cell><Cell>由独立铁板连接至优质牛皮，进而形成了对全腿的保护。这是一种较古早的层叠护甲款式，其老式风格尤其体现在护膝部分的形状上。</Cell></Row>
+<Row><Cell>ui_in_legs_brigandine03</Cell><Cell>A full leg protection of a newer type formed by the combination of lamerall and plate armour. While the thighs are protected by folded slats, the warrior's shins are encircled by well-forged metal plates.</Cell><Cell>一种较新的全腿保护装备，由层叠片甲和板甲结合而成。大腿部由层叠的板条保护，而小腿则由精工铸造的金属板包裹。</Cell></Row>
+<Row><Cell>ui_in_legs_padded05</Cell><Cell>Thigh-length boots that protect the horseman's legs against chaffing. Putting them on and taking them off is a rather lengthy process, so they're worn more by folks who tend to spend the whole day in the saddle, such as messengers and grooms.</Cell><Cell>长及大腿的靴子，可以保护骑手的双腿免受伤害。穿脱这类靴子需要花去较长时间，因而此类靴子的穿着者通常是那些整日都要待在马鞍上的人，比如信使和马夫。</Cell></Row>
+<Row><Cell>ui_in_mace01</Cell><Cell>A mace with steel flanges is a formidable weapon, yet it is still nimbler than a simple axe. It can crush and break bones even through quality plate armour.</Cell><Cell>带有钢刺的战斗钉头锤是一种可怕的武器，且比简易斧头更为灵活。它可以穿透坚固的护甲，进而粉碎敌人的骨骼。</Cell></Row>
+<Row><Cell>ui_in_maceBailiff</Cell><Cell>Bronze mace cast in one piece with ground tips. It expresses both position and determination to make one's case, even if one has to beat one's ideas into opponent's head with force.</Cell><Cell>由青铜一体打造的钉头锤，尖端经过打磨。它既象征着地位，也表明了一种决心——即要用武力将思想灌输到对手脑海之中。</Cell></Row>
+<Row><Cell>ui_in_maceHetman</Cell><Cell>A captain's mace is a great weapon expressing the status of the owner and the punishment that will befall anyone who opposes him. A single movement with the weapon in hand is enough to set in motion whole ranks of warriors!</Cell><Cell>首领手中的钉头锤是一种强大的武器，象征着持有者的身份，也预示着反对者即将遭受的惩罚。仅凭挥动此武器的简单动作就足以让整个队伍的战士动起身来！</Cell></Row>
+<Row><Cell>ui_in_magic_arrow</Cell><Cell>The magic arrowhead from Karel the Arrow's head.</Cell><Cell>“锋矢”卡雷尔的魔法箭头</Cell></Row>
+<Row><Cell>ui_in_magickySip_magickaSipka</Cell><Cell>A shaft with an arrowhead, which I pulled out of the head of the dead Karel, whom folk called Arrowhead. It's supposed to be magical, but I have my doubts.</Cell><Cell>我从死去的卡雷尔头上拔下的一柄带箭头的箭矢，而人们都叫卡雷尔“锋矢”。这支箭似乎有魔力，但我对此秉持疑虑。</Cell></Row>
+<Row><Cell>ui_in_magicShop_nepomukNeedle</Cell><Cell>The needle used to sew vicar Jan of Pomuk into a bag, after which he was thrown into the Vltava river, all on the orders of Wenceslas IV.</Cell><Cell>在瓦茨拉夫四世的命令下，扬·波穆克副主教被缝进袋子，丢进了伏尔塔瓦河，这就是当时用到的针。</Cell></Row>
+<Row><Cell>ui_in_NobleSaddle02</Cell><Cell>High quality tournament saddle with bronze lined cantle and fur cushions. The generous increase in carrying capacity brings with it a reduction in the speed of the animal.</Cell><Cell>质量上乘的比武马鞍，配有镶铜的鞍尾和毛皮垫。此物能大幅提升马匹的负重能力，但随之也降低了马匹的速度。</Cell></Row>
+<Row><Cell>ui_in_PaintedStatueSaintMagdaleine</Cell><Cell>A small worn-down statuette of St Mary Magdalene. Beikovetz must have stolen it straight from some church or monastery.</Cell><Cell>一个破旧的马格达莱妮圣玛利亚的小雕像，肯定是贝科维茨从教堂或者修道院偷来的。</Cell></Row>
+<Row><Cell>ui_in_peaches</Cell><Cell>A juicy sweet fruit with a fine fuzz that makes many a young man feel amorous.</Cell><Cell>甜美多汁的水果，表面有一层细绒毛，让许多年轻人想入非非。</Cell></Row>
+<Row><Cell>ui_in_pear</Cell><Cell>The pear is a symbol of generosity, goodness and modesty. On top of all that, it tastes great too.</Cell><Cell>梨象征着慷慨、善良与谦逊，而且它的味道也格外美妙。</Cell></Row>
+<Row><Cell>ui_in_pearCooked</Cell><Cell>Cooked pear softens up and smells wonderful.</Cell><Cell>煮熟的梨又软又香。</Cell></Row>
+<Row><Cell>ui_in_pigMeatSmoked</Cell><Cell>Smoked pig tastes best on plum wood.</Cell><Cell>在李子木上熏制的猪肉，味道最佳。</Cell></Row>
+<Row><Cell>ui_in_poppyseedcake</Cell><Cell>A good poppy seed cake is beneficial to all the senses. It calms and soothes. Quick, one more piece before it's banned for being too delicious!</Cell><Cell>一块上好的罂粟籽派有百利而无一害，它能镇静和舒缓情绪。快，再吃一块，免得它因为太好吃而被禁止了！</Cell></Row>
+<Row><Cell>ui_in_poPytlackeStezce_machKey</Cell><Cell>A key to a chest found in the possession of the poacher, Mach of Marschowitz.</Cell><Cell>在偷猎者马绍维茨的马赫身上发现的钥匙。</Cell></Row>
+<Row><Cell>ui_in_poustevnik_oldBonesOfAmbrozBrother</Cell><Cell>The old bones of Ambrose's dead brother John.</Cell><Cell>安布洛斯兄弟扬的遗骨。</Cell></Row>
+<Row><Cell>ui_in_pretzel</Cell><Cell>Pretzel, with salt and caraway, dried and hard.</Cell><Cell>椒盐卷饼，加了盐和葛缕子，又干又硬。</Cell></Row>
+<Row><Cell>ui_in_rabbitMeatDried</Cell><Cell>There's even less of that little bunny now, but at least it won't spoil so fast.</Cell><Cell>现在那只小兔子的肉更少了，但至少它不会那么快变质了。</Cell></Row>
+<Row><Cell>ui_in_recipe_axebattle01</Cell><Cell>The bearded axe is a battle axe which is a simple tool in its origin, but it can chop down shields as well as trees.</Cell><Cell>胡须斧是战斧的一种，起源于简单的工具，既能劈开盾牌，也能砍倒树木。</Cell></Row>
+<Row><Cell>ui_in_recipe_axebattle02</Cell><Cell>The battle axe, called a broadaxe, is related to the ordinary carpenter's axe, but is much lighter and forged specifically for combat. It's a good weapon against shields and chainmail.</Cell><Cell>这种战斧又称阔斧，与普通木匠斧相似，但要轻得多，专门为战斗而锻造。能轻松劈开盾牌和链甲。</Cell></Row>
+<Row><Cell>ui_in_recipe_axebattle03</Cell><Cell>The horseman's pick is a light riding axe with a spike. Used correctly, it's a good friend in a pinch. Its sharp point can cut through armour, its blade through any shield.</Cell><Cell>骑兵镐是一种带有尖刺的轻型骑兵斧。使用得当的话，在紧要关头能发挥很大用处。它锋利的尖刺可以轻易击穿盔甲，而斧刃则可以劈开任何盾牌。</Cell></Row>
+<Row><Cell>ui_in_recipe_huntingswordfalchion</Cell><Cell>An older cousin of the broad-bladed sword. A somewhat outdated weapon for some, perhaps, but there's nothing like tried and tested methods on the battlefield.</Cell><Cell>阔剑的一种老旧变体。对一些人来说可能稍显过时，但在战场上，经受过时间考验的东西才真正可靠。</Cell></Row>
+<Row><Cell>ui_in_recipe_perfumeLongWeak</Cell><Cell>A weak but long-lasting perfume. Slightly increases Charisma for a long period, but reduces Charisma if used with another perfume.</Cell><Cell>传说哈迪斯的妻子珀耳塞福涅出于嫉妒，将冥河仙女“Minthe”变成了薄荷，而薄荷因其芳香特性备受人们青睐。此种香水气味清淡，但可长久留香。使用后可在较长时间内略微提升魅力值，若与其他香水混合使用将会降低魅力值。</Cell></Row>
+<Row><Cell>ui_in_recipe_shortswordceremony</Cell><Cell>A sword for the noble and those who think they can pass themselves off as such. Its beauty slightly exceeds its combat qualities, but it is still a superb weapon.</Cell><Cell>适合贵族（或者冒充贵族的人）佩戴的剑，比起战斗性能更注重美观，但依然是实用的好武器。</Cell></Row>
+<Row><Cell>ui_in_recipe_shortswordcleaver</Cell><Cell>A terrible skull opener or a mere figment of the tortured mind of a clumsy apprentice who abused the blacksmith's craft to create such wickedness and called it a hunting sword?</Cell><Cell>这到底是可怕的开颅器，还是某个笨手笨脚的学徒异想天开的作品？他糟蹋了铁匠手艺，制造出如此邪恶的东西，还美其名曰狩猎剑？</Cell></Row>
+<Row><Cell>ui_in_repairKit_armourSmall</Cell><Cell>A set of tools for repairing metal parts of armour, chainmail and quilted armour pieces. Includes a hammer, pliers, twine and some replacement chainmail and oil.</Cell><Cell>一套工具，用于修理盔甲、链甲和绗缝盔甲的金属部件。包含锤子、钳子、麻线以及一些备用的链甲片和润滑油。</Cell></Row>
+<Row><Cell>ui_in_roeDeerMeatSmoked</Cell><Cell>Well smoked venison tastes great, you just need to use the right kind of wood.</Cell><Cell>只要用对了熏制的木材，熏狍子肉非常好吃。</Cell></Row>
+<Row><Cell>ui_in_salamiSmoked</Cell><Cell>Spicy smoked salami. It smells great and tastes even better.</Cell><Cell>辛辣的熏萨拉米香肠。闻起来很香，尝起来更美味。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_bergov</Cell><Cell>A riding pavese with the symbol of Lord von Bergow, owner of Trosky Castle.</Cell><Cell>一面骑兵帕维斯巨盾，其上装饰着特罗斯基堡垒的拥有者冯·波尔高领主的图纹。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_dragon</Cell><Cell>A skillfully painted riding pavese.</Cell><Cell>一面精心涂绘的骑兵帕维斯巨盾。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_hungary</Cell><Cell>A cavalry pavese with Hungarian symbols.</Cell><Cell>绘有匈牙利人图纹的骑兵帕维斯巨盾。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_noColor</Cell><Cell>A riding pavese covered with linen without a noble coat of arms.</Cell><Cell>覆盖了亚麻布的骑兵帕维斯巨盾，其上并未涂饰任何贵族纹章。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_prague</Cell><Cell>A riding pavese with the symbol of the Old Town of Prague.</Cell><Cell>一面骑兵帕维斯巨盾，盾上涂饰着布拉格老城的纹章。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_stripes</Cell><Cell>A skillfully painted riding pavese.</Cell><Cell>一面精心涂绘的骑兵帕维斯巨盾。</Cell></Row>
+<Row><Cell>ui_in_shieldPavise_suchdol</Cell><Cell>A riding pavese with the symbol of Lord Pisek, owner of the Suchdol fortress.</Cell><Cell>一面骑兵帕维斯巨盾，其上装饰着苏赫多尔堡垒的拥有者皮塞克领主的图纹。</Cell></Row>
+<Row><Cell>ui_in_skin_roe</Cell><Cell>A roe-deer hide does not reach the strength and quality of deerskin and is not suitable for tanning. It is therefore mainly used as fur.</Cell><Cell>狍子皮的韧性和质量都不及鹿皮，不适合鞣制，只能当做皮草使用。</Cell></Row>
+<Row><Cell>ui_in_special_pigSkin</Cell><Cell>Tanned pork leather. What it loses in natural strength it makes up for in durability and distinctive softness. That's why tailors use it for lining, for finer cases and for book covers. That's the only way it won't tear.</Cell><Cell>鞣制的猪皮，虽然在强度上有所欠缺，但具有独特的柔软度和耐用性。通常用来制作衬里、精致箱包和书皮，这样它就不会轻易撕裂了。</Cell></Row>
+<Row><Cell>ui_in_swordCeremony</Cell><Cell>A sword for the noble and those who think they can pass themselves off as such. Its beauty slightly exceeds its combat qualities, but it is still a superb weapon.</Cell><Cell>适合贵族（或者冒充贵族的人）佩戴的剑，比起战斗性能更注重美观，但依然是实用的好武器。</Cell></Row>
+<Row><Cell>ui_in_swordCleaver</Cell><Cell>A dreadful skull opener or a mere result of the tortured mind of a clumsy journeyman who abused the blacksmith's craft to create such wickedness and called it a hunting sword?</Cell><Cell>这到底是可怕的开颅器，还是某个笨手笨脚的学徒异想天开的作品？他糟蹋了铁匠手艺，制造出如此邪恶的东西，还美其名曰狩猎剑？</Cell></Row>
+<Row><Cell>ui_in_taboryLapkuTrosecko_plesnivecMace</Cell><Cell>A mace of the leader of the bandits from the Troskowitz gorge. A crude weapon that cracked many a skull and was never properly wiped clean afterwards.</Cell><Cell>特罗斯科维茨峡谷土匪首领的钉头锤。这是一种粗制武器，曾击碎过许多头骨，但从未被彻底擦拭干净。</Cell></Row>
+<Row><Cell>ui_in_tournament_maceHerald</Cell><Cell>An excellent mace, which serves more as a symbol of a strict ruler over the tournament than for fighting.</Cell><Cell>一把精良的钉头锤，更像是作为比武大会严苛规则的象征，而非简单用于战斗。</Cell></Row>
+<Row><Cell>ui_in_warhammerRaven</Cell><Cell>A type of war hammer, often called a "raven's beak" for the shape of its spike. While its blunt end is great for crushing skulls, its pointed end is perfect for piercing armour.</Cell><Cell>一种战锤，因其外形常被称为“乌鸦的喙”。战锤钝的一端能击碎头骨，而锋利的尖端能将敌人的铠甲撕裂。</Cell></Row>
+<Row><Cell>ui_in_wine</Cell><Cell>Excellent wine, the consumption of which can lead to fun, song, drunken blabbering, loss of memory and empty purses.</Cell><Cell>美酒，喝了会为你带来快乐、歌声、胡言乱语、断片以及空空的钱包。</Cell></Row>
+<Row><Cell>ui_matrimonium_badge</Cell><Cell>A memento of Agnes and Olda's big day. Using it allows you to &lt;strong&gt;reroll up to three dice&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>用于纪念阿格尼丝和奥达盛大婚礼的徽章。使用后可在某次掷骰时&lt;strong&gt;重掷最多三颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_mn_antibust_dice_badge_silver</Cell><Cell>Silver badge of resurrection</Cell><Cell>银制重掷徽章</Cell></Row>
+<Row><Cell>ui_mn_double_take_dice_badge_gold</Cell><Cell>Gold doppelganger badge</Cell><Cell>金制镜像徽章</Cell></Row>
+<Row><Cell>ui_mn_double_take_dice_badge_silver</Cell><Cell>Silver doppelganger badge</Cell><Cell>银制镜像徽章</Cell></Row>
+<Row><Cell>ui_mn_extra_dice_dice_badge</Cell><Cell>Silver badge of might</Cell><Cell>银制力量徽章</Cell></Row>
+<Row><Cell>ui_mn_formations_dice_badge_silver</Cell><Cell>Executioner's badge of advantage</Cell><Cell>刽子手的优势徽章</Cell></Row>
+<Row><Cell>ui_mn_headstart_dice_badge_silver</Cell><Cell>Silver badge of headstart</Cell><Cell>银制先行徽章</Cell></Row>
+<Row><Cell>ui_mn_multiplier_dice_badge_silver</Cell><Cell>Silver warlord's badge</Cell><Cell>银制军阀徽章</Cell></Row>
+<Row><Cell>ui_mn_null_dice_badge_silver</Cell><Cell>Silver badge of defence</Cell><Cell>银制防守徽章</Cell></Row>
+<Row><Cell>ui_mn_reroll_dice_dice_badge_silver</Cell><Cell>Silver badge of fortune</Cell><Cell>银制幸运女神徽章</Cell></Row>
+<Row><Cell>ui_mn_set_dice_dice_badge_silver</Cell><Cell>Silver badge of transmutation</Cell><Cell>银制换点徽章</Cell></Row>
+<Row><Cell>ui_multiplier_gold</Cell><Cell>You &lt;strong&gt;double the score of your turn&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>你可以&lt;strong&gt;将本轮的分数翻倍&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;</Cell></Row>
+<Row><Cell>ui_multiplier_plumb</Cell><Cell>Used to gain &lt;strong&gt;a quarter more points&lt;/strong&gt; from your turn. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>将本轮的分数&lt;strong&gt;增加四分之一&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_nm_andelStrazny_oresmus_book</Cell><Cell>Livre du ciel et du monde</Cell><Cell>《天空与世界之书》</Cell></Row>
+<Row><Cell>ui_nm_animal_sheepCasings</Cell><Cell>Sheep guts</Cell><Cell>羊肠</Cell></Row>
+<Row><Cell>ui_nm_appleDried</Cell><Cell>Dried apple</Cell><Cell>苹果干</Cell></Row>
+<Row><Cell>ui_nm_armplate02_m01</Cell><Cell>Plate knight gauntlets</Cell><Cell>骑士板甲护臂</Cell></Row>
+<Row><Cell>ui_nm_armplate04_m01</Cell><Cell>Nuremberg plate gauntlets</Cell><Cell>纽伦堡板甲护臂</Cell></Row>
+<Row><Cell>ui_nm_armplate05_m01_Brunswig</Cell><Cell>Brunswick's plate sleeves</Cell><Cell>布伦瑞克的板甲护臂</Cell></Row>
+<Row><Cell>ui_nm_arrow_broken</Cell><Cell>Broken arrow</Cell><Cell>损坏的箭矢</Cell></Row>
+<Row><Cell>ui_nm_arrow_enh_hunter</Cell><Cell>Better hunting arrow</Cell><Cell>优质狩猎箭矢</Cell></Row>
+<Row><Cell>ui_nm_arrow_enh_pierce</Cell><Cell>Better piercing arrow</Cell><Cell>优质穿刺箭矢</Cell></Row>
+<Row><Cell>ui_nm_arrow_hunter</Cell><Cell>Hunting arrow</Cell><Cell>狩猎箭矢</Cell></Row>
+<Row><Cell>ui_nm_arrow_pierce</Cell><Cell>Piercing arrow</Cell><Cell>穿刺箭矢</Cell></Row>
+<Row><Cell>ui_nm_arrow_tournament</Cell><Cell>Tournament arrow</Cell><Cell>射箭比赛箭矢</Cell></Row>
+<Row><Cell>ui_nm_axeBattle01</Cell><Cell>Bearded axe</Cell><Cell>胡须斧</Cell></Row>
+<Row><Cell>ui_nm_axeBattle02</Cell><Cell>Broad axe</Cell><Cell>阔斧</Cell></Row>
+<Row><Cell>ui_nm_axeCuman</Cell><Cell>Cuman fokos</Cell><Cell>库曼牧羊人斧</Cell></Row>
+<Row><Cell>ui_nm_axeFancy</Cell><Cell>Executioner's axe</Cell><Cell>处刑斧</Cell></Row>
+<Row><Cell>ui_nm_axeTraining</Cell><Cell>Training axe</Cell><Cell>训练斧</Cell></Row>
+<Row><Cell>ui_nm_azZaHrob_silveredStudSarcofag</Cell><Cell>Silver-plated button</Cell><Cell>镀银纽扣</Cell></Row>
+<Row><Cell>ui_nm_bacon</Cell><Cell>Bacon</Cell><Cell>培根</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen01_m01</Cell><Cell>Open bascinet</Cell><Cell>开放式中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen02_m01</Cell><Cell>Bell-shaped bascinet</Cell><Cell>钟型中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen03_m01</Cell><Cell>Bascinet with bretèche</Cell><Cell>带护鼻的中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen08_m01</Cell><Cell>Bascinet with aventail</Cell><Cell>配有颈甲的中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetopen_twitch</Cell><Cell>Warhorse bascinet</Cell><Cell>战马中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor01_m01</Cell><Cell>Saxon bascinet</Cell><Cell>萨克森中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor02_m01</Cell><Cell>Hounskull bascinet</Cell><Cell>狗面盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor03_m01</Cell><Cell>Nuremberg bascinet</Cell><Cell>纽伦堡中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor04_m01</Cell><Cell>Noble's bascinet</Cell><Cell>贵族中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisor05_m01</Cell><Cell>Italian bascinet</Cell><Cell>意大利中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisorcapon_m01</Cell><Cell>Capon's bascinet</Cell><Cell>卡蓬的中头盔</Cell></Row>
+<Row><Cell>ui_nm_bascinetvisorcapon_m01_Brunswig</Cell><Cell>Brunswick's bascinet</Cell><Cell>布伦瑞克的桶盔</Cell></Row>
+<Row><Cell>ui_nm_boletusDried</Cell><Cell>Dried boletus</Cell><Cell>风干牛肝菌</Cell></Row>
+<Row><Cell>ui_nm_bolt_enh_hunting</Cell><Cell>Enhanced hunting bolt</Cell><Cell>改良狩猎弩箭</Cell></Row>
+<Row><Cell>ui_nm_bolt_hunting</Cell><Cell>Hunting bolt</Cell><Cell>狩猎弩箭</Cell></Row>
+<Row><Cell>ui_nm_bolt_normal</Cell><Cell>Common bolt</Cell><Cell>制式弩箭</Cell></Row>
+<Row><Cell>ui_nm_bolt_tournament</Cell><Cell>Tournament bolt</Cell><Cell>射箭比赛弩箭</Cell></Row>
+<Row><Cell>ui_nm_bow_b_a</Cell><Cell>Dogwood village bow</Cell><Cell>土制山茱萸木猎弓</Cell></Row>
+<Row><Cell>ui_nm_bow_c</Cell><Cell>Dogwood hunting bow</Cell><Cell>山茱萸木猎弓</Cell></Row>
+<Row><Cell>ui_nm_bow_c_b</Cell><Cell>Ash hunting bow</Cell><Cell>白蜡木猎弓</Cell></Row>
+<Row><Cell>ui_nm_bow_d_a</Cell><Cell>Ash longbow</Cell><Cell>白蜡木长弓</Cell></Row>
+<Row><Cell>ui_nm_brigandinearm01_m01</Cell><Cell>Plain laminar gauntlets</Cell><Cell>普通层叠式护臂</Cell></Row>
+<Row><Cell>ui_nm_brigandinearm02_m01</Cell><Cell>Laminar hands with rondels</Cell><Cell>带圆盘的层叠式护臂</Cell></Row>
+<Row><Cell>ui_nm_brigandinearm03_m01</Cell><Cell>Reinforced tempered gauntlets</Cell><Cell>加强钢化层叠式护臂</Cell></Row>
+<Row><Cell>ui_nm_brigandinearm05_m01</Cell><Cell>Silesian brigandine sleeves</Cell><Cell>西里西亚层叠式护臂</Cell></Row>
+<Row><Cell>ui_nm_brigandinearm06_m01</Cell><Cell>Noble laminar hands</Cell><Cell>贵族层叠式护臂</Cell></Row>
+<Row><Cell>ui_nm_brigandinearm_twitch</Cell><Cell>Warhorse brigandine sleeves</Cell><Cell>战马层叠式护臂</Cell></Row>
+<Row><Cell>ui_nm_brooch_golden_erb</Cell><Cell>Golden heraldic brooch</Cell><Cell>金制纹章胸针</Cell></Row>
+<Row><Cell>ui_nm_brooch_golden_letter</Cell><Cell>Golden initial brooch</Cell><Cell>金制字母胸针</Cell></Row>
+<Row><Cell>ui_nm_cabbageCooked</Cell><Cell>Cooked cabbage</Cell><Cell>熟卷心菜</Cell></Row>
+<Row><Cell>ui_nm_cap22_m01</Cell><Cell>Chaperon with brooch</Cell><Cell>戴别针的风帽</Cell></Row>
+<Row><Cell>ui_nm_caparison01_m01</Cell><Cell>Plain tourney caparison</Cell><Cell>简朴比武马衣</Cell></Row>
+<Row><Cell>ui_nm_caparison02_m01</Cell><Cell>Executioner's caparison simple</Cell><Cell>刽子手简易马衣</Cell></Row>
+<Row><Cell>ui_nm_cheesecake</Cell><Cell>Quark kolach</Cell><Cell>夸克奶酪派</Cell></Row>
+<Row><Cell>ui_nm_chickenSmoked</Cell><Cell>Smoked chicken</Cell><Cell>熏鸡肉</Cell></Row>
+<Row><Cell>ui_nm_CoifLarge01_mkhTournament_07_D2_Henry</Cell><Cell>Tournament padded coif</Cell><Cell>比武衬垫头巾</Cell></Row>
+<Row><Cell>ui_nm_coifmail01_m01</Cell><Cell>Mail coif</Cell><Cell>链甲头巾</Cell></Row>
+<Row><Cell>ui_nm_collarchain01_m01</Cell><Cell>Mail collar</Cell><Cell>链甲护颈</Cell></Row>
+<Row><Cell>ui_nm_collarchain02_m01</Cell><Cell>Mail collar with badge</Cell><Cell>带徽章的链甲护颈</Cell></Row>
+<Row><Cell>ui_nm_cracklings</Cell><Cell>Cracklings</Cell><Cell>猪油渣</Cell></Row>
+<Row><Cell>ui_nm_cuman_bow_a_b</Cell><Cell>Cuman folded bow</Cell><Cell>库曼人的层压弓</Cell></Row>
+<Row><Cell>ui_nm_deerFlank</Cell><Cell>Deer ribs</Cell><Cell>鹿排</Cell></Row>
+<Row><Cell>ui_nm_die_Ci</Cell><Cell>Ci die</Cell><Cell>“西”骰子</Cell></Row>
+<Row><Cell>ui_nm_dieFavourable</Cell><Cell>Favourable die</Cell><Cell>好运骰子</Cell></Row>
+<Row><Cell>ui_nm_dieKingdomCome</Cell><Cell>Heavenly Kingdom die</Cell><Cell>天国骰子</Cell></Row>
+<Row><Cell>ui_nm_die_Lu</Cell><Cell>Lu die</Cell><Cell>“路”骰子</Cell></Row>
+<Row><Cell>ui_nm_dieUnlucky</Cell><Cell>Die of misfortune</Cell><Cell>厄运骰子</Cell></Row>
+<Row><Cell>ui_nm_egg</Cell><Cell>Egg</Cell><Cell>蛋</Cell></Row>
+<Row><Cell>ui_nm_GambesonLong01_m01_C3_KHtournament_Henry</Cell><Cell>Tournament gambeson</Cell><Cell>比武软甲</Cell></Row>
+<Row><Cell>ui_nm_gambesonlong01_mdrowner</Cell><Cell>Drowner's gambeson</Cell><Cell>溺死者的软甲</Cell></Row>
+<Row><Cell>ui_nm_Gauntlets02_m01_B3_khTournament_Henry</Cell><Cell>Tournament gauntlets</Cell><Cell>比武护手</Cell></Row>
+<Row><Cell>ui_nm_gauntlets04_m01</Cell><Cell>Noble's gauntlets</Cell><Cell>贵族护手</Cell></Row>
+<Row><Cell>ui_nm_gauntlets08_m01</Cell><Cell>Brigandine gauntlets</Cell><Cell>层叠式护手</Cell></Row>
+<Row><Cell>ui_nm_gloves02_mdrowner</Cell><Cell>Drowned man's gloves</Cell><Cell>溺死者的手套</Cell></Row>
+<Row><Cell>ui_nm_griddlecake</Cell><Cell>Sweet pancake</Cell><Cell>甜煎饼</Cell></Row>
+<Row><Cell>ui_nm_handgonneNormal01</Cell><Cell>Pistole</Cell><Cell>手铳</Cell></Row>
+<Row><Cell>ui_nm_henrySword_reforged</Cell><Cell>Henry's sword reforged</Cell><Cell>重铸的亨利之剑</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_comfrey</Cell><Cell>Dried comfrey</Cell><Cell>干燥的紫草</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_hypericum</Cell><Cell>Dried St. John's wort</Cell><Cell>干燥的圣约翰草</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_mint</Cell><Cell>Dried mint</Cell><Cell>干燥的薄荷</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_nightshade</Cell><Cell>Dried henbane</Cell><Cell>干燥的天仙子</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_poppy</Cell><Cell>Dried poppy</Cell><Cell>干燥的罂粟</Cell></Row>
+<Row><Cell>ui_nm_herb_dried_urticaria</Cell><Cell>Dried nettle</Cell><Cell>干燥的荨麻</Cell></Row>
+<Row><Cell>ui_nm_herb_elderberry</Cell><Cell>Elderberry leaves</Cell><Cell>接骨木莓叶</Cell></Row>
+<Row><Cell>ui_nm_hood08_mdrowner</Cell><Cell>Drowner's hood</Cell><Cell>溺死者的兜帽</Cell></Row>
+<Row><Cell>ui_nm_hookgunNormal01</Cell><Cell>Hook gun</Cell><Cell>手炮</Cell></Row>
+<Row><Cell>ui_nm_horseMeatDried</Cell><Cell>Dried horse meat</Cell><Cell>风干马肉</Cell></Row>
+<Row><Cell>ui_nm_hosejoined01_mdrowner</Cell><Cell>Drowner's hose</Cell><Cell>溺死者的裤子</Cell></Row>
+<Row><Cell>ui_nm_huntingSwordBasic</Cell><Cell>Hunting sword</Cell><Cell>狩猎剑</Cell></Row>
+<Row><Cell>ui_nm_huntingSwordFalchion</Cell><Cell>Falchion</Cell><Cell>弯刃大刀</Cell></Row>
+<Row><Cell>ui_nm_KettleHat03_m01_B2_khTournament_Henry</Cell><Cell>Tournament kettle hat</Cell><Cell>比武水壶盔</Cell></Row>
+<Row><Cell>ui_nm_kovaniKatuvSleh_executionersSword</Cell><Cell>Executioner's sword</Cell><Cell>处刑剑</Cell></Row>
+<Row><Cell>ui_nm_kovaniKovarskaSoutez_huntingKnifeApprentice</Cell><Cell>Competition hunting sword</Cell><Cell>竞赛狩猎剑</Cell></Row>
+<Row><Cell>ui_nm_kovaniKovarskaSoutez_huntingKnifeForContest</Cell><Cell>Competition sword</Cell><Cell>竞赛剑</Cell></Row>
+<Row><Cell>ui_nm_kuttenbergBacon</Cell><Cell>Kuttenberg bacon</Cell><Cell>库滕堡培根</Cell></Row>
+<Row><Cell>ui_nm_lambMeatDried</Cell><Cell>Dried mutton</Cell><Cell>风干羊肉</Cell></Row>
+<Row><Cell>ui_nm_legsbrigandine01_m01</Cell><Cell>Old brigandine legs</Cell><Cell>老旧的层叠式护腿</Cell></Row>
+<Row><Cell>ui_nm_legsbrigandine03_m01</Cell><Cell>Noble brigandine legs</Cell><Cell>贵族层叠式护腿</Cell></Row>
+<Row><Cell>ui_nm_legsbrigandine_twitch</Cell><Cell>Warhorse plate leg armour</Cell><Cell>战马层叠式护腿</Cell></Row>
+<Row><Cell>ui_nm_legsplate02_m01</Cell><Cell>Milanese plate leg armour</Cell><Cell>米兰板甲护腿</Cell></Row>
+<Row><Cell>ui_nm_legsplate04_m01</Cell><Cell>Half plate legs</Cell><Cell>半板甲护腿</Cell></Row>
+<Row><Cell>ui_nm_legsplate05_m01Brunswig</Cell><Cell>Brunswick's plate leg armour</Cell><Cell>布伦瑞克的板甲护腿</Cell></Row>
+<Row><Cell>ui_nm_lepiotaDried</Cell><Cell>Dried lepiota</Cell><Cell>风干菌菇</Cell></Row>
+<Row><Cell>ui_nm_longswordBroad</Cell><Cell>Broad longsword</Cell><Cell>阔刃长剑</Cell></Row>
+<Row><Cell>ui_nm_longswordCommon</Cell><Cell>Common longsword</Cell><Cell>制式长剑</Cell></Row>
+<Row><Cell>ui_nm_longSwordDuel_khTournament</Cell><Cell>Tournament longsword</Cell><Cell>比武长剑</Cell></Row>
+<Row><Cell>ui_nm_longswordTraining</Cell><Cell>Training longsword</Cell><Cell>木制训练长剑</Cell></Row>
+<Row><Cell>ui_nm_loot_copperPlate</Cell><Cell>Copper plate</Cell><Cell>铜盘</Cell></Row>
+<Row><Cell>ui_nm_loot_goldenChalice</Cell><Cell>Golden chalice</Cell><Cell>金圣杯</Cell></Row>
+<Row><Cell>ui_nm_loot_tinPlate</Cell><Cell>Tin plate</Cell><Cell>锡盘</Cell></Row>
+<Row><Cell>ui_nm_mace01</Cell><Cell>Light mace</Cell><Cell>轻型页锤</Cell></Row>
+<Row><Cell>ui_nm_mace02</Cell><Cell>Common mace</Cell><Cell>制式狼牙棒</Cell></Row>
+<Row><Cell>ui_nm_mace03</Cell><Cell>Flanged mace</Cell><Cell>页锤</Cell></Row>
+<Row><Cell>ui_nm_mace04</Cell><Cell>Ornate mace</Cell><Cell>华丽的页锤</Cell></Row>
+<Row><Cell>ui_nm_maceBailiff</Cell><Cell>Bailiff's mace</Cell><Cell>执行官的钉头锤</Cell></Row>
+<Row><Cell>ui_nm_maceClubTraining</Cell><Cell>Training bludgeon</Cell><Cell>训练棒槌</Cell></Row>
+<Row><Cell>ui_nm_maceDagger</Cell><Cell>Dagger mace</Cell><Cell>匕首钉头锤</Cell></Row>
+<Row><Cell>ui_nm_maceHetman</Cell><Cell>Captain's mace</Cell><Cell>首领的钉头锤</Cell></Row>
+<Row><Cell>ui_nm_maceZizka</Cell><Cell>Zizka's mace</Cell><Cell>杰式卡的页锤</Cell></Row>
+<Row><Cell>ui_nm_maillong01_m01</Cell><Cell>Hauberk long</Cell><Cell>链甲长衫</Cell></Row>
+<Row><Cell>ui_nm_maillong02_m01</Cell><Cell>Saxon Hauberk</Cell><Cell>萨克森链甲衫</Cell></Row>
+<Row><Cell>ui_nm_mailshort01_m01</Cell><Cell>Short chainmail</Cell><Cell>短款链甲衫</Cell></Row>
+<Row><Cell>ui_nm_mailshort02_m01</Cell><Cell>Italian hauberk</Cell><Cell>意大利链甲衫</Cell></Row>
+<Row><Cell>ui_nm_necklace_golden_cross_garnet</Cell><Cell>Golden cross with garnets</Cell><Cell>金制石榴石十字架</Cell></Row>
+<Row><Cell>ui_nm_necklace_golden_cross_pearl</Cell><Cell>Golden cross with pearls</Cell><Cell>金制珍珠十字架</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_letter</Cell><Cell>Scapular with insignia</Cell><Cell>饰有徽章的肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_saint</Cell><Cell>Scapular with saint</Cell><Cell>圣人肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_scapular_window</Cell><Cell>Scapular with aperture</Cell><Cell>带孔肩带</Cell></Row>
+<Row><Cell>ui_nm_necklace_silver_cross_garnet</Cell><Cell>Silver cross with garnet</Cell><Cell>银制石榴石十字架</Cell></Row>
+<Row><Cell>ui_nm_necklace_silver_cross_insignia</Cell><Cell>Silver cross with insignia</Cell><Cell>饰有徽章的银制十字架</Cell></Row>
+<Row><Cell>ui_nm_noblebridle02_m01</Cell><Cell>Tournament bridle</Cell><Cell>比武马勒</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison01_m01</Cell><Cell>Tournament caparison decorated</Cell><Cell>比武饰马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison01_mLeipa</Cell><Cell>Tournament caparison in colours of Leipa</Cell><Cell>莱佩家族配色的比武马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison03_m01</Cell><Cell>Executioner's caparison decorated</Cell><Cell>刽子手装饰马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison03_mLeipa</Cell><Cell>Executioner’s caparison in colours of Leipa</Cell><Cell>莱佩家族配色的刽子手马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison04_m01</Cell><Cell>Executioner's caparison with harness</Cell><Cell>带马具的刽子手马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison07_m01</Cell><Cell>Executioner’s caparison with harness</Cell><Cell>带马具的刽子手马衣</Cell></Row>
+<Row><Cell>ui_nm_noblecaparison08_m01</Cell><Cell>Tournament caparison decorated</Cell><Cell>比武饰马衣</Cell></Row>
+<Row><Cell>ui_nm_paddedcaparison01_m01</Cell><Cell>Tournament caparison quilted</Cell><Cell>比武绗缝马衣</Cell></Row>
+<Row><Cell>ui_nm_paddedcaparison02_m01</Cell><Cell>Executioner's caparison quilted</Cell><Cell>刽子手绗缝马衣</Cell></Row>
+<Row><Cell>ui_nm_pear</Cell><Cell>Pear</Cell><Cell>梨</Cell></Row>
+<Row><Cell>ui_nm_pearCooked</Cell><Cell>Cooked pear</Cell><Cell>熟梨</Cell></Row>
+<Row><Cell>ui_nm_pearDried</Cell><Cell>Dried pear</Cell><Cell>梨干</Cell></Row>
+<Row><Cell>ui_nm_perfume_longWeak_best</Cell><Cell>Henry's Mintha perfume</Cell><Cell>亨利的薄荷香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_longWeak_high</Cell><Cell>Strong Mintha Perfume Effect</Cell><Cell>强效薄荷香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong</Cell><Cell>Weak Lion perfume   </Cell><Cell>微弱雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_best</Cell><Cell>Henry's Lion perfume</Cell><Cell>亨利的雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_high</Cell><Cell>Strong Lion Perfume</Cell><Cell>强效雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_perfume_shortStrong_medium</Cell><Cell>Lion perfume</Cell><Cell>雄狮香水</Cell></Row>
+<Row><Cell>ui_nm_pigMeatSmoked</Cell><Cell>Smoked pork</Cell><Cell>熏猪肉</Cell></Row>
+<Row><Cell>ui_nm_placeholder_maceHeavy</Cell><Cell>Heavy mace</Cell><Cell>重型钉头锤</Cell></Row>
+<Row><Cell>ui_nm_poi_duelOstrostrelcu_skillbook_crossbow</Cell><Cell>A treatise on the beauty of the crossbow</Cell><Cell>《弩之美论》</Cell></Row>
+<Row><Cell>ui_nm_poi_ratborschButcherAxe</Cell><Cell>Raborsch butcher's axe</Cell><Cell>拉博施屠户的斧头</Cell></Row>
+<Row><Cell>ui_nm_poi_vodnik_treasureMap</Cell><Cell>Drowner's map</Cell><Cell>溺死者的地图</Cell></Row>
+<Row><Cell>ui_nm_poi_vyplataDrevorubcu_key</Cell><Cell>Nest key</Cell><Cell>鸟窝里的钥匙</Cell></Row>
+<Row><Cell>ui_nm_polearmBruncvik</Cell><Cell>Brunswick's poleaxe</Cell><Cell>布伦瑞克的长柄斧</Cell></Row>
+<Row><Cell>ui_nm_polearmGlaive</Cell><Cell>Glaive</Cell><Cell>长柄刀</Cell></Row>
+<Row><Cell>ui_nm_poppyseedcake</Cell><Cell>Poppy seed kolach</Cell><Cell>罂粟籽派</Cell></Row>
+<Row><Cell>ui_nm_poPytlackeStezce_youngWhiteDeerHide</Cell><Cell>White roebuck's hide</Cell><Cell>白狍子皮</Cell></Row>
+<Row><Cell>ui_nm_potion_saviourSchnapps</Cell><Cell>Weak Saviour Schnapps</Cell><Cell>弱效救世烈酒</Cell></Row>
+<Row><Cell>ui_nm_potion_saviourSchnapps_best</Cell><Cell>Henry's Saviour Schnapps</Cell><Cell>亨利的救世烈酒</Cell></Row>
+<Row><Cell>ui_nm_potion_saviourSchnapps_high</Cell><Cell>Strong Saviour Schnapps</Cell><Cell>强效救世烈酒</Cell></Row>
+<Row><Cell>ui_nm_potion_saviourSchnapps_medium</Cell><Cell>Saviour Schnapps</Cell><Cell>救世烈酒</Cell></Row>
+<Row><Cell>ui_nm_poustevnik_oldBonesOfAmbrozBrother</Cell><Cell>Old bones</Cell><Cell>遗骨</Cell></Row>
+<Row><Cell>ui_nm_prepadeniVlasskehoDvora_juniperSchnapps</Cell><Cell>Juniper schnapps</Cell><Cell>杜松子烈酒</Cell></Row>
+<Row><Cell>ui_nm_recipe_absintiumPotion</Cell><Cell>Recipe for Artemisia potion</Cell><Cell>艾蒿药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_antidotePotion</Cell><Cell>Recipe for Digestive Potion</Cell><Cell>消化药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_axebattle01</Cell><Cell>Sketch – Bearded axe</Cell><Cell>胡须斧图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_axebattle02</Cell><Cell>Sketch – Broad axe</Cell><Cell>阔斧图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_axebattle03</Cell><Cell>Sketch – Horseman's pick</Cell><Cell>骑兵镐图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_axecuman</Cell><Cell>Sketch – Cuman fokos</Cell><Cell>库曼牧羊人斧头图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_banePotion</Cell><Cell>Bane poison recipe</Cell><Cell>“祸根”毒药配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_bardPotion</Cell><Cell>Recipe for Fox</Cell><Cell>狐狸药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_energyPotion</Cell><Cell>Cockerel recipe</Cell><Cell>公鸡药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_healthSmallPotion</Cell><Cell>Recipe for Marigold decoction</Cell><Cell>金盏花药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_hoochPotion</Cell><Cell>Moonshine recipe</Cell><Cell>私酒配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_horsemanPotion</Cell><Cell>Recipe for Aesop potion</Cell><Cell>伊索药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_huntingSwordBasic</Cell><Cell>Sketch – Hunting sword</Cell><Cell>狩猎剑图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_huntingswordfalchion</Cell><Cell>Sketch – Falchion</Cell><Cell>弯刃大刀图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_longswordbroad</Cell><Cell>Sketch – Broad longsword</Cell><Cell>阔刃长剑图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_longswordcommon</Cell><Cell>Sketch – Common longsword</Cell><Cell>制式长剑图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_nighthakwPotion</Cell><Cell>Recipe for Nighthawk Potion</Cell><Cell>夜鹰药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_paralysisPotion</Cell><Cell>Dollmaker poison recipe</Cell><Cell>“玩偶”毒药配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_perfumeLongWeak</Cell><Cell>Recipe for Mintha perfume</Cell><Cell>冥河仙女薄荷香水配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_polearmBruncvik</Cell><Cell>Sketch – Brunswick's poleaxe</Cell><Cell>布伦瑞克的长柄斧图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_respecPotion</Cell><Cell>Recipe for Lethean Water</Cell><Cell>冥河之水配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_sabrecommon</Cell><Cell>Sketch – Common sabre</Cell><Cell>制式军刀图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_savePotion</Cell><Cell>Recipe for Saviour Schnapps</Cell><Cell>救世烈酒的配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_shortswordceremony</Cell><Cell>Sketch – Noble's sword</Cell><Cell>贵族剑图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_shortswordcommon</Cell><Cell>Sketch – Military sword</Cell><Cell>武装剑图纸</Cell></Row>
+<Row><Cell>ui_nm_recipe_sleepPotion</Cell><Cell>Recipe for Lullaby potion </Cell><Cell>安眠药水配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_sneakPotion</Cell><Cell>Recipe for Quickfinger potion </Cell><Cell>巧手药剂配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_staminaPotion</Cell><Cell>Recipe for Buck's Blood</Cell><Cell>雄鹿之血配方</Cell></Row>
+<Row><Cell>ui_nm_recipe_vitalityPotion</Cell><Cell>Aqua Vitalis recipe</Cell><Cell>生命之水配方</Cell></Row>
+<Row><Cell>ui_nm_ring_golden_cross</Cell><Cell>Golden cross ring</Cell><Cell>金制十字架戒指</Cell></Row>
+<Row><Cell>ui_nm_r_kovaniKatuvSleh_executionersSword</Cell><Cell>Executioner's sword</Cell><Cell>处刑剑</Cell></Row>
+<Row><Cell>ui_nm_roeDeerMeatSmoked</Cell><Cell>Smoked venison</Cell><Cell>熏狍子肉</Cell></Row>
+<Row><Cell>ui_nm_sabrecommon</Cell><Cell>Common sabre</Cell><Cell>制式军刀</Cell></Row>
+<Row><Cell>ui_nm_sermiry_trainingSword</Cell><Cell>Training longsword</Cell><Cell>训练长剑</Cell></Row>
+<Row><Cell>ui_nm_shieldKiteTraining</Cell><Cell>Practice shield</Cell><Cell>训练盾牌</Cell></Row>
+<Row><Cell>ui_nm_shieldPavise_bergov</Cell><Cell>Trosky pavese</Cell><Cell>特罗斯基帕维斯巨盾</Cell></Row>
+<Row><Cell>ui_nm_shieldPavise_half</Cell><Cell>Halved pavese</Cell><Cell>双色帕维斯巨盾</Cell></Row>
+<Row><Cell>ui_nm_shieldPavise_hungary</Cell><Cell>Hungarian pavese</Cell><Cell>匈牙利帕维斯巨盾</Cell></Row>
+<Row><Cell>ui_nm_shieldPavise_painted</Cell><Cell>Painted pavese</Cell><Cell>涂绘帕维斯巨盾</Cell></Row>
+<Row><Cell>ui_nm_shieldPavise_prague</Cell><Cell>City of Prague pavese</Cell><Cell>布拉格城帕维斯巨盾</Cell></Row>
+<Row><Cell>ui_nm_shieldPavise_suchdol</Cell><Cell>Suchdol pavese</Cell><Cell>苏赫多尔帕维斯巨盾</Cell></Row>
+<Row><Cell>ui_nm_shortSwordBasilard</Cell><Cell>Basilard</Cell><Cell>巴塞拉德短剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordBroad</Cell><Cell>Broadsword</Cell><Cell>阔剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordCeremony</Cell><Cell>Noble's sword</Cell><Cell>贵族剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordcleaver</Cell><Cell>Homemade hunting sword</Cell><Cell>土制狩猎剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordCommon</Cell><Cell>Military sword</Cell><Cell>武装剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordCommon_khTournament</Cell><Cell>Tournament sword</Cell><Cell>比武剑</Cell></Row>
+<Row><Cell>ui_nm_shortswordTraining</Cell><Cell>Training sword</Cell><Cell>木制训练剑</Cell></Row>
+<Row><Cell>ui_nm_skin_roe</Cell><Cell>Roe-deer hide</Cell><Cell>狍子皮</Cell></Row>
+<Row><Cell>ui_nm_spirits</Cell><Cell>Schnapps</Cell><Cell>烈酒</Cell></Row>
+<Row><Cell>ui_nm_spravedlnost_ring</Cell><Cell>Silver cake ring</Cell><Cell>银制饼状戒指</Cell></Row>
+<Row><Cell>ui_nm_svatba_longswordTourname</Cell><Cell>Tournament practice sword</Cell><Cell>木制比武练习长剑</Cell></Row>
+<Row><Cell>ui_nm_taboryLapkuTrosecko_plesnivecMace</Cell><Cell>Canker's mace</Cell><Cell>“溃疡”的页锤</Cell></Row>
+<Row><Cell>ui_nm_the_die_e</Cell><Cell>Fer die</Cell><Cell>“法”骰子</Cell></Row>
+<Row><Cell>ui_nm_tournament_maceHerald</Cell><Cell>Tournament mace</Cell><Cell>比武钉头锤</Cell></Row>
+<Row><Cell>ui_nm_troutDried</Cell><Cell>Dried trout</Cell><Cell>风干鳟鱼</Cell></Row>
+<Row><Cell>ui_nm_troutSmoked</Cell><Cell>Smoked trout</Cell><Cell>熏鳟鱼</Cell></Row>
+<Row><Cell>ui_nm_Waffenrock08_mkhTournament_05_B_Henry</Cell><Cell>Tournament waffenrock</Cell><Cell>比武军服</Cell></Row>
+<Row><Cell>ui_nm_warhammer01</Cell><Cell>Common war hammer</Cell><Cell>制式战锤</Cell></Row>
+<Row><Cell>ui_nm_warhammer02</Cell><Cell>Rider's war hammer</Cell><Cell>骑兵战锤</Cell></Row>
+<Row><Cell>ui_nm_warhammer03_trollslayer</Cell><Cell>Trollbane hammer</Cell><Cell>巨魔克星战锤</Cell></Row>
+<Row><Cell>ui_nm_warhammer03_trollslayer_broken</Cell><Cell>Trollbane hammer stub</Cell><Cell>巨魔克星战锤的残骸</Cell></Row>
+<Row><Cell>ui_nm_warhammerRaven</Cell><Cell>Raven's beak</Cell><Cell>乌鸦的喙</Cell></Row>
+<Row><Cell>ui_nm_wolfMeatDried</Cell><Cell>Dried wolf meat</Cell><Cell>风干狼肉</Cell></Row>
+<Row><Cell>ui_nm_zachranaPtacka_trojak_die</Cell><Cell>Three die</Cell><Cell>出三骰子</Cell></Row>
+<Row><Cell>ui_null_silver</Cell><Cell>Use to cancel the effect of your opponent's Silver badge in the game.</Cell><Cell>使用后可取消对手的银制徽章效果。</Cell></Row>
+<Row><Cell>ui_reroll_dice_gold</Cell><Cell>After your throw, you can &lt;strong&gt;reroll up to three dice&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;重掷最多三颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_reroll_dice_plumb</Cell><Cell>After your throw, you can &lt;strong&gt;reroll a die of your choosing&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择任意一颗骰子，再次进行掷骰&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_reroll_dice_silver</Cell><Cell>After your throw, you can &lt;strong&gt;reroll up to 2 dice&lt;/strong&gt; Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;重掷最多两颗骰子&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_reroll_pips_gold</Cell><Cell>After your throw, you can &lt;strong&gt;reroll two dice with the same value&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择两课点数相同的骰子进行重掷&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_reroll_pips_silver</Cell><Cell>After your throw, you can &lt;strong&gt;reroll a die of your choosing&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择任意一颗骰子，再次进行掷骰&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_set_dice_gold</Cell><Cell>After your throw, &lt;strong&gt;change a die of your choosing to a 1&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择任意一颗骰子，将其点数更改为1&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_set_dice_plumb</Cell><Cell>After your throw, you can &lt;strong&gt;change a die of your choosing to a 3&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择任意一颗骰子，将其点数更改为3&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_set_dice_silver</Cell><Cell>After your throw, you can &lt;strong&gt;change a die of your choosing to a five&lt;/strong&gt;. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>掷骰后，你可以&lt;strong&gt;选择任意一颗骰子，将其点数更改为5&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>ui_test_dice_badge</Cell><Cell>Using it will &lt;strong&gt;double the score&lt;/strong&gt; of your last roll. Can be used &lt;strong&gt;once per game&lt;/strong&gt;.</Cell><Cell>使用后将你所选骰子的&lt;strong&gt;分数翻倍&lt;/strong&gt;。每局游戏可使用&lt;strong&gt;一次&lt;/strong&gt;。</Cell></Row>
+<Row><Cell>zizkaletter_fromsokolneba_fveV</Cell><Cell>&lt;paragraph&gt;My dear friend, unfortunately we will not meet as planned because the recent events in the Kingdom of Hungary have forced me to stay in Moravia. Of course, I cannot entrust more details to letters, but I am sure you will understand what I mean when I say the hunters are already gathering and the fox hunt will soon begin.&lt;/paragraph&gt;&lt;paragraph&gt;Along with the letter, I send you my shield, as there is no need to hide anymore, but rather to openly show what side are we on. May my coat of arms with a goat head bring you good luck and protect you in your righteous fight. God bless you!&lt;/paragraph&gt;&lt;paragraph&gt;Jan Sokol of Lamberg bearing a coat of arms with a goat head&lt;/paragraph&gt;</Cell><Cell>&lt;paragraph&gt;亲爱的朋友，很不幸，由于匈牙利王国最近的事态，我不得不留在摩拉维亚，我们原定的会面计划无法进行。在信中我不能透露更多细节，我只能说，猎人们已经聚集，猎狐计划即将开始。我相信你明白我的意思。&lt;/paragraph&gt;&lt;paragraph&gt;随信一同附上我的盾牌，这象征着我们已经无需隐匿，可以公开我们的立场。愿我刻有山羊头的盾牌能给你带来好运，在正义的战斗中保护你。愿上帝保佑你！&lt;/paragraph&gt;&lt;paragraph&gt;兰贝格的扬·索科尔与山羊头盾牌&lt;/paragraph&gt;</Cell></Row>
+</Table>
